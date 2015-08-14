@@ -4,6 +4,10 @@
 
 #EXTINF:-1, [COLOR yellow] Updated 14/08/2015 [/COLOR]
 
+<channels>
+
+<channel>
+
 #EXTINF:0,[COLOR blue] BT SPORT 1 [/COLOR]
 rtmp://37.187.130.88:1935/bt1streamer1
 
