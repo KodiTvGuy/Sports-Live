@@ -1,17 +1,16 @@
 #EXTM3U
 
-#EXTINF:-1,[COLOR lime green] Follow me on twitter @Koditvguy [/COLOR]
+#EXTINF:-1,[COLOR purple] Follow me on twitter @Koditvguy [/COLOR]
 
-#EXTINF:-1,[COLOR yellow] Updated 14/08/2015 [/COLOR]
 
-<channels>
 
-<channel>
+#EXTINF:-1,[COLOR yellow]--- Updated 14/08/2015 ---[/COLOR]
 
-#EXTINF:0,[COLOR blue] BT SPORT 1 [/COLOR]
+
+
+
+#EXTINF:-1,[COLOR blue] BT SPORT 1 [/COLOR]
 rtmp://37.187.130.88:1935/bt1streamer1
-</channel>
-</channels>
 
 #EXTINF:-1,[COLOR green] BT SPORT 2 [/COLOR] 
 rtmp://37.187.130.88:1935/bt2streamer1
