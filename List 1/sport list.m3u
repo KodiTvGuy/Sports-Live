@@ -4,7 +4,7 @@
 
 #EXTINF:-1, [COLOR yellow] Updated 14/08/2015 [/COLOR]
 
-#EXTINF:-1,[COLOR blue] BT SPORT 1 [/COLOR]
+#EXTINF:0,[COLOR blue] BT SPORT 1 [/COLOR]
 rtmp://37.187.130.88:1935/bt1streamer1
 
 #EXTINF:-1,[COLOR green] BT SPORT 2 [/COLOR] 
