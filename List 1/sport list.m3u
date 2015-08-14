@@ -1,0 +1,33 @@
+#EXTM3U
+
+#EXTINF:-1, [COLOR lime green]Follow me on twitter @Koditvguy [/COLOR]
+
+#EXTINF:-1, [COLOR yellow]Updated 14/08/2015 [/COLOR]
+
+#EXTINF:-1,[COLOR blue] BT SPORT 1 [/COLOR] rtmp://37.187.130.88:1935/bt1streamer1
+
+#EXTINF:-1,BT SPORT 2 rtmp://37.187.130.88:1935/bt2streamer1
+
+#EXTINF:-1,ESPN rtmp://37.187.130.88:1935/espn1streamer1
+
+#EXTINF:-1,ESPN 2 rtmp://37.187.130.88:1935/espn2streamer1
+
+#EXTINF:-1,SKYSPORT 1 rtmp://37.187.130.88:1935/skysport1vibe
+
+#EXTINF:-1,SKYSPORT 2 rtmp://37.187.130.88:1935/skysport2vibe
+
+#EXTINF:-1,SKYSPORT 3 rtmp://37.187.130.88:1935/skysport3vibe
+
+#EXTINF:-1,SKYSPORT 4 rtmp://37.187.130.88:1935/skysport4vibe
+
+#EXTINF:-1,SKYSPORT 5 rtmp://37.187.130.88:1935/skysport5vibe
+
+#EXTINF:-1,FOX SPORT 1 rtmp://37.187.130.88:1935/foxsports1streamer1
+
+#EXTINF:-1,FOX SPORT 2 rtmp://37.187.130.88:1935/foxsports1streamer1
+
+#EXTINF:-1,TSN 1 rtmp://37.187.130.88:1935/tsn1streamer1
+
+#EXTINF:-1,TSN 2 rtmp://37.187.130.88:1935/tsn2streamer1
+
+#EXTINF:-1,TSN 3 rtmp://37.187.130.88:1935/tsn3streamer1
