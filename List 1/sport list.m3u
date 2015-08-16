@@ -20,9 +20,6 @@ rtmp://37.187.130.88:1935/bt1streamer1
 #EXTINF:-1,[COLOR green] BT SPORT 2 [/COLOR] 
 rtmp://37.187.130.88:1935/bt2streamer1
 
-#EXTINF:-1,[COLOR blue] ESPN [/COLOR]
-rtmp://37.187.130.88:1935/espn1streamer1
-
 #EXTINF:-1,ESPN 2 
 rtmp://37.187.130.88:1935/espn2streamer1
 
