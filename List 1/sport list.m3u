@@ -20,9 +20,6 @@ rtmp://37.187.130.88:1935/bt2streamer1
 #EXTINF:-1,SKYSPORT 1 
 rtmp://37.187.130.88:1935/skysport1vibe
 
-#EXTINF:-1,SKYSPORT 2 
-rtmp://37.187.130.88:1935/skysport2vibe
-
 #EXTINF:-1,SKYSPORT 3 
 rtmp://37.187.130.88:1935/skysport3vibe
 
