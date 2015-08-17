@@ -1,0 +1,72 @@
+#EXTM3U
+
+
+
+#EXTINF:-1 group-title=" 18.00 friendly DINAMO DRESDEN - BAYERN MUNCHEN ",ARD de_opz 2
+http://81.92.105.134:5555/pl.m3u8?channel=100
+
+
+#EXTINF:-1 group-title=" 19.00 den SONDERJYSKE - HOBRO ",tv3 sport 1 ace
+acestream://bab64b62b2723074abe8fb0abc66dc34d6c47d9e
+
+
+#EXTINF:-1 group-title=" 19.05 swe ATVIDABERG - NORRKOPING ",c more sport se
+http://188.138.9.228:8023
+
+
+#EXTINF:-1 group-title=" 20.15 ger2 NUREMBERG - 1860 MUNICH ",sport 1 de
+http://81.92.105.134:5555/pl.m3u8?channel=54
+#EXTINF:-1 group-title=" 20.15 ger2 NUREMBERG - 1860 MUNICH ",sport 1 de
+http://streaming-hub.com/tv/i/sport1_1@97464/index_1300_av-p.m3u8?sd=10&rebase=on
+#EXTINF:-1 group-title=" 20.15 ger2 NUREMBERG - 1860 MUNICH ",bt sport europe uk (thx sesamotto)
+http://37.187.149.103:8000/live/9f1617ad80c3059c/c327ea13c0d02f57/147.m3u8
+
+
+#EXTINF:-1 group-title=" 21.00 eng LIVERPOOL - BOURNEMOUTH ",sky sports 1 uk
+rtmp://$OPT:rtmp-raw=rtmp://80.82.64.140:443/liverepeater playpath=1 pageUrl=http://popeoftheplayers.eu/ token=#atd%#$ZH
+#EXTINF:-1 group-title=" 21.00 eng LIVERPOOL - BOURNEMOUTH ",tv3 sport 2 ace
+acestream://cdec8b65314f3e83ca5f6f6f1fe89e48721fd496
+#EXTINF:-1 group-title=" 21.00 eng LIVERPOOL - BOURNEMOUTH ",viasat sport baltic ace
+acestream://cbb4764ca8a7edd9a26533acad103fa2d5965d10
+
+
+#EXTINF:-1 group-title=" 21.00 por PACOS FERREIRA - ACADEMICA ",sport tv 1 pt
+rtmp://$OPT:rtmp-raw=rtmpe://5.153.233.106:443/share/ playpath=live1-rbi6c swfUrl=http://sharecast.to/player/player20.swf live=1 timeout=13 pageUrl=http://sharecast.to/
+
+#EXTINF:-1 group-title=" 21.00 ita.cup MILAN - PERUGIA ",rai3 it
+http://httpstream2.rai.it/Italy/rai3.isml/QualityLevels(1856000)/manifest(format=m3u8-aapl).m3u8
+#EXTINF:-1 group-title=" 21.00 ita.cup MILAN - PERUGIA ",rai3 it_2
+http://origin2.live.web.tv.streamprovider.net/streams/2946613af1f663bb5b4164131b8c9413/index.m3u8
+
+#EXTINF:-1 group-title=" 22.00 spa.Supercup.2nd leg BARCELONA - BILBAO (0-4) ",la7 it
+http://la7live-lh.akamaihd.net/i/test_1@143593/master.m3u8
+#EXTINF:-1 group-title=" 22.00 spa.Supercup.2nd leg BARCELONA - BILBAO (0-4) ",irib varzesh ir
+http://63.237.48.3/ios/VARZESH_TV/VARZESH_TV.m3u8
+#EXTINF:-1 group-title=" 22.00 spa.Supercup.2nd leg BARCELONA - BILBAO (0-4) ",sky sports 4 uk
+rtmp://$OPT:rtmp-raw=rtmp://80.82.64.140:443/liverepeater playpath=4 pageUrl=http://popeoftheplayers.eu/ token=#atd%#$ZH
+#EXTINF:-1 group-title=" 22.00 spa.Supercup.2nd leg BARCELONA - BILBAO (0-4) ",sport 1 ru
+http://hls.svc.moyo.tv/hls/CH_SPORT1HD/bw3378000/variant.m3u8?version=2
+#EXTINF:-1 group-title=" 22.00 spa.Supercup.2nd leg BARCELONA - BILBAO (0-4) ",supersport 2 al
+http://81.7.13.162/hls/ss2/index.m3u8
+#EXTINF:-1 group-title=" 22.00 spa.Supercup.2nd leg BARCELONA - BILBAO (0-4) ",telecinco es
+http://mdsios1-lh.akamaihd.net/i/mitele/esmediaset_11@168471/index_0_av-b.m3u8
+#EXTINF:-1 group-title=" 22.00 spa.Supercup.2nd leg BARCELONA - BILBAO (0-4) ",tv3 catalunya
+http://ccma-tva-Int-abertis-live.hls.adaptive.level3.net/Int/ngrp:tv3_web/playlist.m3u8
+
+
+#EXTINF:-1 group-title=" 23.00 arg RIVER PLATE - SAN MARTIN ",sport tv 2 pt
+rtmp://$OPT:rtmp-raw=rtmpe://5.153.233.106:443/share/ playpath=live2-bipmr swfUrl=http://sharecast.to/player/player20.swf live=1 timeout=13 pageUrl=http://sharecast.to/
+#EXTINF:-1 group-title=" 23.00 arg RIVER PLATE - SAN MARTIN ",tv publica ar
+rtmp://live-edge01.telecentro.net.ar:1935/live/tvphd-180
+#EXTINF:-1 group-title=" 23.00 arg RIVER PLATE - SAN MARTIN ",tv publica ar_opz 2
+http://live-edge01.telecentro.net.ar:1935/live/tvphd-360/playlist.m3u8?
+#EXTINF:-1 group-title=" 23.00 arg RIVER PLATE - SAN MARTIN ",tv publica ar_opz 3
+http://live-edge01.telecentro.net.ar:1935/live/tvphd-720/playlist.m3u8?
+
+
+#EXTINF:-1 group-title=" 2.10 arg QUILMES - ROSARIO CENTRAL ",tv publica ar
+rtmp://live-edge01.telecentro.net.ar:1935/live/tvphd-180
+#EXTINF:-1 group-title=" 2.10 arg QUILMES - ROSARIO CENTRAL ",tv publica ar_opz 2
+http://live-edge01.telecentro.net.ar:1935/live/tvphd-360/playlist.m3u8?
+#EXTINF:-1 group-title=" 2.10 arg QUILMES - ROSARIO CENTRAL ",tv publica ar_opz 3
+http://live-edge01.telecentro.net.ar:1935/live/tvphd-720/playlist.m3u8?
