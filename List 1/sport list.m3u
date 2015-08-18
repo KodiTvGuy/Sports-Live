@@ -14,32 +14,29 @@
 
 
 
-#EXTINF:-1,[COLOR green] BT SPORT 2 [/COLOR] 
-rtmp://37.187.130.88:1935/bt2streamer1
+#EXTINF:0,Sky Sports 1
+http://84.232.5.115/liveedge/skysp1.stream/playlist.m3u8
 
-#EXTINF:-1,SKYSPORT 1 
-rtmp://37.187.130.88:1935/skysport1vibe
+#EXTINF:0,Sky Sports 2
+http://84.232.5.115/liveedge/skysp2.stream/playlist.m3u8
 
-#EXTINF:-1,SKYSPORT 3 
-rtmp://37.187.130.88:1935/skysport3vibe
+#EXTINF:0,Sky Sports 3
+http://84.232.5.115/liveedge/skysp3.stream/playlist.m3u8
 
-#EXTINF:-1,SKYSPORT 4 
-rtmp://37.187.130.88:1935/skysport4vibe
+#EXTINF:0,Sky Sports 4
+http://84.232.5.115/liveedge/skysp4.stream/playlist.m3u8
 
-#EXTINF:-1,SKYSPORT 5 
-rtmp://37.187.130.88:1935/skysport5vibe
+#EXTINF:0,Sky Sports 5
+http://84.232.5.115/liveedge/skysp5.stream/playlist.m3u8
 
-#EXTINF:-1,FOX SPORT 1 
-rtmp://37.187.130.88:1935/foxsports1streamer1
+#EXTINF:0,Sky Sports F1
+http://84.232.5.115/liveedge/skyspf1.stream/playlist.m3u8
 
-#EXTINF:-1,FOX SPORT 2 
-rtmp://37.187.130.88:1935/foxsports1streamer1
+#EXTINF:0,BT Sport 1
+http://84.232.5.115/liveedge/bt1.stream/playlist.m3u8
 
-#EXTINF:-1,TSN 1 
-rtmp://37.187.130.88:1935/tsn1streamer1
+#EXTINF:0,BT Sport 2
+http://84.232.5.115/liveedge/bt2.stream/playlist.m3u8
 
-#EXTINF:-1,TSN 2 
-rtmp://37.187.130.88:1935/tsn2streamer1
-
-#EXTINF:-1,TSN 3 
-rtmp://37.187.130.88:1935/tsn3streamer1
+#EXTINF:0,BT SPORTS EUROPE
+http://37.187.149.103:8000/live/9f1617ad80c3059c/c327ea13c0d02f57/147.m3u8
