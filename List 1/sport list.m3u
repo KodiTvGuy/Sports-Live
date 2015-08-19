@@ -3,6 +3,53 @@
 #EXTINF:-1, [COLOR orange]FOLLOW ME ON TWITTER @Koditvguy [/COLOR]
 
 
+#EXTINF:-1, Sky sports 1 HD
+rtmp://80.82.64.140:443/liverepeater playpath=33 pageUrl=http://popeoftheplayers.eu/ token=#atd%#$ZH
+ 
+#EXTINF:-1, Sky sports 3 HD
+rtmp://80.82.64.140:443/liverepeater playpath=3 pageUrl=http://popeoftheplayers.eu/ token=#atd%#$ZH
+ 
+#EXTINF:-1, Sky sports 4 HD
+rtmp://80.82.64.140:443/liverepeater playpath=4 pageUrl=http://popeoftheplayers.eu/ token=#atd%#$ZH
+ 
+#EXTINF:-1, Sky sports 5
+rtmp://80.82.64.140:443/liverepeater playpath=5 pageUrl=http://popeoftheplayers.eu/ token=#atd%#$ZH
+ 
+#EXTINF:-1, BT sport 1 Espn
+rtmp://80.82.64.140:443/liverepeater playpath=11 pageUrl=http://popeoftheplayers.eu/ token=#atd%#$ZH
+ 
+#EXTINF:-1, WWE
+rtmp://80.82.64.140:443/liverepeater playpath=13 pageUrl=http://popeoftheplayers.eu/ token=#atd%#$ZH
+ 
+#EXTINF:-1, BT sport 1
+rtmp://80.82.64.140:443/liverepeater playpath=34 pageUrl=http://popeoftheplayers.eu/ token=#atd%#$ZH
+ 
+#EXTINF:-1, BT sport 2 HD
+rtmp://80.82.64.140:443/liverepeater playpath=36 pageUrl=http://popeoftheplayers.eu/ token=#atd%#$ZH
+ 
+#EXTINF:-1, Euro sport
+rtmp://80.82.64.140:443/liverepeater playpath=9 pageUrl=http://popeoftheplayers.eu/ token=#atd%#$ZH
+ 
+#EXTINF:-1, Euro sport HD
+rtmp://80.82.64.140:443/liverepeater playpath=10 pageUrl=http://popeoftheplayers.eu/ token=#atd%#$ZH
+ 
+#EXTINF:-1, ESPN 2 SD
+rtmp://kv2.ts33.net/sat/us152
+ 
+#EXTINF:-1, Fox Sports 3 HD China
+rtmp://kv2.ts33.net/sat/us162
+ 
+#EXTINF:-1, Eurosport DE
+http://streaming-hub.com/tv/i/eurosportde_1@97452/index_1300_av-p.m3u8?sd=10&rebase=on
+ 
+#EXTINF:-1, ESPN HD EN
+http://80.80.160.168/live/6/live.m3u8
+ 
+#EXTINF:-1, Eurosport Ru/En
+http://91.193.124.5:8000/eurosport
+ 
+#EXTINF:-1, Eurosport 2  Ru/En
+http://91.193.124.5:8000/eurosport2
 
 EXTINF:-1,AR_beINSport1HD,
 http://178.33.88.129:888/udp/239.102.0.4:1234
