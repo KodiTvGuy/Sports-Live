@@ -1,189 +1,43 @@
 #EXTM3U
 
 #EXTINF:-1, [COLOR orange]FOLLOW ME ON TWITTER @Koditvguy [/COLOR]
+ 
 
+#EXTINF:0,Sky Sports 1
+http://84.232.5.115/liveedge3/skysp1.stream/playlist.m3u8
 
-#EXTINF:-1,Bein Sports 1 
-http://s1.livetvindia.co.in:8000/live/sportstvo2/JHhNmmKlss451A/37.ts?1234
+#EXTINF:0,Sky Sports 2
+http://84.232.5.115/liveedge3/skysp2.stream/playlist.m3u8
 
-#EXTINF:0,Bein Sports 2
-http://s1.livetvindia.co.in:8000/live/sportstvo2/JHhNmmKlss451A/38.ts?1234
+#EXTINF:0,Sky Sports 3
+http://84.232.5.115/liveedge3/skysp3.stream/playlist.m3u8
 
-#EXTINF:0,Bein Sports 3
-http://s1.livetvindia.co.in:8000/live/sportstvo2/JHhNmmKlss451A/39.ts?1234
+#EXTINF:0,Sky Sports 4
+http://84.232.5.115/liveedge3/skysp4.stream/playlist.m3u8
 
-#EXTINF:0,Bein Sports 4
-http://s1.livetvindia.co.in:8000/live/sportstvo2/JHhNmmKlss451A/40.ts?1234
+#EXTINF:0,Sky Sports 5
+http://84.232.5.115/liveedge3/skysp5.stream/playlist.m3u8
 
-#EXTINF:0,Bein Sports 5
-http://s1.livetvindia.co.in:8000/live/sportstvo2/JHhNmmKlss451A/41.ts?1234
-
-#EXTINF:0,Bein Sports 6
-http://s1.livetvindia.co.in:8000/live/sportstvo2/JHhNmmKlss451A/42.ts?1234
-
-#EXTINF:0,Bein Sports 7
-http://s1.livetvindia.co.in:8000/live/sportstvo2/JHhNmmKlss451A/43.ts?1234
-
-#EXTINF:0,Bein Sports 8
-http://s1.livetvindia.co.in:8000/live/sportstvo2/JHhNmmKlss451A/44.ts?1234
-
-#EXTINF:0,Bein Sports 9
-http://s1.livetvindia.co.in:8000/live/sportstvo2/JHhNmmKlss451A/45.ts?1234
-
-#EXTINF:0,Bein Sports 10
-http://s1.livetvindia.co.in:8000/live/sportstvo2/JHhNmmKlss451A/46.ts?1234
-
-#EXTINF:0,Bein Sports 11
-http://s1.livetvindia.co.in:8000/live/sportstvo2/JHhNmmKlss451A/47.ts?1234
-
-#EXTINF:0,Bein Sports 12
-http://s1.livetvindia.co.in:8000/live/sportstvo2/JHhNmmKlss451A/48.ts?1234
-
-#EXTINF:0,Bein Sports 1 FR
-http://s1.livetvindia.co.in:8000/live/sportstvo2/JHhNmmKlss451A/32.ts?1234
-
-#EXTINF:0,Bein Sports 2 FR
-http://s1.livetvindia.co.in:8000/live/sportstvo2/JHhNmmKlss451A/33.ts?1234
-
-#EXTINF:0,Bein Sports 3 FR 
-http://s1.livetvindia.co.in:8000/live/sportstvo2/JHhNmmKlss451A/34.ts?1234
-
-#EXTINF:0,sportstvo2 1 
-http://s1.livetvindia.co.in:8000/live/sportstvo2/JHhNmmKlss451A/3.ts?1234
-
-#EXTINF:0,sportstvo2 2
-http://s1.livetvindia.co.in:8000/live/sportstvo2/JHhNmmKlss451A/4.ts?1234
-
-#EXTINF:0,sportstvo2 3
-http://s1.livetvindia.co.in:8000/live/sportstvo2/JHhNmmKlss451A/5.ts?1234
-
-#EXTINF:0,SkySport 1 HD
-http://s1.livetvindia.co.in:8000/live/sportstvo2/JHhNmmKlss451A/92.ts?1234
-
-#EXTINF:0,SkySport 2 HD
-http://s1.livetvindia.co.in:8000/live/sportstvo2/JHhNmmKlss451A/93.ts?1234
-
-#EXTINF:0,SkySport 3 HD
-http://s1.livetvindia.co.in:8000/live/sportstvo2/JHhNmmKlss451A/94.ts?1234
-
-#EXTINF:0,SkySport 4 HD
-http://s1.livetvindia.co.in:8000/live/sportstvo2/JHhNmmKlss451A/95.ts?1234
-
-#EXTINF:0,SkySport 5 HD
-http://s1.livetvindia.co.in:8000/live/sportstvo2/JHhNmmKlss451A/96.ts?1234
-
-#EXTINF:0,SkySport F1 HD
-http://s1.livetvindia.co.in:8000/live/sportstvo2/JHhNmmKlss451A/97.ts?1234
-
-#EXTINF:0,SkySport News HD
-http://s1.livetvindia.co.in:8000/live/sportstvo2/JHhNmmKlss451A/98.ts?1234
+#EXTINF:0,Sky Sports F1
+http://84.232.5.115/liveedge3/skyspf1.stream/playlist.m3u8
 
 #EXTINF:0,BT Sport 1
-http://s1.livetvindia.co.in:8000/live/sportstvo2/JHhNmmKlss451A/62.ts?1234
+http://84.232.5.115/liveedge3/bt1.stream/playlist.m3u8
 
 #EXTINF:0,BT Sport 2
-http://s1.livetvindia.co.in:8000/live/sportstvo2/JHhNmmKlss451A/63.ts?1234
+http://84.232.5.115/liveedge3/bt2.stream/playlist.m3u8
 
-#EXTINF:0,BT Sport Europe High
-http://s1.livetvindia.co.in:8000/live/sportstvo2/JHhNmmKlss451A/64.ts?1234
+#EXTINF:0,Premier Sports
+http://84.232.5.115/liveedge3/premier.stream/stream/playlist.m3u8
 
-#EXTINF:0,Euro Sport 1
-http://s1.livetvindia.co.in:8000/live/sportstvo2/JHhNmmKlss451A/67.ts?1234
+#EXTINF:0,Setanta Sport
+http://84.232.5.115/liveedge3/setanta.stream/stream/playlist.m3u8
 
-#EXTINF:0,Euro Sport 1
-http://s1.livetvindia.co.in:8000/live/sportstvo2/JHhNmmKlss451A/68.ts?1234
+#EXTINF:0,Motors TV
+http://84.232.5.115/liveedge3/motors.stream/stream/playlist.m3u8
 
-#EXTINF:0,Fox Sport 1 HD USA
-http://s1.livetvindia.co.in:8000/live/sportstvo2/JHhNmmKlss451A/102.ts?1234
+#EXTINF:0,Eurosport 1
+http://84.232.5.115/liveedge3/eurosport.stream/stream/playlist.m3u8
 
-#EXTINF:0,Fox Sport 2 HD USA
-http://s1.livetvindia.co.in:8000/live/sportstvo2/JHhNmmKlss451A/103.ts?1234
-
-#EXTINF:0,Fox Sport 1 HD NL
-http://s1.livetvindia.co.in:8000/live/sportstvo2/JHhNmmKlss451A/6.ts?1234
-
-#EXTINF:0,Fox Sport 2 HD NL
-http://s1.livetvindia.co.in:8000/live/sportstvo2/JHhNmmKlss451A/7.ts?1234
-
-#EXTINF:0,Fox Sport 3 HD NL
-http://s1.livetvindia.co.in:8000/live/sportstvo2/JHhNmmKlss451A/8.ts?1234
-
-#EXTINF:0,Fox Sport 4 HD NL
-http://s1.livetvindia.co.in:8000/live/sportstvo2/JHhNmmKlss451A/9.ts?1234
-
-#EXTINF:0,Fox Sport 5 HD NL
-http://s1.livetvindia.co.in:8000/live/sportstvo2/JHhNmmKlss451A/10.ts?1234
-
-#EXTINF:0,Sky Bundesliga HD 1
-http://s1.livetvindia.co.in:8000/live/sportstvo2/JHhNmmKlss451A/77.ts?1234
-
-#EXTINF:0,Sky Bundesliga HD 2
-http://s1.livetvindia.co.in:8000/live/sportstvo2/JHhNmmKlss451A/78.ts?1234
-
-#EXTINF:0,Sky Bundesliga HD 3
-http://s1.livetvindia.co.in:8000/live/sportstvo2/JHhNmmKlss451A/79.ts?1234
-
-#EXTINF:0,Sky Bundesliga HD 4
-http://s1.livetvindia.co.in:8000/live/sportstvo2/JHhNmmKlss451A/80.ts?1234
-
-#EXTINF:0,Sky Bundesliga HD 5
-http://s1.livetvindia.co.in:8000/live/sportstvo2/JHhNmmKlss451A/81.ts?1234
-
-#EXTINF:0,Sky Bundesliga HD 6
-http://s1.livetvindia.co.in:8000/live/sportstvo2/JHhNmmKlss451A/82.ts?1234
-
-#EXTINF:0,Sky Bundesliga HD 7
-http://s1.livetvindia.co.in:8000/live/sportstvo2/JHhNmmKlss451A/83.ts?1234
-
-#EXTINF:0,Sky Bundesliga HD 8
-http://s1.livetvindia.co.in:8000/live/sportstvo2/JHhNmmKlss451A/84.ts?1234
-
-#EXTINF:0,Sky Bundesliga HD 9
-http://s1.livetvindia.co.in:8000/live/sportstvo2/JHhNmmKlss451A/85.ts?1234
-
-#EXTINF:0,Sky Bundesliga HD 10
-http://s1.livetvindia.co.in:8000/live/sportstvo2/JHhNmmKlss451A/86.ts?1234
-
-#EXTINF:0,Sky Sport 1 HD IT
-http://s1.livetvindia.co.in:8000/live/sportstvo2/JHhNmmKlss451A/110.ts?1234
-
-#EXTINF:0,Sky Sport 2 HD IT
-http://s1.livetvindia.co.in:8000/live/sportstvo2/JHhNmmKlss451A/111.ts?1234
-
-#EXTINF:0,Sky Sport 3 HD IT
-http://s1.livetvindia.co.in:8000/live/sportstvo2/JHhNmmKlss451A/112.ts?1234
-
-#EXTINF:0,Sky Sport 24 HD IT
-http://s1.livetvindia.co.in:8000/live/sportstvo2/JHhNmmKlss451A/12.ts?1234
-
-#EXTINF:0,ESPN UK
-http://s1.livetvindia.co.in:8000/live/sportstvo2/JHhNmmKlss451A/64.ts?1234
-
-#EXTINF:0,ESPN USA
-http://s1.livetvindia.co.in:8000/live/sportstvo2/JHhNmmKlss451A/65.ts?1234
-
-#EXTINF:0,ESPN USA 2
-http://s1.livetvindia.co.in:8000/live/sportstvo2/JHhNmmKlss451A/66.ts?1234
-
-#EXTINF:0,Arena Sport 1 
-http://s1.livetvindia.co.in:8000/live/sportstvo2/JHhNmmKlss451A/23.ts?1234
-
-#EXTINF:0,Arena Sport 2 
-http://s1.livetvindia.co.in:8000/live/sportstvo2/JHhNmmKlss451A/24.ts?1234
-
-#EXTINF:0,Arena Sport 3 
-http://s1.livetvindia.co.in:8000/live/sportstvo2/JHhNmmKlss451A/25.ts?1234
-
-#EXTINF:0,Arena Sport 4
-http://s1.livetvindia.co.in:8000/live/sportstvo2/JHhNmmKlss451A/26.ts?1234
-
-#EXTINF:0,Sport Klub 1 HD
-http://s1.livetvindia.co.in:8000/live/sportstvo2/JHhNmmKlss451A/104.ts?1234
-
-#EXTINF:0,Sport Klub 2 HD
-http://s1.livetvindia.co.in:8000/live/sportstvo2/JHhNmmKlss451A/105.ts?1234
-
-#EXTINF:0,Sport Klub 3 HD
-http://s1.livetvindia.co.in:8000/live/sportstvo2/JHhNmmKlss451A/106.ts?1234
-
-
+#EXTINF:0,Eurosport 2
+http://84.232.5.115/liveedge3/eurosport2.stream/playlist.m3u8
