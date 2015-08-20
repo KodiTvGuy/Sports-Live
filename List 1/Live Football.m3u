@@ -12,59 +12,60 @@
 #EXTINF:-1 group-title=" 17.00 tennis CINCINNATI ",silk sport 3 ge
 http://80.77.52.6:3719/udp/226.0.0.9:12345
 
-#EXTINF:-1 group-title=" 18.00 eur.lea DINAMO MINSK - SALZBURG ",[COLOR green]18.00 eur.lea DINAMO MINSK - SALZBURG[/COLOR]
+#EXTINF:-1,DINAMO MINSK - SALZBURG
 http://streameo.altervista.org/forum/index.php
 
-#EXTINF:-1 group-title=" 18.00 eur.lea DINAMO MINSK - SALZBURG ",puls 4 at
+#EXTINF:-1,DINAMO MINSK - SALZBURG
 http://81.92.105.134:5555/pl.m3u8?channel=85
 
 
-#EXTINF:-1 group-title=" 18.00 eur.lea QABALA - PANATHINAIKOS ",idman tv Az
+#EXTINF:-1,18.00 QABALA - PANATHINAIKOS
 http://149.255.152.70:80/idman/index.m3u8
 
 
-#EXTINF:-1 group-title=" 18.15 den1 VEJLE - NAESTVED ",tv3 sport 1 ace
+#EXTINF:-1,18.15 VEJLE - NAESTVED
 acestream://bab64b62b2723074abe8fb0abc66dc34d6c47d9e
 
 
-#EXTINF:-1 group-title=" 19.00 eur.lea SLOVAN LIBEREC - HAJDUK SPLIT ",hrt 2 hr
+#EXTINF:-1,19.00 SLOVAN LIBEREC - HAJDUK SPLIT
 http://213.5.58.58:1935/hrt_live/smil:hrt2.smil/nesto.m3u8
 
-#EXTINF:-1 group-title=" 20.00 eur.lea YOUNG BOYS - GARABAGH ",[COLOR green]20.00 eur.lea YOUNG BOYS - GARABAGH[/COLOR]
+#EXTINF:-1,20.00 YOUNG BOYS - GARABAGH
 http://list_made_by_lucaucca_at->pastebin.com/2Z7VsJwt
 
-#EXTINF:-1 group-title=" 20.00 eur.lea YOUNG BOYS - GARABAGH ",idman tv Az
+#EXTINF:-1,20.00 YOUNG BOYS - GARABAGH
 http://149.255.152.70:80/idman/index.m3u8
 
 
-#EXTINF:-1 group-title=" 20.30 eur.lea ALTACH - BELENENSES ",orf 1 at
+#EXTINF:-1,20.30 ALTACH - BELENENSES
 http://81.92.105.134:5555/pl.m3u8?channel=7
 
 
-#EXTINF:-1 group-title=" 20.30 eur.lea ODD GRENLAND - BOR.DORTMUND ",ARD de_opz 3
+#EXTINF:-1,20.30 ODD GRENLAND - BOR.DORTMUND
 http://81.92.105.134:5555/pl.m3u8?channel=4
 
 
-#EXTINF:-1 group-title=" 20.30 eur.lea BORDEAUX - KAIRAT ALMATY ",beIN sports FR 1
+#EXTINF:-1,20.30 BORDEAUX - KAIRAT ALMATY
 rtmp://176.10.250.166:1935/tv/stream3
 
 
-#EXTINF:-1 group-title=" 21.00 eur.lea SOUTHAMPTON - MIDTJYLLAND ",bt sport europe uk
+#EXTINF:-1,21.00 eur.lea SOUTHAMPTON - MIDTJYLLAND
 rtmp://$OPT:rtmp-raw=rtmp://80.82.64.140:443/liverepeater playpath=14 pageUrl=http://popeoftheplayers.eu/ token=#atd%#$ZH
 
 
-#EXTINF:-1 group-title=" 22.00 cycling TOUR of COLORADO stage 4 ",eurosport 2 uk
+#EXTINF:-1,22.00 cycling TOUR of COLORADO
 rtmp://$OPT:rtmp-raw=rtmp://80.82.64.140:443/liverepeater playpath=10 pageUrl=http://popeoftheplayers.eu/ token=#atd%#$ZH
 
-#EXTINF:-1 group-title=" 2.30 bra.cup SAO PAULO - CEARA ",sport tv 1 pt
+#EXTINF:-1,2.30 SAO PAULO - CEARA
 rtmp://$OPT:rtmp-raw=rtmpe://5.153.233.106:443/share/ playpath=live1-rbi6c swfUrl=http://sharecast.to/player/player20.swf live=1 timeout=13 pageUrl=http://sharecast.to/
 
-#EXTINF:-1 group-title=" 2.30 bra.cup SAO PAULO - CEARA ",arena sport 3 sr
+#EXTINF:-1,2.30 SAO PAULO - CEARA
 http://www.nasatv.eu:80/live?channelId=18&uid=18&deviceUser=zine&devicePass=zine
 
 
-#EXTINF:-1 group-title=" 4.30 cop.sudam SANTA FE - LDU LOJA ",sport tv 2 pt
+#EXTINF:-1,4.30 SANTA FE - LDU LOJA
 rtmp://$OPT:rtmp-raw=rtmpe://5.153.233.106:443/share/ playpath=live2-bipmr swfUrl=http://sharecast.to/player/player20.swf live=1 timeout=13 pageUrl=http://sharecast.to/
 
-#EXTINF:-1 group-title=" 4.30 cop.sudam SANTA FE - LDU LOJA ",arena sport 1 sr
+#EXTINF:-1,4.30 SANTA FE - LDU LOJA
 http://www.nasatv.eu:80/live?channelId=16&uid=18&deviceUser=zine&devicePass=zine
+
