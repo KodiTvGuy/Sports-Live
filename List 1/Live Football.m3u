@@ -1,31 +1,70 @@
 #EXTM3U
 
+#EXTINF:-1, [COLOR orange]FOLLOW ME ON TWITTER @Koditvguy [/COLOR]
 
 
-EXTINF:-1,AR_beINSport1HD,
-http://178.33.88.129:888/udp/239.102.0.4:1234
-EXTINF:-1,AR_beINSport2HD,
-http://178.33.88.129:888/udp/239.102.0.2:1234
-EXTINF:-1,AR_beINSport3HD,
-http://bit.ly/1gUqMa3
-EXTINF:-1,AR_beINSport4HD,
-http://178.33.88.129:888/udp/239.102.0.5:1234
-EXTINF:-1,AR_beINSport5HD,
-http://178.33.88.129:888/udp/239.102.0.6:1234
-EXTINF:-1,:AR_beINSport6HD,
-http://178.33.88.129:888/udp/239.102.0.7:1234
-EXTINF:-1,AR_beINSport7HD,
-http://178.33.88.129:888/udp/239.102.0.8:1234
-EXTINF:-1,AR_beINSport8HD,
-http://178.33.88.129:888/udp/239.102.0.9:1234
-EXTINF:-1,AR_beINSport9HD,
-http://178.33.88.129:888/udp/239.102.0.10:1234
-EXTINF:-1,AR_beINSport10HD,
-http://178.33.88.129:888/udp/239.102.0.11:1234
-EXTINF:-1,FR_beINSport1
-http://178.33.88.129:888/udp/239.102.0.15:1234
-EXTINF:-1,FR_beINSport2
-http://178.33.88.129:888/udp/239.102.0.16:1234
-EXTINF:-1,FR_beINSport3
-http://178.33.88.129:888/udp/239.102.0.17:1234
 
+
+
+
+
+
+#EXTINF:-1 group-title=" 17.00 tennis CINCINNATI ",silk sport 3 ge
+http://80.77.52.6:3719/udp/226.0.0.9:12345
+
+#EXTINF:-1 group-title=" 18.00 eur.lea DINAMO MINSK - SALZBURG ",[COLOR green]18.00 eur.lea DINAMO MINSK - SALZBURG[/COLOR]
+http://streameo.altervista.org/forum/index.php
+
+#EXTINF:-1 group-title=" 18.00 eur.lea DINAMO MINSK - SALZBURG ",puls 4 at
+http://81.92.105.134:5555/pl.m3u8?channel=85
+
+
+#EXTINF:-1 group-title=" 18.00 eur.lea QABALA - PANATHINAIKOS ",idman tv Az
+http://149.255.152.70:80/idman/index.m3u8
+
+
+#EXTINF:-1 group-title=" 18.15 den1 VEJLE - NAESTVED ",tv3 sport 1 ace
+acestream://bab64b62b2723074abe8fb0abc66dc34d6c47d9e
+
+
+#EXTINF:-1 group-title=" 19.00 eur.lea SLOVAN LIBEREC - HAJDUK SPLIT ",hrt 2 hr
+http://213.5.58.58:1935/hrt_live/smil:hrt2.smil/nesto.m3u8
+
+#EXTINF:-1 group-title=" 20.00 eur.lea YOUNG BOYS - GARABAGH ",[COLOR green]20.00 eur.lea YOUNG BOYS - GARABAGH[/COLOR]
+http://list_made_by_lucaucca_at->pastebin.com/2Z7VsJwt
+
+#EXTINF:-1 group-title=" 20.00 eur.lea YOUNG BOYS - GARABAGH ",idman tv Az
+http://149.255.152.70:80/idman/index.m3u8
+
+
+#EXTINF:-1 group-title=" 20.30 eur.lea ALTACH - BELENENSES ",orf 1 at
+http://81.92.105.134:5555/pl.m3u8?channel=7
+
+
+#EXTINF:-1 group-title=" 20.30 eur.lea ODD GRENLAND - BOR.DORTMUND ",ARD de_opz 3
+http://81.92.105.134:5555/pl.m3u8?channel=4
+
+
+#EXTINF:-1 group-title=" 20.30 eur.lea BORDEAUX - KAIRAT ALMATY ",beIN sports FR 1
+rtmp://176.10.250.166:1935/tv/stream3
+
+
+#EXTINF:-1 group-title=" 21.00 eur.lea SOUTHAMPTON - MIDTJYLLAND ",bt sport europe uk
+rtmp://$OPT:rtmp-raw=rtmp://80.82.64.140:443/liverepeater playpath=14 pageUrl=http://popeoftheplayers.eu/ token=#atd%#$ZH
+
+
+#EXTINF:-1 group-title=" 22.00 cycling TOUR of COLORADO stage 4 ",eurosport 2 uk
+rtmp://$OPT:rtmp-raw=rtmp://80.82.64.140:443/liverepeater playpath=10 pageUrl=http://popeoftheplayers.eu/ token=#atd%#$ZH
+
+#EXTINF:-1 group-title=" 2.30 bra.cup SAO PAULO - CEARA ",sport tv 1 pt
+rtmp://$OPT:rtmp-raw=rtmpe://5.153.233.106:443/share/ playpath=live1-rbi6c swfUrl=http://sharecast.to/player/player20.swf live=1 timeout=13 pageUrl=http://sharecast.to/
+
+#EXTINF:-1 group-title=" 2.30 bra.cup SAO PAULO - CEARA ",arena sport 3 sr
+http://www.nasatv.eu:80/live?channelId=18&uid=18&deviceUser=zine&devicePass=zine
+
+
+#EXTINF:-1 group-title=" 4.30 cop.sudam SANTA FE - LDU LOJA ",sport tv 2 pt
+rtmp://$OPT:rtmp-raw=rtmpe://5.153.233.106:443/share/ playpath=live2-bipmr swfUrl=http://sharecast.to/player/player20.swf live=1 timeout=13 pageUrl=http://sharecast.to/
+
+#EXTINF:-1 group-title=" 4.30 cop.sudam SANTA FE - LDU LOJA ",arena sport 1 sr
+http://www.nasatv.eu:80/live?channelId=16&uid=18&deviceUser=zine&devicePass=zine
