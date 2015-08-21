@@ -1,65 +1,34 @@
 #EXTM3U
 
-#EXTINF:-1, [COLOR green]-------------UPDATED 20/08/15-------------[/COLOR]
+#EXTINF:-1, [COLOR green]-------------UPDATED 21/08/15-------------[/COLOR]
 
 
-#EXTINF:-1 group-title=" 17.00 tennis CINCINNATI ",silk sport 3 ge
-http://80.77.52.6:3719/udp/226.0.0.9:12345
+#EXTINF:-1,18.30 HOBRO - NORDSJAELLAND ",tv3 sport 1 ace
+acestream://783f9190794b0cf507cc0da231d280121e8f89ad
 
-#EXTINF:-1,DINAMO MINSK - SALZBURG
-http://streameo.altervista.org/forum/index.php
-
-#EXTINF:-1,DINAMO MINSK - SALZBURG
-http://81.92.105.134:5555/pl.m3u8?channel=85
-
-
-#EXTINF:-1,18.00 QABALA - PANATHINAIKOS
-http://149.255.152.70:80/idman/index.m3u8
-
-
-#EXTINF:-1,18.15 VEJLE - NAESTVED
-acestream://bab64b62b2723074abe8fb0abc66dc34d6c47d9e
-
-
-#EXTINF:-1,19.00 SLOVAN LIBEREC - HAJDUK SPLIT
-http://213.5.58.58:1935/hrt_live/smil:hrt2.smil/nesto.m3u8
-
-#EXTINF:-1,20.00 YOUNG BOYS - GARABAGH
-http://list_made_by_lucaucca_at->pastebin.com/2Z7VsJwt
-
-#EXTINF:-1,20.00 YOUNG BOYS - GARABAGH
-http://149.255.152.70:80/idman/index.m3u8
-
-
-#EXTINF:-1,20.30 ALTACH - BELENENSES
-http://81.92.105.134:5555/pl.m3u8?channel=7
-
-
-#EXTINF:-1,20.30 ODD GRENLAND - BOR.DORTMUND
-http://81.92.105.134:5555/pl.m3u8?channel=4
-
-
-#EXTINF:-1,20.30 BORDEAUX - KAIRAT ALMATY
-rtmp://176.10.250.166:1935/tv/stream3
-
-
-#EXTINF:-1,21.00 eur.lea SOUTHAMPTON - MIDTJYLLAND
-rtmp://$OPT:rtmp-raw=rtmp://80.82.64.140:443/liverepeater playpath=14 pageUrl=http://popeoftheplayers.eu/ token=#atd%#$ZH
-
-
-#EXTINF:-1,22.00 cycling TOUR of COLORADO
-rtmp://$OPT:rtmp-raw=rtmp://80.82.64.140:443/liverepeater playpath=10 pageUrl=http://popeoftheplayers.eu/ token=#atd%#$ZH
-
-#EXTINF:-1,2.30 SAO PAULO - CEARA
-rtmp://$OPT:rtmp-raw=rtmpe://5.153.233.106:443/share/ playpath=live1-rbi6c swfUrl=http://sharecast.to/player/player20.swf live=1 timeout=13 pageUrl=http://sharecast.to/
-
-#EXTINF:-1,2.30 SAO PAULO - CEARA
+#EXTINF:-1,20.30 MONTPELLIER - PARIS ST.GERMAIN ",arena sport 3 sr
 http://www.nasatv.eu:80/live?channelId=18&uid=18&deviceUser=zine&devicePass=zine
 
+#EXTINF:-1,20.30 MONTPELLIER - PARIS ST.GERMAIN ",c more sport se
+http://188.138.9.228:8023
 
-#EXTINF:-1,4.30 SANTA FE - LDU LOJA
+#EXTINF:-1,20.30 MONTPELLIER - PARIS ST.GERMAIN ",setanta eurasia
+http://80.77.52.6:3719/udp/230.0.4.1:12345
+
+#EXTINF:-1 group-title=" 20.30 HERTA BERLIN - WERDER BREMEN ",sport tv 3 pt
+rtmp://$OPT:rtmp-raw=rtmpe://5.153.233.106:443/share/ playpath=live3-qszlx swfUrl=http://sharecast.to/player/player20.swf live=1 timeout=10 pageUrl=http://sharecast.to/
+
+#EXTINF:-1 group-title=" 20.30 HERTA BERLIN - WERDER BREMEN ",bt sport europe uk
+rtmp://$OPT:rtmp-raw=rtmp://80.82.64.140:443/liverepeater playpath=14 pageUrl=http://popeoftheplayers.eu/ token=#atd%#$ZH
+
+#EXTINF:-1 group-title=" 20.30 MALAGA - SEVILLA ",sport tv 2 pt
 rtmp://$OPT:rtmp-raw=rtmpe://5.153.233.106:443/share/ playpath=live2-bipmr swfUrl=http://sharecast.to/player/player20.swf live=1 timeout=13 pageUrl=http://sharecast.to/
 
-#EXTINF:-1,4.30 SANTA FE - LDU LOJA
-http://www.nasatv.eu:80/live?channelId=16&uid=18&deviceUser=zine&devicePass=zine
+#EXTINF:-1 group-title=" 20.30 MALAGA - SEVILLA ",silk sport 1 ge
+http://80.77.52.6:3719/udp/226.0.0.7:12345
 
+#EXTINF:-1 group-title=" 20.30 MALAGA - SEVILLA ",sky sports 3 uk
+rtmp://$OPT:rtmp-raw=rtmp://80.82.64.140:443/liverepeater playpath=3 pageUrl=http://popeoftheplayers.eu/ token=#atd%#$ZH
+
+#EXTINF:-1 group-title=" 20.30 MALAGA - SEVILLA ",sportklub 3 sr
+http://www.nasatv.eu:80/live?channelId=101&uid=18&deviceUser=zine&devicePass=zine
