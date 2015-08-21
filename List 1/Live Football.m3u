@@ -3,32 +3,63 @@
 #EXTINF:-1, [COLOR green]-------------UPDATED 21/08/15-------------[/COLOR]
 
 
-#EXTINF:-1,18.30 HOBRO - NORDSJAELLAND ",tv3 sport 1 ace
+#EXTINF:-1,18.30 HOBRO - NORDSJAELLAND
 acestream://783f9190794b0cf507cc0da231d280121e8f89ad
 
-#EXTINF:-1,20.30 MONTPELLIER - PARIS ST.GERMAIN ",arena sport 3 sr
+#EXTINF:-1,20.30 MONTPELLIER - PARIS ST.GERMAIN
 http://www.nasatv.eu:80/live?channelId=18&uid=18&deviceUser=zine&devicePass=zine
 
-#EXTINF:-1,20.30 MONTPELLIER - PARIS ST.GERMAIN ",c more sport se
+#EXTINF:-1,20.30 MONTPELLIER - PARIS ST.GERMAIN
 http://188.138.9.228:8023
 
-#EXTINF:-1,20.30 MONTPELLIER - PARIS ST.GERMAIN ",setanta eurasia
+#EXTINF:-1,20.30 MONTPELLIER - PARIS ST.GERMAIN
 http://80.77.52.6:3719/udp/230.0.4.1:12345
 
-#EXTINF:-1 group-title=" 20.30 HERTA BERLIN - WERDER BREMEN ",sport tv 3 pt
+#EXTINF:-1,20.30 HERTA BERLIN - WERDER BREMEN
 rtmp://$OPT:rtmp-raw=rtmpe://5.153.233.106:443/share/ playpath=live3-qszlx swfUrl=http://sharecast.to/player/player20.swf live=1 timeout=10 pageUrl=http://sharecast.to/
 
-#EXTINF:-1 group-title=" 20.30 HERTA BERLIN - WERDER BREMEN ",bt sport europe uk
+#EXTINF:-1,20.30 HERTA BERLIN - WERDER BREMEN
 rtmp://$OPT:rtmp-raw=rtmp://80.82.64.140:443/liverepeater playpath=14 pageUrl=http://popeoftheplayers.eu/ token=#atd%#$ZH
 
-#EXTINF:-1 group-title=" 20.30 MALAGA - SEVILLA ",sport tv 2 pt
+#EXTINF:-1,20.30 MALAGA - SEVILLA
 rtmp://$OPT:rtmp-raw=rtmpe://5.153.233.106:443/share/ playpath=live2-bipmr swfUrl=http://sharecast.to/player/player20.swf live=1 timeout=13 pageUrl=http://sharecast.to/
 
-#EXTINF:-1 group-title=" 20.30 MALAGA - SEVILLA ",silk sport 1 ge
+#EXTINF:-1,20.30 MALAGA - SEVILLA
 http://80.77.52.6:3719/udp/226.0.0.7:12345
 
-#EXTINF:-1 group-title=" 20.30 MALAGA - SEVILLA ",sky sports 3 uk
+#EXTINF:-1,20.30 MALAGA - SEVILLA
 rtmp://$OPT:rtmp-raw=rtmp://80.82.64.140:443/liverepeater playpath=3 pageUrl=http://popeoftheplayers.eu/ token=#atd%#$ZH
 
-#EXTINF:-1 group-title=" 20.30 MALAGA - SEVILLA ",sportklub 3 sr
+#EXTINF:-1,20.30 MALAGA - SEVILLA
 http://www.nasatv.eu:80/live?channelId=101&uid=18&deviceUser=zine&devicePass=zine
+
+#EXTINF:-1,20.45 BIRNINGHAM CITY - DERBY COUNTY
+http://rcsgazzettatv59-lh.akamaihd.net/i/gazzettaTV59Univ_1@127684/master.m3u8
+
+#EXTINF:-1,20.45 BIRNINGHAM CITY - DERBY COUNTY
+http://rcsgazzettatv59-lh.akamaihd.net/i/gazzettaTV59Univ_1@127684/index_700_av-p.m3u8?sd=10&rebase=on
+
+#EXTINF:-1,20.45 BIRNINGHAM CITY - DERBY COUNTY
+http://ziggo.cdn.sport1.triple-it.nl/sport1voetbalhd.isml/QualityLevels(696000)/manifest(format=m3u8-aapl).m3u8
+
+#EXTINF:-1,20.45 BIRNINGHAM CITY - DERBY COUNTY
+rtmp://$OPT:rtmp-raw=rtmp://80.82.64.140:443/liverepeater playpath=5 pageUrl=http://popeoftheplayers.eu/ token=#atd%#$ZH
+
+#EXTINF:-1,21.30 RIO AVE - SP.BRAGA
+rtmp://$OPT:rtmp-raw=rtmpe://5.153.233.106:443/share/ playpath=live1-rbi6c swfUrl=http://sharecast.to/player/player20.swf live=1 timeout=13 pageUrl=http://sharecast.to/
+
+#EXTINF:-1,21.30 RIO AVE - SP.BRAGA
+http://80.77.52.6:3719/udp/226.0.0.8:12345
+
+#EXTINF:-1,22.00 cycling TOUR of COLORADO
+rtmp://$OPT:rtmp-raw=rtmp://80.82.64.140:443/liverepeater playpath=10 pageUrl=http://popeoftheplayers.eu/ token=#atd%#$ZH
+
+#EXTINF:-1,2.10 BANFIELD - GIMNASIA LA PLATA
+rtmp://live-edge01.telecentro.net.ar:1935/live/tvphd-180
+
+#EXTINF:-1,2.10 BANFIELD - GIMNASIA LA PLATA
+http://live-edge01.telecentro.net.ar:1935/live/tvphd-360/playlist.m3u8?
+
+#EXTINF:-1,2.10 BANFIELD - GIMNASIA LA PLATA
+http://live-edge01.telecentro.net.ar:1935/live/tvphd-720/playlist.m3u8?
+
