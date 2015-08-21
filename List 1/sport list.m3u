@@ -1,6 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1, [COLOR green]-------------UPDATED 20/08/15-------------[/COLOR]
+#EXTINF:-1, [COLOR green]-------------UPDATED 2108/15-------------[/COLOR]
 
 
 
@@ -9,41 +9,94 @@
 
  
 
-#EXTINF:0,Sky Sports 1
-http://84.232.5.115/liveedge3/skysp1.stream/playlist.m3u8
+#EXTINF:0,SKY SPORTS 1
+http://servprjsmartv.mine.nu:8000/live/persianshare/shkfyhpne/1625.m3u8
 
-#EXTINF:0,Sky Sports 2
-http://84.232.5.115/liveedge3/skysp2.stream/playlist.m3u8
+#EXTINF:0,SKY SPORTS 2
+http://servprjsmartv.mine.nu:8000/live/persianshare/shkfyhpne/1626.m3u8
 
-#EXTINF:0,Sky Sports 3
-http://84.232.5.115/liveedge3/skysp3.stream/playlist.m3u8
+#EXTINF:0,SKY SPORTS 3
+http://servprjsmartv.mine.nu:8000/live/persianshare/shkfyhpne/1627.m3u8
 
-#EXTINF:0,Sky Sports 4
-http://84.232.5.115/liveedge3/skysp4.stream/playlist.m3u8
+#EXTINF:0,SKY SPORTS 4
+http://servprjsmartv.mine.nu:8000/live/persianshare/shkfyhpne/1628.m3u8
 
-#EXTINF:0,Sky Sports 5
-http://84.232.5.115/liveedge3/skysp5.stream/playlist.m3u8
+#EXTINF:0,SKY SPORTS 5
+http://servprjsmartv.mine.nu:8000/live/persianshare/shkfyhpne/1629.m3u8
 
-#EXTINF:0,Sky Sports F1
-http://84.232.5.115/liveedge3/skyspf1.stream/playlist.m3u8
+#EXTINF:0,SKY SPORTS F1
+http://servprjsmartv.mine.nu:8000/live/persianshare/shkfyhpne/1630.m3u8
 
-#EXTINF:0,BT Sport 1
-http://84.232.5.115/liveedge3/bt1.stream/playlist.m3u8
+#EXTINF:0,SKY SPORTS NEWS
+http://servprjsmartv.mine.nu:8000/live/persianshare/shkfyhpne/1533.m3u8
 
-#EXTINF:0,BT Sport 2
-http://84.232.5.115/liveedge3/bt2.stream/playlist.m3u8
+#EXTINF:0,SKY SPORTS NEWS HD
+http://servprjsmartv.mine.nu:8000/live/persianshare/shkfyhpne/1523.m3u8
 
-#EXTINF:0,Premier Sports
-http://84.232.5.115/liveedge3/premier.stream/stream/playlist.m3u8
+#EXTINF:0,BT SPORT 2
+http://servprjsmartv.mine.nu:8000/live/persianshare/shkfyhpne/1560.m3u8
 
-#EXTINF:0,Setanta Sport
-http://84.232.5.115/liveedge3/setanta.stream/stream/playlist.m3u8
+#EXTINF:0,BT SPORTS 1
+http://servprjsmartv.mine.nu:8000/live/persianshare/shkfyhpne/1572.m3u8
 
-#EXTINF:0,Motors TV
-http://84.232.5.115/liveedge3/motors.stream/stream/playlist.m3u8
+#EXTINF:0,BT SPORTS 1 HD
+http://servprjsmartv.mine.nu:8000/live/persianshare/shkfyhpne/1573.m3u8
 
-#EXTINF:0,Eurosport 1
-http://84.232.5.115/liveedge3/eurosport.stream/stream/playlist.m3u8
+#EXTINF:0,BT SPORTS 2
+http://servprjsmartv.mine.nu:8000/live/persianshare/shkfyhpne/1574.m3u8
 
-#EXTINF:0,Eurosport 2
-http://84.232.5.115/liveedge3/eurosport2.stream/playlist.m3u8
+#EXTINF:0,SETANTA SPORTS
+http://servprjsmartv.mine.nu:8000/live/persianshare/shkfyhpne/1610.m3u8
+
+#EXTINF:0,BOX NATION
+http://servprjsmartv.mine.nu:8000/live/persianshare/shkfyhpne/1571.m3u8
+
+#EXTINF:0,EUROSPORT
+http://servprjsmartv.mine.nu:8000/live/persianshare/shkfyhpne/1549.m3u8
+
+#EXTINF:0,EUROSPORT 2
+http://servprjsmartv.mine.nu:8000/live/persianshare/shkfyhpne/1548.m3u8
+
+#EXTINF:0,PREMIER SPORTS
+http://servprjsmartv.mine.nu:8000/live/persianshare/shkfyhpne/1602.m3u8
+
+#EXTINF:0,RACING
+http://servprjsmartv.mine.nu:8000/live/persianshare/shkfyhpne/1603.m3u8
+
+#EXTINF:0,BEIN SPORTS HD
+http://servprjsmartv.mine.nu:8000/live/persianshare/shkfyhpne/1658.m3u8
+
+#EXTINF:0,BEIN SPORTS 1 HD
+http://servprjsmartv.mine.nu:8000/live/persianshare/shkfyhpne/1648.m3u8
+
+#EXTINF:0,BEIN SPORTS 2 HD
+http://servprjsmartv.mine.nu:8000/live/persianshare/shkfyhpne/1649.m3u8
+
+#EXTINF:0,BEIN SPORTS 3 HD
+http://servprjsmartv.mine.nu:8000/live/persianshare/shkfyhpne/1650.m3u8
+
+#EXTINF:0,BEIN SPORTS 4 HD
+http://servprjsmartv.mine.nu:8000/live/persianshare/shkfyhpne/1651.m3u8
+
+#EXTINF:0,BEIN SPORTS 5 HD
+http://servprjsmartv.mine.nu:8000/live/persianshare/shkfyhpne/1652.m3u8
+
+#EXTINF:0,BEIN SPORTS 6 HD
+http://servprjsmartv.mine.nu:8000/live/persianshare/shkfyhpne/1653.m3u8
+
+#EXTINF:0,BEIN SPORTS 7 HD
+http://servprjsmartv.mine.nu:8000/live/persianshare/shkfyhpne/1654.m3u8
+
+#EXTINF:0,BEIN SPORTS 8 HD
+http://servprjsmartv.mine.nu:8000/live/persianshare/shkfyhpne/1655.m3u8
+
+#EXTINF:0,BEIN SPORTS 9 HD
+http://servprjsmartv.mine.nu:8000/live/persianshare/shkfyhpne/1656.m3u8
+
+#EXTINF:0,BEIN SPORTS 10 HD
+http://servprjsmartv.mine.nu:8000/live/persianshare/shkfyhpne/1657.m3u8
+
+
+
+
+
