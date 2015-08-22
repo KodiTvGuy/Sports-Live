@@ -101,7 +101,7 @@ http://www.nasatv.eu:80/live?channelId=16&uid=18&deviceUser=zine&devicePass=zine
 http://81.7.13.162/hls/ss2/index.m3u8
 #EXTINF:-1,17.00 ita HELLAS VERONA - ROMA
 rtmp://rtmp.deltatv.pw:1935/liverepeater/_definst_/132686
-#EXTINF:-1,group-title=" 17.00 ita HELLAS VERONA - ROMA
+#EXTINF:-1,17.00 ita HELLAS VERONA - ROMA
 http://fe-nw.svc.iptv.rt.ru/hls/CH_C04_FOOTBALL3/variant.m3u8?version=2
 
 
