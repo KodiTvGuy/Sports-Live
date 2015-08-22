@@ -128,8 +128,8 @@ http://4.31.30.159:9085
 #EXTINF:0,TSN 5
 http://4.31.30.159:9086
 
-#EXTINF:0,WWE HD
-http://80.82.78.15:443/liverepeater playpath=13 sfUrl=http://popeoftheplayers.eu/atdedead.swf?streamer=rtmp://rtmp.popeoftheplayers.eu:1935/redirect&provider=rtmp&file=13&autostart=true&stretching=exactfit&controlbar=bottom&image=http://www.stream2watch.se/stream2watchl.png pageUrl=http://popeoftheplayers.eu/atdedead.swf?streamer=rtmp://rtmp.popeoftheplayers.eu:1935/redirect&provider=rtmp&file=13&autostart=true&stretching=exactfit&controlbar=bottom&image=http://www.stream2watch.se/stream2watchl.png <objectEncoding>
+#EXTINF:0,MUTV
+http://37.187.149.103:8000/live/9f1617ad80c3059c/c327ea13c0d02f57/195.m3u8
 
 
 
