@@ -135,19 +135,19 @@ rtmp://80.82.64.140:443/liverepeater playpath=36 pageUrl=http://popeoftheplayers
 rtmpe://134.19.185.206:1935/livedge playpath=mamahdbtsport2 swfUrl=http://player.hdcast.org/_.swf pageUrl=http://www.hdcast.org/embedlive1.php?u=mamahdbtsport2&vw=680&vh=490&domain=mamahd.com token=Fo5_n0w?U.rA6l3-70w47ch
 
 #EXTINF-1,BT Sport 2 (ALT)
-rtmpe://134.19.185.206:1935/livedge playpath=sbt2 swfUrl=http://player.hdcast.org/_.swf pageUrl=http://www.hdcast.org/embedlive4.php?u=sskysn&vw=640&vh=400&domain=www.streamhd.eu token=Fo5_n0w?U.rA6l3-70w47ch
+http://134.19.185.206:1935/livedge playpath=sbt2 swfUrl=http://player.hdcast.org/_.swf pageUrl=http://www.hdcast.org/embedlive4.php?u=sskysn&vw=640&vh=400&domain=www.streamhd.eu token=Fo5_n0w?U.rA6l3-70w47ch
 
 #EXTINF:-1,BT Sport Europe (Shows Champions League)
-rtmp://109.200.1.82:1935/tes/bteurope.stream?e607b5b743e1842ee50e1556bbf3ae42
+http://109.200.1.82:1935/tes/bteurope.stream?e607b5b743e1842ee50e1556bbf3ae42
 
 #EXTINF:-1,BT Sport Europe (ALT) (Shows Champions League)
-rtmp://80.82.64.140:443/liverepeater playpath=14 pageUrl=http://popeoftheplayers.eu/ token=#atd%#$ZH
+http://80.82.64.140:443/liverepeater playpath=14 pageUrl=http://popeoftheplayers.eu/ token=#atd%#$ZH
 
 #EXTINF:-1,BT Sport ESPN 
-rtmp://80.82.78.15:443/liverepeater/ playpath=11 token=#atd%#$ZH pageUrl=http://popeoftheplayers.eu/ token=#atd%#$ZH
+https://80.82.78.15:443/liverepeater/ playpath=11 token=#atd%#$ZH pageUrl=http://popeoftheplayers.eu/ token=#atd%#$ZH
 
 #EXTINF:-1,BT Sport ESPN (ALT) 
-rtmp://80.82.64.140:443/liverepeater playpath=11 pageUrl=http://popeoftheplayers.eu/ token=#atd%#$ZH
+http://80.82.64.140:443/liverepeater playpath=11 pageUrl=http://popeoftheplayers.eu/ token=#atd%#$ZH
 
 
 
