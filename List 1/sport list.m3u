@@ -59,11 +59,11 @@ http://servprjsmartv.mine.nu:8000/live/persianshare/shkfyhpne/1610.m3u8
 #EXTINF:0,BOX NATION
 http://servprjsmartv.mine.nu:8000/live/persianshare/shkfyhpne/1571.m3u8
 
-#EXTINF:0,EUROSPORT
-http://servprjsmartv.mine.nu:8000/live/persianshare/shkfyhpne/1549.m3u8
+#EXTINF:1,EUROSPORT 1
+http://37.187.149.103:8000/live/9f1617ad80c3059c/c327ea13c0d02f57/188.m3u8
 
-#EXTINF:0,EUROSPORT 2
-http://servprjsmartv.mine.nu:8000/live/persianshare/shkfyhpne/1548.m3u8
+#EXTINF:1,EUROSPORT 2
+http://37.187.149.103:8000/live/9f1617ad80c3059c/c327ea13c0d02f57/134.m3u8
 
 #EXTINF:0,PREMIER SPORTS
 http://servprjsmartv.mine.nu:8000/live/persianshare/shkfyhpne/1602.m3u8
