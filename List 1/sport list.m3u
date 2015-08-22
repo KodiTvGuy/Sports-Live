@@ -41,9 +41,6 @@ http://servprjsmartv.mine.nu:8000/live/persianshare/shkfyhpne/1630.m3u8
 #EXTINF:0,SKY SPORTS NEWS
 http://servprjsmartv.mine.nu:8000/live/persianshare/shkfyhpne/1533.m3u8
 
-#EXTINF:0,SKY SPORTS NEWS HD
-http://servprjsmartv.mine.nu:8000/live/persianshare/shkfyhpne/1523.m3u8
-
 #EXTINF:0,BT SPORT EUROPE HD
 http://iptv15.zapto.org:8000/live/free4u/2015/1076.ts
 
@@ -100,31 +97,6 @@ http://servprjsmartv.mine.nu:8000/live/persianshare/shkfyhpne/1656.m3u8
 
 #EXTINF:0,BEIN SPORTS 10 HD
 http://servprjsmartv.mine.nu:8000/live/persianshare/shkfyhpne/1657.m3u8
-
-#EXTINF:0,UK-BT SPORT EUROPE HD
-http://iptv15.zapto.org:8000/live/free4u/2015/1076.ts
-
-#EXTINF:0,UK-BT SPORT 1
-http://iptv15.zapto.org:8000/live/free4u/2015/1078.ts
-
-#EXTINF:0, SKY SPORTS 1 HD
-http://109.200.1.82:1935/tes/skysp1.stream?e607b5b743e1842ee50e1556bbf3ae42.,3u8
-
-#EXTINF:0, SKY SPORTS 2 HD
-http://109.200.1.82:1935/tes/skysp2.stream?e607b5b743e1842ee50e1556bbf3ae42.m3u8
-
-#EXTINF:0, SKY SPORTS 3 HD
-http://109.200.1.82:1935/tes/skysp3.stream?e607b5b743e1842ee50e1556bbf3ae42.m3u8
-
-#EXTINF:0, SKY SPORTS 4 HD
-http://109.200.1.82:1935/tes/skysp4.stream?e607b5b743e1842ee50e1556bbf3ae42.m3u8
-
-#EXTINF:0, SKY SPORTS 5 HD
-http://109.200.1.82:1935/tes/skysp1.stream?e607b5b743e1842ee50e1556bbf3ae42.m3u8
-
-#EXTINF:0, SKY SPORTS F1 HD
-http://109.200.1.82:1935/tes/skyspf1.stream?e607b5b743e1842ee50e1556bbf3ae42.m3u8
-
 
 #EXTINF:0,FOX SPORTS 1
 http://4.31.30.159:9110.m3u8
