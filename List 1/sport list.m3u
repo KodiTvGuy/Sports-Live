@@ -44,14 +44,17 @@ http://servprjsmartv.mine.nu:8000/live/persianshare/shkfyhpne/1533.m3u8
 #EXTINF:0,SKY SPORTS NEWS HD
 http://servprjsmartv.mine.nu:8000/live/persianshare/shkfyhpne/1523.m3u8
 
-#EXTINF:0,BT SPORT 2
-http://servprjsmartv.mine.nu:8000/live/persianshare/shkfyhpne/1560.m3u8
+#EXTINF:0,UK-BT SPORT EUROPE HD
+http://iptv15.zapto.org:8000/live/free4u/2015/1076.ts
 
-#EXTINF:0,BT SPORTS 1
-http://servprjsmartv.mine.nu:8000/live/persianshare/shkfyhpne/1572.m3u8
+#EXTINF:0,UK-BT SPORT 1
+http://iptv15.zapto.org:8000/live/free4u/2015/1078.ts
 
 #EXTINF:0,BT SPORTS 1 HD
 http://servprjsmartv.mine.nu:8000/live/persianshare/shkfyhpne/1573.m3u8
+
+#EXTINF:0,BT SPORT 2
+http://servprjsmartv.mine.nu:8000/live/persianshare/shkfyhpne/1560.m3u8
 
 #EXTINF:0,BT SPORTS 2
 http://servprjsmartv.mine.nu:8000/live/persianshare/shkfyhpne/1574.m3u8
