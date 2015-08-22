@@ -128,6 +128,9 @@ http://4.31.30.159:9085
 #EXTINF:0,TSN 5
 http://4.31.30.159:9086
 
+#EXTINF:0,UFC
+http://31.220.40.105/LiveEdge/UFCNetworkLA/playlist.m3u8
+
 
 
 
