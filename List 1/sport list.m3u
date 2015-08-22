@@ -101,6 +101,39 @@ http://iptv15.zapto.org:8000/live/free4u/2015/1076.ts
 #EXTINF:0,UK-BT SPORT 1
 http://iptv15.zapto.org:8000/live/free4u/2015/1078.ts
 
+#EXTINF:0, SKY SPORTS 1 HD
+rtmp://109.200.1.82:1935/tes/skysp1.stream?e607b5b743e1842ee50e1556bbf3ae42
+
+#EXTINF:0, SKY SPORTS 2 HD
+rtmp://109.200.1.82:1935/tes/skysp2.stream?e607b5b743e1842ee50e1556bbf3ae42
+
+#EXTINF:0, SKY SPORTS 3 HD
+rtmp://109.200.1.82:1935/tes/skysp3.stream?e607b5b743e1842ee50e1556bbf3ae42
+
+#EXTINF:0, SKY SPORTS 4 HD
+rtmp://109.200.1.82:1935/tes/skysp4.stream?e607b5b743e1842ee50e1556bbf3ae42
+
+#EXTINF:0, SKY SPORTS 5 HD
+rtmp://109.200.1.82:1935/tes/skysp1.stream?e607b5b743e1842ee50e1556bbf3ae42
+
+#EXTINF:0, SKY SPORTS F1 HD
+rtmp://109.200.1.82:1935/tes/skyspf1.stream?e607b5b743e1842ee50e1556bbf3ae42
+
+#EXTINF:0,UK_Sky Sport3
+http://iptv15.zapto.org:8000/live/free4u/2015/353.ts
+
+#EXTINF:0,UK_Sky Sport2
+http://iptv15.zapto.org:8000/live/free4u/2015/352.ts
+
+#EXTINF:0,UK_Sky Sport F1
+http://iptv15.zapto.org:8000/live/free4u/2015/350.ts
+
+FOX SPORTS 1
+http://4.31.30.159:9110
+
+FOX SPORTS 2
+http://4.31.30.159:9111
+
 
 
 
