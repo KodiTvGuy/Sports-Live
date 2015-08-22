@@ -101,138 +101,138 @@ http://www.nasatv.eu:80/live?channelId=16&uid=18&deviceUser=zine&devicePass=zine
 http://81.7.13.162/hls/ss2/index.m3u8
 #EXTINF:-1,17.00 ita HELLAS VERONA - ROMA
 rtmp://rtmp.deltatv.pw:1935/liverepeater/_definst_/132686
-#EXTINF:-1 group-title=" 17.00 ita HELLAS VERONA - ROMA
+#EXTINF:-1,group-title=" 17.00 ita HELLAS VERONA - ROMA
 http://fe-nw.svc.iptv.rt.ru/hls/CH_C04_FOOTBALL3/variant.m3u8?version=2
 
 
-#EXTINF:-1 group-title=" 17.15 eng.cha CARDIFF CITY - WOLVERHAMPTON
+#EXTINF:-1,group-title=" 17.15 eng.cha CARDIFF CITY - WOLVERHAMPTON
 http://rcsgazzettatv59-lh.akamaihd.net/i/gazzettaTV59Univ_1@127684/master.m3u8
-#EXTINF:-1 group-title=" 17.15 eng.cha CARDIFF CITY - WOLVERHAMPTON
+#EXTINF:-1,group-title=" 17.15 eng.cha CARDIFF CITY - WOLVERHAMPTON
 http://rcsgazzettatv59-lh.akamaihd.net/i/gazzettaTV59Univ_1@127684/index_700_av-p.m3u8?sd=10&rebase=on
-#EXTINF:-1 group-title=" 17.15 eng.cha CARDIFF CITY - WOLVERHAMPTON
+#EXTINF:-1,group-title=" 17.15 eng.cha CARDIFF CITY - WOLVERHAMPTON
 rtmp://$OPT:rtmp-raw=rtmp://80.82.64.140:443/liverepeater playpath=1 pageUrl=http://popeoftheplayers.eu/ token=#atd%#$ZH
 
-#EXTINF:-1 group-title=" 17.30 esp ESPANYOL - GETAFE
+#EXTINF:-1,group-title=" 17.30 esp ESPANYOL - GETAFE
 http://80.77.52.6:3719/udp/226.0.0.7:12345
 
 
-#EXTINF:-1 group-title=" 17.30 ger HAMBURG - STUTTGART
+#EXTINF:-1,group-title=" 17.30 ger HAMBURG - STUTTGART
 rtmp://$OPT:rtmp-raw=rtmpe://5.153.233.106:443/share/ playpath=live3-qszlx swfUrl=http://sharecast.to/player/player20.swf live=1 timeout=10 pageUrl=http://sharecast.to/
-#EXTINF:-1 group-title=" 17.30 ger HAMBURG - STUTTGART
+#EXTINF:-1,group-title=" 17.30 ger HAMBURG - STUTTGART
 http://37.187.149.103:8000/live/9f1617ad80c3059c/c327ea13c0d02f57/147.m3u8
 
 
-#EXTINF:-1 group-title=" 17.30 esp DEPORTIVO - REAL SOCIEDAD
+#EXTINF:-1,group-title=" 17.30 esp DEPORTIVO - REAL SOCIEDAD
 rtmp://$OPT:rtmp-raw=rtmpe://5.153.233.106:443/share/ playpath=live2-bipmr swfUrl=http://sharecast.to/player/player20.swf live=1 timeout=13 pageUrl=http://sharecast.to/
-#EXTINF:-1 group-title=" 17.30 esp DEPORTIVO - REAL SOCIEDAD
+#EXTINF:-1,group-title=" 17.30 esp DEPORTIVO - REAL SOCIEDAD
 rtmp://$OPT:rtmp-raw=rtmp://80.82.64.140:443/liverepeater playpath=3 pageUrl=http://popeoftheplayers.eu/ token=#atd%#$ZH
-#EXTINF:-1 group-title=" 17.30 esp DEPORTIVO - REAL SOCIEDAD
+#EXTINF:-1,group-title=" 17.30 esp DEPORTIVO - REAL SOCIEDAD
 http://80.77.52.6:3719/udp/226.0.0.10:12345
-#EXTINF:-1 group-title=" 17.30 esp DEPORTIVO - REAL SOCIEDAD
+#EXTINF:-1,group-title=" 17.30 esp DEPORTIVO - REAL SOCIEDAD
 http://www.nasatv.eu:80/live?channelId=88&uid=18&deviceUser=zine&devicePass=zine
-#EXTINF:-1 group-title=" 17.30 esp DEPORTIVO - REAL SOCIEDAD
+#EXTINF:-1,group-title=" 17.30 esp DEPORTIVO - REAL SOCIEDAD
 http://fe-nw.svc.iptv.rt.ru/hls/CH_C03_FOOTBALL1/variant.m3u8?version=2
 
 
-#EXTINF:-1 group-title=" 17.45 cycling VUELTA ESPANA
+#EXTINF:-1,group-title=" 17.45 cycling VUELTA ESPANA
 rtmp://$OPT:rtmp-raw=rtmp://80.82.64.140:443/liverepeater playpath=39 pageUrl=http://popeoftheplayers.eu/ token=#atd%#$ZH
-#EXTINF:-1 group-title=" 17.45 cycling VUELTA ESPANA
+#EXTINF:-1,group-title=" 17.45 cycling VUELTA ESPANA
 http://streaming-hub.com/tv/i/eurosportde_1@97452/index_1300_av-p.m3u8?sd=10&rebase=on
 
 
-#EXTINF:-1 group-title=" 18.00 tennis CINCINNATI
+#EXTINF:-1,group-title=" 18.00 tennis CINCINNATI
 http://80.77.52.6:3719/udp/226.0.0.9:12345
 
 
-#EXTINF:-1 group-title=" 18.30 por SPORTING LISBON - PACOS FERREIRA
+#EXTINF:-1,group-title=" 18.30 por SPORTING LISBON - PACOS FERREIRA
 rtmp://$OPT:rtmp-raw=rtmpe://5.153.233.106:443/share/ playpath=live1-rbi6c swfUrl=http://sharecast.to/player/player20.swf live=1 timeout=13 pageUrl=http://sharecast.to/
 
-#EXTINF:-1 group-title=" 18.45 ned HEERENVEEN - PSV EINDHOVEN
+#EXTINF:-1,group-title=" 18.45 ned HEERENVEEN - PSV EINDHOVEN
 http://streameo.altervista.org/forum/index.php
-#EXTINF:-1 group-title=" 18.45 ned HEERENVEEN - PSV EINDHOVEN
+#EXTINF:-1,group-title=" 18.45 ned HEERENVEEN - PSV EINDHOVEN
 http://80.77.52.6:3719/udp/226.0.0.8:12345
-#EXTINF:-1 group-title=" 18.45 ned HEERENVEEN - PSV EINDHOVEN
+#EXTINF:-1,group-title=" 18.45 ned HEERENVEEN - PSV EINDHOVEN
 http://www.nasatv.eu:80/live?channelId=101&uid=18&deviceUser=zine&devicePass=zine
-#EXTINF:-1 group-title=" 18.45 ned HEERENVEEN - PSV EINDHOVEN
+#EXTINF:-1,group-title=" 18.45 ned HEERENVEEN - PSV EINDHOVEN
 http://81.7.13.162/hls/ss4/index.m3u8
 
-#EXTINF:-1 group-title=" 19.00 fra TOULOUSE - MONACO
+#EXTINF:-1,group-title=" 19.00 fra TOULOUSE - MONACO
 http://www.nasatv.eu:80/live?channelId=16&uid=18&deviceUser=zine&devicePass=zine
-#EXTINF:-1 group-title=" 19.00 fra TOULOUSE - MONACO
+#EXTINF:-1,group-title=" 19.00 fra TOULOUSE - MONACO
 http://fe-nw.svc.iptv.rt.ru/hls/CH_C04_FOOTBALL3/variant.m3u8?version=2
 
 
-#EXTINF:-1 group-title=" 19.30 esp ATL.MADRID - LAS PALMAS
+#EXTINF:-1,group-title=" 19.30 esp ATL.MADRID - LAS PALMAS
 rtmp://$OPT:rtmp-raw=rtmpe://5.153.233.106:443/share/ playpath=live2-bipmr swfUrl=http://sharecast.to/player/player20.swf live=1 timeout=13 pageUrl=http://sharecast.to/
-#EXTINF:-1 group-title=" 19.30 esp ATL.MADRID - LAS PALMAS
+#EXTINF:-1,group-title=" 19.30 esp ATL.MADRID - LAS PALMAS
 rtmp://$OPT:rtmp-raw=rtmp://80.82.64.140:443/liverepeater playpath=3 pageUrl=http://popeoftheplayers.eu/ token=#atd%#$ZH
-#EXTINF:-1 group-title=" 19.30 esp ATL.MADRID - LAS PALMAS
+#EXTINF:-1,group-title=" 19.30 esp ATL.MADRID - LAS PALMAS
 http://81.7.13.162/hls/ss3/index.m3u8
-#EXTINF:-1 group-title=" 19.30 esp ATL.MADRID - LAS PALMAS
+#EXTINF:-1,group-title=" 19.30 esp ATL.MADRID - LAS PALMAS
 http://www.nasatv.eu:80/live?channelId=88&uid=18&deviceUser=zine&devicePass=zine
-#EXTINF:-1 group-title=" 19.30 esp ATL.MADRID - LAS PALMAS
+#EXTINF:-1,group-title=" 19.30 esp ATL.MADRID - LAS PALMAS
 http://80.77.52.6:3719/udp/226.0.0.7:12345
-#EXTINF:-1 group-title=" 19.30 esp ATL.MADRID - LAS PALMAS
+#EXTINF:-1,group-title=" 19.30 esp ATL.MADRID - LAS PALMAS
 http://fe-nw.svc.iptv.rt.ru/hls/CH_C03_FOOTBALL1/variant.m3u8?version=2
 
-#EXTINF:-1 group-title=" 19.45 ita LAZIO - BOLOGNA
+#EXTINF:-1,group-title=" 19.45 ita LAZIO - BOLOGNA
 http://list_made_by_lucaucca_at->pastebin.com/2Z7VsJwt
-#EXTINF:-1 group-title=" 19.45 ita LAZIO - BOLOGNA
+#EXTINF:-1,group-title=" 19.45 ita LAZIO - BOLOGNA
 http://80.77.52.6:3719/udp/230.0.4.1:12345
-#EXTINF:-1 group-title=" 19.45 ita LAZIO - BOLOGNA
+#EXTINF:-1,group-title=" 19.45 ita LAZIO - BOLOGNA
 http://81.7.13.162/hls/ss2/index.m3u8
-#EXTINF:-1 group-title=" 19.45 ita LAZIO - BOLOGNA
+#EXTINF:-1,group-title=" 19.45 ita LAZIO - BOLOGNA
 http://www.nasatv.eu:80/live?channelId=19&uid=18&deviceUser=zine&devicePass=zine
-#EXTINF:-1 group-title=" 19.45 ita LAZIO - BOLOGNA
+#EXTINF:-1,group-title=" 19.45 ita LAZIO - BOLOGNA
 http://37.187.149.103:8000/live/9f1617ad80c3059c/c327ea13c0d02f57/147.m3u8
-#EXTINF:-1 group-title=" 19.45 ita LAZIO - BOLOGNA
+#EXTINF:-1,group-title=" 19.45 ita LAZIO - BOLOGNA
 rtmp://rtmp.deltatv.pw:1935/liverepeater/_definst_/132686
-#EXTINF:-1 group-title=" 19.45 ita LAZIO - BOLOGNA
+#EXTINF:-1,group-title=" 19.45 ita LAZIO - BOLOGNA
 http://fe-nw.svc.iptv.rt.ru/hls/CH_C05_FOOTBALL2/variant.m3u8?version=2
 
-#EXTINF:-1 group-title=" 20.45 por MARITIMO - PORTO
+#EXTINF:-1,group-title=" 20.45 por MARITIMO - PORTO
 rtmp://$OPT:rtmp-raw=rtmpe://5.153.233.106:443/share/ playpath=live1-rbi6c swfUrl=http://sharecast.to/player/player20.swf live=1 timeout=13 pageUrl=http://sharecast.to/
-#EXTINF:-1 group-title=" 20.45 por MARITIMO - PORTO
+#EXTINF:-1,group-title=" 20.45 por MARITIMO - PORTO
 http://www.nasatv.eu:80/live?channelId=101&uid=18&deviceUser=zine&devicePass=zine
-#EXTINF:-1 group-title=" 20.45 por MARITIMO - PORTO
+#EXTINF:-1,group-title=" 20.45 por MARITIMO - PORTO
 http://80.77.52.6:3719/udp/226.0.0.8:12345
 
 
-#EXTINF:-1 group-title=" 22.30 esp RAYO VALLECANO - VALENCIA
+#EXTINF:-1,group-title=" 22.30 esp RAYO VALLECANO - VALENCIA
 rtmp://$OPT:rtmp-raw=rtmpe://5.153.233.106:443/share/ playpath=live2-bipmr swfUrl=http://sharecast.to/player/player20.swf live=1 timeout=13 pageUrl=http://sharecast.to/
-#EXTINF:-1 group-title=" 22.30 esp RAYO VALLECANO - VALENCIA
+#EXTINF:-1,group-title=" 22.30 esp RAYO VALLECANO - VALENCIA
 http://www.nasatv.eu:80/live?channelId=88&uid=18&deviceUser=zine&devicePass=zine
-#EXTINF:-1 group-title=" 22.30 esp RAYO VALLECANO - VALENCIA
+#EXTINF:-1,group-title=" 22.30 esp RAYO VALLECANO - VALENCIA
 http://81.7.13.162/hls/ss3/index.m3u8
-#EXTINF:-1 group-title=" 22.30 esp RAYO VALLECANO - VALENCIA
+#EXTINF:-1,group-title=" 22.30 esp RAYO VALLECANO - VALENCIA
 http://80.77.52.6:3719/udp/226.0.0.7:12345
 
 
-#EXTINF:-1 group-title=" 22.45 cycling TOUR of COLORADO 6th stage 
+#EXTINF:-1,group-title=" 22.45 cycling TOUR of COLORADO 6th stage 
 rtmp://$OPT:rtmp-raw=rtmp://80.82.64.140:443/liverepeater playpath=39 pageUrl=http://popeoftheplayers.eu/ token=#atd%#$ZH
-#EXTINF:-1 group-title=" 22.45 cycling TOUR of COLORADO 6th stage
+#EXTINF:-1,group-title=" 22.45 cycling TOUR of COLORADO 6th stage
 http://streaming-hub.com/tv/i/eurosportde_1@97452/index_1300_av-p.m3u8?sd=10&rebase=on
 
 
-#EXTINF:-1 group-title=" 23.10 arg SAN MARTIN - INDEPENDIENTE
+#EXTINF:-1,group-title=" 23.10 arg SAN MARTIN - INDEPENDIENTE
 rtmp://live-edge01.telecentro.net.ar:1935/live/tlfhd-180
-#EXTINF:-1 group-title=" 23.10 arg SAN MARTIN - INDEPENDIENTE
+#EXTINF:-1,group-title=" 23.10 arg SAN MARTIN - INDEPENDIENTE
 http://live-edge01.telecentro.net.ar:1935/live/tlfhd-360/playlist.m3u8
 
 
-#EXTINF:-1 group-title=" 23.30 bra GOIAS - VASCO DA GAMA
+#EXTINF:-1,group-title=" 23.30 bra GOIAS - VASCO DA GAMA
 rtmp://$OPT:rtmp-raw=rtmpe://5.153.233.106:443/share/ playpath=live3-qszlx swfUrl=http://sharecast.to/player/player20.swf live=1 timeout=10 pageUrl=http://sharecast.to/
-#EXTINF:-1 group-title=" 23.30 bra GOIAS - VASCO DA GAMA
+#EXTINF:-1,group-title=" 23.30 bra GOIAS - VASCO DA GAMA
 rtmp://rtmp.deltatv.pw:1935/liverepeater/_definst_/132679
-#EXTINF:-1 group-title=" 23.30 bra GOIAS - VASCO DA GAMA
+#EXTINF:-1,group-title=" 23.30 bra GOIAS - VASCO DA GAMA
 http://www.nasatv.eu:80/live?channelId=19&uid=18&deviceUser=zine&devicePass=zine
 
 
-#EXTINF:-1 group-title=" 1.00 mls DC UNITED - SAN JOSE EARTHQUAKES
+#EXTINF:-1,group-title=" 1.00 mls DC UNITED - SAN JOSE EARTHQUAKES
 rtmp://$OPT:rtmp-raw=rtmp://80.82.64.140:443/liverepeater playpath=1 pageUrl=http://popeoftheplayers.eu/ token=#atd%#$ZH
-#EXTINF:-1 group-title=" 1.00 mls DC UNITED - SAN JOSE EARTHQUAKES
+#EXTINF:-1,group-title=" 1.00 mls DC UNITED - SAN JOSE EARTHQUAKES
 rtmp://$OPT:rtmp-raw=rtmp://80.82.64.140:443/liverepeater playpath=5 pageUrl=http://popeoftheplayers.eu/ token=#atd%#$ZH
 
 
-#EXTINF:-1 group-title=" 1.30 arg ARGENTINOS JRS - SAN LORENZO
+#EXTINF:-1,group-title=" 1.30 arg ARGENTINOS JRS - SAN LORENZO
 rtmp://$OPT:rtmp-raw=rtmpe://5.153.233.106:443/share/ playpath=live1-rbi6c swfUrl=http://sharecast.to/player/player20.swf live=1 timeout=13 pageUrl=http://sharecast.to/
