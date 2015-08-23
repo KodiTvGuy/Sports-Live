@@ -26,6 +26,12 @@ http://iptv15.zapto.org:8000/live/free4u/2015/353.ts
 #EXTINF:0,SKY SPORTS 3
 http://servprjsmartv.mine.nu:8000/live/persianshare/shkfyhpne/1627.m3u8
 
+#EXTINF:0,SKY SPORTS 3
+http://iptv15.zapto.org:8000/live/free4u/2015/353.ts
+
+#EXTINF:0,SKY SPORTS 4 HD
+http://iptv15.zapto.org:8000/live/free4u/2015/1059.ts
+
 #EXTINF:0,SKY SPORTS 4
 http://servprjsmartv.mine.nu:8000/live/persianshare/shkfyhpne/1628.m3u8
 
@@ -37,6 +43,9 @@ http://iptv15.zapto.org:8000/live/free4u/2015/352.ts
 
 #EXTINF:0,SKY SPORTS F1
 http://servprjsmartv.mine.nu:8000/live/persianshare/shkfyhpne/1630.m3u8
+
+#EXTINF:0,SKY SPORTS F1
+http://iptv15.zapto.org:8000/live/free4u/2015/350.ts
 
 #EXTINF:0,SKY SPORTS NEWS
 http://servprjsmartv.mine.nu:8000/live/persianshare/shkfyhpne/1533.m3u8
