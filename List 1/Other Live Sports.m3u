@@ -5,3 +5,21 @@
 #EXTINF:-1,
 #
 #EXTINF:-1,
+
+#EXTINF:-1,12.00-15.00 e 16.00-18.00 motocross MANTOVA ",eurosport 2 uk
+
+#EXTINF:-1,14.45 cycling WATTENFALL CYCLASSIC HAMBURG ",eurosport uk
+rtmp://$OPT:rtmp-raw=rtmp://80.82.64.140:443/liverepeater playpath=39 pageUrl=http://popeoftheplayers.eu/ token=#atd%#$ZH
+#EXTINF:-1,14.45 cycling WATTENFALL CYCLASSIC HAMBURG ",eurosport de
+http://streaming-hub.com/tv/i/eurosportde_1@97452/index_1300_av-p.m3u8?sd=10&rebase=on
+
+#EXTINF:-1,15.30 cycling VUELTA A ESPANA - etapa 2 - Alhaurin de la Torre - Caminito del Rey ",eurosport uk
+rtmp://$OPT:rtmp-raw=rtmp://80.82.64.140:443/liverepeater playpath=39 pageUrl=http://popeoftheplayers.eu/ token=#atd%#$ZH
+#EXTINF:-1,15.30 cycling VUELTA A ESPANA - etapa 2 - Alhaurin de la Torre - Caminito del Rey ",eurosport de
+http://streaming-hub.com/tv/i/eurosportde_1@97452/index_1300_av-p.m3u8?sd=10&rebase=on
+#EXTINF:-1,15.30 cycling VUELTA A ESPANA - etapa 2 - Alhaurin de la Torre - Caminito del Rey ",tve1 es
+http://hlslive.rtve.es/LA1_LV3_IPH/master.m3u8
+
+#EXTINF:-1,18.00 tennis CINCINNATI mens Final ",silk sport 3 ge
+http://80.77.52.6:3719/udp/226.0.0.9:12345
+ 
