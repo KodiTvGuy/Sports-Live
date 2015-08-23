@@ -49,11 +49,11 @@
 <channels>
 
 <channel>
-      <name>[COLOR purple]--OTHER LIVE SPORTS[/COLOR]</name>
-  <thumbnail></thumbnail>
-<fanart></fanart>
+      <name>[COLOR purple]--OTHER LIVE SPORTS--[/COLOR]</name>
+  <thumbnail>http://pasteboard.co/2NpYwRwH.png</thumbnail>
+<fanart>http://pasteboard.co/2NpU7gsJ.jpg</fanart>
 <link>http://ignoreme</link>
-   <externallink>http://ignoreme</externallink>
+   <externallink>https://raw.githubusercontent.com/KodiTvGuy/Sports-Live/master/List%201/Other%20Live%20Sports.m3u</externallink>
 </channel>
   </channels>
   
