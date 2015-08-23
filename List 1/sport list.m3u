@@ -47,9 +47,6 @@ http://37.187.149.103:8000/live/9f1617ad80c3059c/c327ea13c0d02f57/105.ts
 #EXTINF:0,SKY SPORTS F1
 http://servprjsmartv.mine.nu:8000/live/persianshare/shkfyhpne/1630.m3u8
 
-#EXTINF:0,SKY SPORTS F1
-http://37.187.149.103:8000/live/9f1617ad80c3059c/c327ea13c0d02f57/96.ts
-
 #EXTINF:0,SKY SPORTS NEWS
 http://servprjsmartv.mine.nu:8000/live/persianshare/shkfyhpne/1533.m3u8
 
@@ -65,11 +62,14 @@ rtmp://80.82.64.140:443/liverepeater playpath=14 pageUrl=http://popeoftheplayers
 #EXTINF:0,BT SPORT ESPN
 http://37.187.149.103:8000/live/9f1617ad80c3059c/c327ea13c0d02f57/146.m3u8
 
-#EXTINF:0,BT SPORT 1
-http://iptv15.zapto.org:8000/live/free4u/2015/1078.ts
+#EXTINF:0,BT SPORTS 1 HD
+http://servprjsmartv.mine.nu:8000/live/persianshare/shkfyhpne/1573.m3u8
+
+#EXTINF:0,BT SPORTS 1
+http://servprjsmartv.mine.nu:8000/live/persianshare/shkfyhpne/1572.m3u8
 
 #EXTINF:0,BT SPORT 1
-http://37.187.149.103:8000/live/9f1617ad80c3059c/c327ea13c0d02f57/92.ts
+http://iptv15.zapto.org:8000/live/free4u/2015/1078.ts
 
 #EXTINF:0,BT SPORT 2
 http://37.187.149.103:8000/live/9f1617ad80c3059c/c327ea13c0d02f57/94.m3u8
@@ -158,11 +158,7 @@ http://4.31.30.159:9086
 #EXTINF:0,MUTV
 http://37.187.149.103:8000/live/9f1617ad80c3059c/c327ea13c0d02f57/195.m3u8
 
-#EXTINF:0,CHELSEA TV
-http://37.187.149.103:8000/live/9f1617ad80c3059c/c327ea13c0d02f57/138.ts
 
-#EXTINF:0,LFC TV
-http://37.187.149.103:8000/live/9f1617ad80c3059c/c327ea13c0d02f57/205.ts
 
 
 
