@@ -44,8 +44,14 @@ http://servprjsmartv.mine.nu:8000/live/persianshare/shkfyhpne/1533.m3u8
 #EXTINF:0,BT SPORT EUROPE HD
 http://iptv15.zapto.org:8000/live/free4u/2015/1076.ts
 
+#EXTINF:0,BT SPORT EUROPE
+http://37.187.149.103:8000/live/9f1617ad80c3059c/c327ea13c0d02f57/147.m3u8
+
 #EXTINF:-1,BT SPORT EUROPE
 rtmp://80.82.64.140:443/liverepeater playpath=14 pageUrl=http://popeoftheplayers.eu/ token=#atd%#$ZH
+
+#EXTINF:0,BT SPORT ESPN
+http://37.187.149.103:8000/live/9f1617ad80c3059c/c327ea13c0d02f57/146.m3u8
 
 #EXTINF:0,BT SPORT 1
 http://iptv15.zapto.org:8000/live/free4u/2015/1078.ts
@@ -68,8 +74,8 @@ http://37.187.149.103:8000/live/9f1617ad80c3059c/c327ea13c0d02f57/134.m3u8
 #EXTINF:0,PREMIER SPORTS
 http://servprjsmartv.mine.nu:8000/live/persianshare/shkfyhpne/1602.m3u8
 
-#EXTINF:0,RACING
-http://servprjsmartv.mine.nu:8000/live/persianshare/shkfyhpne/1603.m3u8
+#EXTINF:0,RACING UK
+http://37.187.149.103:8000/live/9f1617ad80c3059c/c327ea13c0d02f57/93.m3u8
 
 #EXTINF:0,BEIN SPORTS 1 HD
 http://servprjsmartv.mine.nu:8000/live/persianshare/shkfyhpne/1648.m3u8
@@ -130,6 +136,9 @@ http://4.31.30.159:9086
 
 #EXTINF:0,MUTV
 http://37.187.149.103:8000/live/9f1617ad80c3059c/c327ea13c0d02f57/195.m3u8
+
+#EXTINF:0,MUTV
+http://37.187.149.103:8000/live/1d317d756213bc6d/d03ea05e29daf50b/195.m3u8
 
 
 
