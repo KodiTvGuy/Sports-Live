@@ -42,10 +42,10 @@ http://178.18.30.112:8081/liverepeater/198209/chunklist_w534016699.m3u8?nimblese
 http://servprjsmartv.mine.nu:8000/live/persianshare/shkfyhpne/1630.m3u8
 
 #EXTINF:0,SKY SPORTS NEWS
-http://servprjsmartv.mine.nu:8000/live/persianshare/shkfyhpne/1533.m3u8
+http://93.184.221.133/00573D/183/183-0.m3u8
 
-#EXTINF:0,Sky SPORTS NEWS HQ
-http://37.187.149.103:8000/live/9f1617ad80c3059c/c327ea13c0d02f57/133.ts
+#EXTINF:0,SKY SPORTS NEWS
+http://93.184.221.133/00573D/183/183-0.m3u8
 
 #EXTINF:0,BT SPORT EUROPE
 http://37.187.149.103:8000/live/9f1617ad80c3059c/c327ea13c0d02f57/147.m3u8
@@ -77,11 +77,17 @@ http://servprjsmartv.mine.nu:8000/live/persianshare/shkfyhpne/1610.m3u8
 #EXTINF:0,BOX NATION
 http://servprjsmartv.mine.nu:8000/live/persianshare/shkfyhpne/1571.m3u8
 
-#EXTINF:1,EUROSPORT 1
-http://37.187.149.103:8000/live/9f1617ad80c3059c/c327ea13c0d02f57/188.m3u8
+#EXTINF:0,EUROSPORT
+http://93.184.221.133/00573D/1210/1210-0.m3u8
 
-#EXTINF:1,EUROSPORT 2
-http://37.187.149.103:8000/live/9f1617ad80c3059c/c327ea13c0d02f57/134.m3u8
+#EXTINF:0,EUROSPORT
+http://178.33.88.129:888/udp/239.102.0.26:1234
+
+#EXTINF:0,EUROSPORT 2
+http://93.184.221.133/00573D/1211/1211-0.m3u8
+
+#EXTINF:0,EUROSPORT 2
+http://178.33.88.129:888/udp/239.102.0.27:1234
 
 #EXTINF:0,PREMIER SPORTS
 http://servprjsmartv.mine.nu:8000/live/persianshare/shkfyhpne/1602.m3u8
