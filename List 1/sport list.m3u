@@ -56,6 +56,9 @@ http://37.187.149.103:8000/live/9f1617ad80c3059c/c327ea13c0d02f57/146.m3u8
 #EXTINF:0,BT SPORT 1
 http://iptv15.zapto.org:8000/live/free4u/2015/1078.ts
 
+#EXTINF:0,BTSports 2 HD
+http://62.210.103.22:8000/live/SKYPE:IPTV@PREMIUM/SDFV546B7BSDBSGT/133.ts
+
 #EXTINF:0,BT SPORTS 2
 http://servprjsmartv.mine.nu:8000/live/persianshare/shkfyhpne/1574.m3u8
 
