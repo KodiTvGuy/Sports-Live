@@ -1,6 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1, [COLOR green]-------------UPDATED 22/08/15-------------[/COLOR]
+#EXTINF:-1, [COLOR green]-------------UPDATED 23/08/15-------------[/COLOR]
 #EXTINF:-1,
 #
 #EXTINF:-1,
@@ -41,17 +41,20 @@ http://servprjsmartv.mine.nu:8000/live/persianshare/shkfyhpne/1629.m3u8
 #EXTINF:0,SKY SPORTS 5
 http://iptv15.zapto.org:8000/live/free4u/2015/352.ts
 
+#EXTINF:0,SKY SPORTS 5
+http://37.187.149.103:8000/live/9f1617ad80c3059c/c327ea13c0d02f57/105.ts
+
 #EXTINF:0,SKY SPORTS F1
 http://servprjsmartv.mine.nu:8000/live/persianshare/shkfyhpne/1630.m3u8
 
 #EXTINF:0,SKY SPORTS F1
-http://iptv15.zapto.org:8000/live/free4u/2015/350.ts
+http://37.187.149.103:8000/live/9f1617ad80c3059c/c327ea13c0d02f57/96.ts
 
 #EXTINF:0,SKY SPORTS NEWS
 http://servprjsmartv.mine.nu:8000/live/persianshare/shkfyhpne/1533.m3u8
 
-#EXTINF:0,BT SPORT EUROPE HD
-http://iptv15.zapto.org:8000/live/free4u/2015/1076.ts
+#EXTINF:0,Sky SPORTS NEWS HQ
+http://37.187.149.103:8000/live/9f1617ad80c3059c/c327ea13c0d02f57/133.ts
 
 #EXTINF:0,BT SPORT EUROPE
 http://37.187.149.103:8000/live/9f1617ad80c3059c/c327ea13c0d02f57/147.m3u8
@@ -65,11 +68,17 @@ http://37.187.149.103:8000/live/9f1617ad80c3059c/c327ea13c0d02f57/146.m3u8
 #EXTINF:0,BT SPORT 1
 http://iptv15.zapto.org:8000/live/free4u/2015/1078.ts
 
-#EXTINF:0,BT Sport 2
+#EXTINF:0,BT SPORT 1
+http://37.187.149.103:8000/live/9f1617ad80c3059c/c327ea13c0d02f57/92.ts
+
+#EXTINF:0,BT SPORT 2
 http://37.187.149.103:8000/live/9f1617ad80c3059c/c327ea13c0d02f57/94.m3u8
 
-#EXTINF:0,BT SPORTS 2
+#EXTINF:0,BT SPORT 2
 http://servprjsmartv.mine.nu:8000/live/persianshare/shkfyhpne/1574.m3u8
+
+#EXTINF:0,BT SPORT 2
+http://37.187.149.103:8000/live/9f1617ad80c3059c/c327ea13c0d02f57/94.ts
 
 #EXTINF:0,SETANTA SPORTS
 http://servprjsmartv.mine.nu:8000/live/persianshare/shkfyhpne/1610.m3u8
@@ -119,8 +128,8 @@ http://servprjsmartv.mine.nu:8000/live/persianshare/shkfyhpne/1656.m3u8
 #EXTINF:0,BEIN SPORTS 10 HD
 http://servprjsmartv.mine.nu:8000/live/persianshare/shkfyhpne/1657.m3u8
 
-#EXTINF:0,BEIN SPORTS 11HD
-http://star7arab.zapto.org:8082/TV4011
+#EXTINF:0,BEIN SPORTS 11HD 
+http://178.33.88.129:888/udp/239.102.0.12:1234
 
 #EXTINF:0,FOX SPORTS 1
 http://4.31.30.159:9110.m3u8
@@ -148,6 +157,12 @@ http://4.31.30.159:9086
 
 #EXTINF:0,MUTV
 http://37.187.149.103:8000/live/9f1617ad80c3059c/c327ea13c0d02f57/195.m3u8
+
+#EXTINF:0,CHELSEA TV
+http://37.187.149.103:8000/live/9f1617ad80c3059c/c327ea13c0d02f57/138.ts
+
+#EXTINF:0,LFC TV
+http://37.187.149.103:8000/live/9f1617ad80c3059c/c327ea13c0d02f57/205.ts
 
 
 
