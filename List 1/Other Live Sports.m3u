@@ -23,5 +23,8 @@ http://hlslive.rtve.es/LA1_LV3_IPH/master.m3u8
 #EXTINF:-1,18.00 tennis CINCINNATI mens Final ",silk sport 3 ge
 http://80.77.52.6:3719/udp/226.0.0.9:12345
  
- #EXTINF:-1,21.00 cycling TOUR of COLORADO 7th stage ",eurosport 2 uk
+#EXTINF:-1,21.00 cycling TOUR of COLORADO 7th stage ",eurosport 2 uk
 rtmp://$OPT:rtmp-raw=rtmp://80.82.64.140:443/liverepeater playpath=10 pageUrl=http://popeoftheplayers.eu/ token=#atd%#$ZH
+
+#EXTINF:-1,WWE
+rtmp://$OPT:rtmp-raw=rtmp://80.82.64.140:443/liverepeater playpath=46 pageUrl=http://popeoftheplayers.eu/ token=#atd%#$ZH
