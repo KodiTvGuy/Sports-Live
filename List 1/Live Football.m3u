@@ -8,7 +8,7 @@
 
 
 #EXTINF:-1,12.30 sco RANGERS - HIBERNIAN ",sky sports 5 uk
-rtmp://$OPT:rtmp-raw=rtmp://80.82.64.140:443/liverepeater playpath=5 pageUrl=http://popeoftheplayers.eu/ token=#atd%#$ZH
+http://$OPT:rtmp-raw=rtmp://80.82.64.140:443/liverepeater playpath=5 pageUrl=http://popeoftheplayers.eu/ token=#atd%#$ZH
 
 #EXTINF:-1,13.00 fra LILLE - BORDEAUX ",ntv+futbol 2 ru
 http://fe-nw.svc.iptv.rt.ru/hls/CH_C05_FOOTBALL2/variant.m3u8?version=2
