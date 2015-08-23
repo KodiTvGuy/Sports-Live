@@ -89,38 +89,14 @@ http://servprjsmartv.mine.nu:8000/live/persianshare/shkfyhpne/1602.m3u8
 #EXTINF:0,RACING UK
 http://37.187.149.103:8000/live/9f1617ad80c3059c/c327ea13c0d02f57/93.m3u8
 
-#EXTINF:0,BEIN SPORTS 1 HD
-http://servprjsmartv.mine.nu:8000/live/persianshare/shkfyhpne/1648.m3u8
+#EXTINF:0,BEIN USA 1
+http://lihattv.toh.info/jhos/beib1.m3u8
 
-#EXTINF:0,BEIN SPORTS 2 HD
-http://servprjsmartv.mine.nu:8000/live/persianshare/shkfyhpne/1649.m3u8
+#EXTINF:0,BEIN USA 2
+http://lihattv.toh.info/jhos/beib2.m3u8
 
-#EXTINF:0,BEIN SPORTS 3 HD
-http://servprjsmartv.mine.nu:8000/live/persianshare/shkfyhpne/1650.m3u8
-
-#EXTINF:0,BEIN SPORTS 4 HD
-http://servprjsmartv.mine.nu:8000/live/persianshare/shkfyhpne/1651.m3u8
-
-#EXTINF:0,BEIN SPORTS 5 HD
-http://servprjsmartv.mine.nu:8000/live/persianshare/shkfyhpne/1652.m3u8
-
-#EXTINF:0,BEIN SPORTS 6 HD
-http://servprjsmartv.mine.nu:8000/live/persianshare/shkfyhpne/1653.m3u8
-
-#EXTINF:0,BEIN SPORTS 7 HD
-http://servprjsmartv.mine.nu:8000/live/persianshare/shkfyhpne/1654.m3u8
-
-#EXTINF:0,BEIN SPORTS 8 HD
-http://servprjsmartv.mine.nu:8000/live/persianshare/shkfyhpne/1655.m3u8
-
-#EXTINF:0,BEIN SPORTS 9 HD
-http://servprjsmartv.mine.nu:8000/live/persianshare/shkfyhpne/1656.m3u8
-
-#EXTINF:0,BEIN SPORTS 10 HD
-http://servprjsmartv.mine.nu:8000/live/persianshare/shkfyhpne/1657.m3u8
-
-#EXTINF:0,BEIN SPORTS 11HD 
-http://178.33.88.129:888/udp/239.102.0.12:1234
+#EXTINF:0,BEIN USA 3
+http://lihattv.toh.info/jhos/beib3.m3u8
 
 #EXTINF:0,FOX SPORTS 1
 http://4.31.30.159:9110.m3u8
@@ -157,6 +133,15 @@ http://tvegolf-i.Akamaihd.net/hls/live/218225/golfx/2596k/prog.m3u8|X-Forwarded-
  
 #EXTINF:0,NBC GOLF 1080p
 http://tvegolf-i.Akamaihd.net/hls/live/218225/golfx/4296k/prog.m3u8|X-Forwarded-For=209.239.112.104
+
+#EXTINF:0,SILK SPORT 1
+http://80.77.52.6:3719/udp/226.0.0.7:12345
+
+#EXTINF:0,SILK SPORT 2
+http://80.77.52.6:3719/udp/226.0.0.8:12345
+
+#EXTINF:0,SILK SPORT 3
+http://80.77.52.6:3719/udp/226.0.0.9:12345
 
 
 
