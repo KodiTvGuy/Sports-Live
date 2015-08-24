@@ -1,0 +1,21 @@
+#EXTM3U
+
+
+
+#EXTINF:-1,SKY SPORTS 1
+plugin://plugin.video.p2p-streams/?url=acestream://7dcf3c8daaad0efbef55af2d74d52a5f8f65783c&mode=1&name=acestream+SKY SPORTS 1
+
+#EXTINF:-1,SKY SPORTS 2
+plugin://plugin.video.p2p-streams/?url=acestream://e9969669eeed0adb1c68072e977283222ac9572e&mode=1&name=acestream+SKY SPORTS 2
+
+#EXTINF:-1,SKY SPORTS 3
+plugin://plugin.video.p2p-streams/?url=acestream://2e8b87e0595573cf9cc422899d0e4c86fbd83081&mode=1&name=acestream+SKY SPORTS 3
+
+#EXTINF:-1,SKY SPORTS 4
+plugin://plugin.video.p2p-streams/?url=acestream://5d255851c2ac4f2722cd6b988ff9f1b585baf1fe&mode=1&name=acestream+SKY SPORTS 4
+
+#EXTINF:-1,SKY SPORTS 5
+plugin://plugin.video.p2p-streams/?url=acestream://37558d4ae8149aebd7e87a406fece41626e35c31&mode=1&name=acestream+SKY SPORTS 5
+
+#EXTINF:-1,SKY SPORTS F1
+plugin://plugin.video.p2p-streams/?url=acestream://02c14347959f78d8bf18f898c56f429ab5a44c7b&mode=1&name=acestream+SKY SPORTS F1
