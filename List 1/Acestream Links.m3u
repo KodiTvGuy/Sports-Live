@@ -21,3 +21,18 @@ plugin://plugin.video.p2p-streams/?url=acestream://37558d4ae8149aebd7e87a406fece
 
 #EXTINF:-1,SKY SPORTS F1
 plugin://plugin.video.p2p-streams/?url=acestream://02c14347959f78d8bf18f898c56f429ab5a44c7b&mode=1&name=acestream+SKY SPORTS F1
+
+#EXTINF:-1,BT SPORT 1
+plugin://plugin.video.p2p-streams/?url=acestream://dc5310a7e47fcd52cf1d9d7c4db089d72cf3d9e5&mode=1&name=acestream+BT SPORT 1
+
+#EXTINF:-1,BT SPORT 2
+plugin://plugin.video.p2p-streams/?url=acestream://ccfa7549f7837e3e2c7cb646562e77c1aac6f0c9&mode=1&name=acestream+BT SPORT 2
+
+#EXTINF:-1,SETANTA
+plugin://plugin.video.p2p-streams/?url=acestream://132bc6147e94c8903d8c5c0c0034b27ce4b1f761&mode=1&name=acestream+SETANTA
+
+#EXTINF:-1,ESPN USA
+plugin://plugin.video.p2p-streams/?url=acestream://1bfa6e870c963a4dcbcb4a76bf3624d1335a0e23&mode=1&name=acestream+ESPN USA
+
+#EXTINF:-1,PREMIER SPORTS
+plugin://plugin.video.p2p-streams/?url=acestream://fb2080a96e762e926a33e61c70bd74edb2beabdf&mode=1&name=acestream+PREMIER SPORTS
