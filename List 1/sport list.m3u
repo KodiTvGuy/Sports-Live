@@ -11,65 +11,21 @@
 
 
  
-#EXTINF:0,SKY SPORTS 1
-http://37.187.149.103:8000/live/9f16...d02f57/98.m3u8
 
-#EXTINF:0,SKY SPORTS 1
-http://37.187.149.103:8000/live/1d31...daf50b/98.m3u8
 
-#EXTINF:0,SKY SPORTS 2
-http://37.187.149.103:8000/live/9f16...d02f57/97.m3u8
 
-#EXTINF:0,SKY SPORTS 2
-http://37.187.149.103:8000/live/1d31...daf50b/97.m3u8
-
-#EXTINF:0,SKY SPORTS 3
-http://37.187.149.103:8000/live/9f16...d02f57/99.m3u8
-
-#EXTINF:0,SKY SPORTS 3
-http://37.187.149.103:8000/live/1d31...daf50b/99.m3u8
-
-#EXTINF:0,SKY SPORTS 4
-http://37.187.149.103:8000/live/9f16...02f57/106.m3u8
-
-#EXTINF:0,SKY SPORTS 4
-http://37.187.149.103:8000/live/1d31...af50b/106.m3u8
-
-#EXTINF:0,SKY SPORTS 5
-http://178.18.30.112:8081/liverepeater/198209/chunklist_w534016699.m3u8?nimblesessionid=681919&wmsAuthSign=c2VydmVyX3RpbWU9OC8yMy8yMDE1IDEyOjU0OjQ1IFBNJmhhc2hfdmFsdWU9VU14RU0vSzdQdXdQTzR2Q09qaDlmQT09JnZhbGlkbWludXRlcz00
-
-#EXTINF:0,SKY SPORTS F1
-http://servprjsmartv.mine.nu:8000/live/persianshare/shkfyhpne/1630.m3u8
-
-#EXTINF:0,SKY SPORTS NEWS
-http://93.184.221.133/00573D/183/183-0.m3u8
-
-#EXTINF:0,SKY SPORTS NEWS
-http://93.184.221.133/00573D/183/183-0.m3u8
-
-#EXTINF:0,BT SPORT EUROPE
-http://37.187.149.103:8000/live/9f1617ad80c3059c/c327ea13c0d02f57/147.m3u8
 
 #EXTINF:-1,BT SPORT EUROPE
 rtmp://80.82.64.140:443/liverepeater playpath=14 pageUrl=http://popeoftheplayers.eu/ token=#atd%#$ZH
 
-#EXTINF:0,BT SPORT ESPN
-http://37.187.149.103:8000/live/9f1617ad80c3059c/c327ea13c0d02f57/146.m3u8
 
-#EXTINF:0,BT SPORT 1
-http://iptv15.zapto.org:8000/live/free4u/2015/1078.ts
 
-#EXTINF:0,BT SPORT 1
-http://37.187.149.103:8000/live/9f1617ad80c3059c/c327ea13c0d02f57/92.ts
 
-#EXTINF:0,BT SPORT 2
-http://37.187.149.103:8000/live/9f1617ad80c3059c/c327ea13c0d02f57/94.m3u8
 
 #EXTINF:0,BT SPORT 2
 http://servprjsmartv.mine.nu:8000/live/persianshare/shkfyhpne/1574.m3u8
 
-#EXTINF:0,BT SPORT 2
-http://37.187.149.103:8000/live/9f1617ad80c3059c/c327ea13c0d02f57/94.ts
+
 
 #EXTINF:0,SETANTA SPORTS
 http://servprjsmartv.mine.nu:8000/live/persianshare/shkfyhpne/1610.m3u8
@@ -86,8 +42,6 @@ http://178.33.88.129:888/udp/239.102.0.27:1234
 #EXTINF:0,PREMIER SPORTS
 http://servprjsmartv.mine.nu:8000/live/persianshare/shkfyhpne/1602.m3u8
 
-#EXTINF:0,RACING UK
-http://37.187.149.103:8000/live/9f1617ad80c3059c/c327ea13c0d02f57/93.m3u8
 
 #EXTINF:0,BEIN USA 1
 http://lihattv.toh.info/jhos/beib1.m3u8
@@ -98,59 +52,10 @@ http://lihattv.toh.info/jhos/beib2.m3u8
 #EXTINF:0,BEIN USA 3
 http://lihattv.toh.info/jhos/beib3.m3u8
 
-#‎EXTINF‬:0,BEIN 1 HD
-http://bit.ly/1KfHk7R
 
-#EXTINF:0,BEIN 2HD
-http://bit.ly/1JeE1Ph
 
-#EXTINF:0,BEIN 3 HD
-http://bit.ly/1J1OsPV
 
-#EXTINF:0,BEIN 4HD
-http://bit.ly/1HBU2HC
 
-#EXTINF:0,BEIN 7HD
-http://bit.ly/1J1OfMD
-
-#EXTINF:0,BEIN 8HD
-http://bit.ly/1P94igj
-
-#EXTINF:0,BEIN 9HD
-http://bit.ly/1JVDEbb
-
-#EXTINF:0,BEIN 10HD
-http://bit.ly/1L7TL40
-
-#EXTINF:0,BEIN 11HD
- http://bit.ly/1hWtX1a
-
-#EXTINF:0,FOX SPORTS 1
-http://4.31.30.159:9110.m3u8
-
-#EXTINF:0,FOX SPORTS 2
-http://4.31.30.159:9111
-
-#EXTINF:0,NFL NETWORK
-http://nflsvgatlgame3-i.akamaihd.net/hls/live/223175/NFL_Mobile/2015Mobile_NFLN_200k.m3u8
-
-#EXTINF:0,TSN 1
-http://4.31.30.159:9082
-
-#EXTINF:0,TSN 2
-http://4.31.30.159:9083
-
-#EXTINF:0,TSN 3
-http://4.31.30.159:9084
-
-#EXTINF:0,TSN 4
-http://4.31.30.159:9085
-
-#EXTINF:0,TSN 5
-http://4.31.30.159:9086
-
-#EXTINF:0,MUTV
-http://37.187.149.103:8000/live/9f1617ad80c3059c/c327ea13c0d02f57/195.m3u8
 
 #EXTINF:0,NBC SPORTS EXTRA 1080P
 http://tvenbcsn-i.Akamaihd.net/hls/live/218235/nbcsnx/4296k/prog.m3u8|X-Forwarded-For=209.239.112.104
