@@ -4,7 +4,7 @@
 #EXTINF:-1, [COLOR blue]--------P2P STREAMS ADDON NEEDS INSTALLED TO PLAY THESE LINKS --------[/COLOR]
 #EXTINF:-1,
 #
-#EXTINF:-1,SKY SPORTS 1 LINK 1           [COLOR lime]STREAM UP[/COLOR]
+#EXTINF:-1,SKY SPORTS 1 LINK 1                       [COLOR lime]STREAM UP[/COLOR]
 plugin://plugin.video.p2p-streams/?url=acestream://7dcf3c8daaad0efbef55af2d74d52a5f8f65783c&mode=1&name=acestream+SKY SPORTS 1
 
 #EXTINF:-1,SKY SPORTS 1 LINK 2
