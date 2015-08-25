@@ -25,6 +25,9 @@ http://84.232.5.115/liveedge3/skysp1.stream/playlist.m3u8
 #EXTINF:-1,SKY SPORTS 1
 http://5.196.82.222:8000/live/bensportpackage/kIEwGfrvIm/11.ts
 
+#EXTINF:-1,UK: Sky Sport 1 UK
+http://iptv-volkan.ddns.net:8000/live/iptv2015/test12015/328.ts
+
 #EXTINF:0,SKY SPORTS 2 HD
 http://84.232.5.115/liveedge3/skysp2.stream/playlist.m3u8
 
@@ -75,6 +78,9 @@ rtmp://80.82.64.140:443/liverepeater playpath=14 pageUrl=http://popeoftheplayers
 
 #EXTINF:0,BT SPORT EUROPE
 http://iptv-volkan.ddns.net:8000/live/noureddine123/barb52/1032.ts
+
+#EXTINF:-1,UK: BT SPORT EUROPE TEST
+http://iptv-volkan.ddns.net:8000/live/iptv2015/test12015/1032.ts
 
 #EXTINF:0,BT SPORT ESPN
 http://84.232.5.115/liveedge3/espn.stream/playlist.m3u8
