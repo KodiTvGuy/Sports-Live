@@ -61,4 +61,20 @@ plugin://plugin.video.p2p-streams/?url=acestream://fb2080a96e762e926a33e61c70bd7
 plugin://plugin.video.p2p-streams/?url=acestream://60fd37e738b51ed73ceef65052e1a4e56dcaa729&mode=1&name=acestream+CANAL+ ESPANA
 
 #EXTINF:-1,[COLOR lime]CANAL+ HD FRANCE[/COLOR]
-plugin://plugin.video.p2p-streams/?url=acestream://0be05e6112cb98a1799105f6c3e4348914a39080&mode=1&name=acestream+CANAL+ FRAN
+plugin://plugin.video.p2p-streams/?url=acestream://0be05e6112cb98a1799105f6c3e4348914a39080&mode=1&name=acestream+CANAL+ FRANCE
+
+#EXTINF:-1,SPORT TV 1
+plugin://plugin.video.p2p-streams/?url=acestream://c39db61fd585ebfa446983d0af9d9d637df9678c&mode=1&name=acestream+SPORT TV 1
+
+#EXTINF:-1,SPORT TV 2
+plugin://plugin.video.p2p-streams/?url=acestream://a3776be8c08f52b3366c83fff09609721e28cd69&mode=1&name=acestream+SPORT TV 2
+
+#EXTINF:-1,SPORT TV 3
+plugin://plugin.video.p2p-streams/?url=acestream://2cd965d9c087d1d6be889d54d689a6a6083a6280&mode=1&name=acestream+SPORT TV 3
+
+#EXTINF:-1,SPORT TV 4
+plugin://plugin.video.p2p-streams/?url=acestream://4f256982b213a8b3346b01683b82261db8dcd524&mode=1&name=acestream+SPORT TV 4
+
+#EXTINF:-1,SPORT TV 5
+plugin://plugin.video.p2p-streams/?url=acestream://e4bb9e8c9d080a418047686bd7891f545bc777d4&mode=1&name=acestream+SPORT TV 585352b149c4aae30c1da013f0fe378430fb7c7e&mode
+
