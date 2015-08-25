@@ -33,13 +33,16 @@ http://iptv-volkan.ddns.net:8000/live/noureddine123/barb52/352.ts
 http://84.232.5.115/liveedge3/skyspf1.stream/playlist.m3u8
 
 #EXTINF:0,BT SPORT 1
+http://84.232.5.115/liveedge3/bt1.stream/playlist.m3u8
+
+#EXTINF:0,BT SPORT 1
 http://iptv-volkan.ddns.net:8000/live/noureddine123/barb52/347.ts
+
+#EXTINF:0,BT SPORT 2 
+http://84.232.5.115/liveedge3/bt2.stream/playlist.m3u8
 
 #EXTINF:0,BT SPORT 2
 http://servprjsmartv.mine.nu:8000/live/persianshare/shkfyhpne/1574.m3u8
-
-#EXTINF:0,BT SPORT 2
-http://iptv-volkan.ddns.net:8000/live/noureddine123/barb52/346.ts
 
 #EXTINF:-1,BT SPORT EUROPE
 rtmp://80.82.64.140:443/liverepeater playpath=14 pageUrl=http://popeoftheplayers.eu/ token=#atd%#$ZH
@@ -47,11 +50,23 @@ rtmp://80.82.64.140:443/liverepeater playpath=14 pageUrl=http://popeoftheplayers
 #EXTINF:0,BT SPORT EUROPE
 http://iptv-volkan.ddns.net:8000/live/noureddine123/barb52/1032.ts
 
+#EXTINF:0,BT SPORT ESPN
+http://84.232.5.115/liveedge3/espn.stream/playlist.m3u8
+
 #EXTINF:0,SETANTA SPORTS
 http://servprjsmartv.mine.nu:8000/live/persianshare/shkfyhpne/1610.m3u8
 
+#EXTINF:0,AT THE RACES
+http://84.232.5.115/liveedge3/attheraces.stream/playlist.m3u8
+
 #EXTINF:0,BOX NATION
 http://servprjsmartv.mine.nu:8000/live/persianshare/shkfyhpne/1571.m3u8
+
+#EXTINF:0,EUROSPORT 1
+http://84.232.5.115/liveedge3/eurosport.stream/playlist.m3u8
+
+#EXTINF:0,EUROSPORT 2 
+http://84.232.5.115/liveedge3/eurosport2.stream/playlist.m3u8
 
 #EXTINF:0,EUROSPORT
 http://178.33.88.129:888/udp/239.102.0.26:1234
@@ -62,6 +77,8 @@ http://178.33.88.129:888/udp/239.102.0.27:1234
 #EXTINF:0,PREMIER SPORTS
 http://servprjsmartv.mine.nu:8000/live/persianshare/shkfyhpne/1602.m3u8
 
+#EXTINF:0,RACING UK 
+http://84.232.5.115/liveedge/racinguk.stream/playlist.m3u8
 
 #EXTINF:0,BEIN USA 1
 http://lihattv.toh.info/jhos/beib1.m3u8
