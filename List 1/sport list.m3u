@@ -76,10 +76,29 @@ http://lihattv.toh.info/jhos/beib2.m3u8
 #EXTINF:0,BEIN USA 3
 http://lihattv.toh.info/jhos/beib3.m3u8
 
+#EXTINF:0,BEINSPORT 1 HD
+http://iptv-volkan.ddns.net:8000/live/noureddine123/barb52/387.ts
 
+#EXTINF:0,BEINSPORT 2 HD
+http://iptv-volkan.ddns.net:8000/live/noureddine123/barb52/388.ts
 
+#EXTINF:0,BEINSPORT 3 HD
+http://iptv-volkan.ddns.net:8000/live/noureddine123/barb52/389.ts
 
+ #EXTINF:0,BEINSPORT 4 HD
+http://iptv-volkan.ddns.net:8000/live/noureddine123/barb52/390.ts
 
+#EXTINF:0,BEINSPORT 5 HD
+http://iptv-volkan.ddns.net:8000/live/noureddine123/barb52/391.ts
+
+#EXTINF:0,BEINSPORT 7 HD
+http://iptv-volkan.ddns.net:8000/live/noureddine123/barb52/392.ts
+
+#EXTINF:0,BEINSPORT 8 HD
+http://iptv-volkan.ddns.net:8000/live/noureddine123/barb52/393.ts
+
+#EXTINF:0,BEINSPORT 9 HD
+http://iptv-volkan.ddns.net:8000/live/noureddine123/barb52/394.ts
 
 #EXTINF:0,NBC SPORTS EXTRA 1080P
 http://tvenbcsn-i.Akamaihd.net/hls/live/218235/nbcsnx/4296k/prog.m3u8|X-Forwarded-For=209.239.112.104
