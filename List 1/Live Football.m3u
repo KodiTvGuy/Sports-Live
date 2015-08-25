@@ -1,61 +1,88 @@
 #EXTM3U
 
 
-#EXTINF:-1, [COLOR green]-------------UPDATED 24/08/15 @17.55-------------[/COLOR]
+#EXTINF:-1, [COLOR green]-------------UPDATED 25/08/15 @18.15-------------[/COLOR]
 #EXTINF:-1,
 #
 #EXTINF:-1,
 
 
-#EXTINF:-1,16.00 rus RUBIN KAZAN - ZENIT ST.PETERSBURG sport tv 1 pt
-rtmp://$OPT:rtmp-raw=rtmpe://5.153.233.106:443/share/ playpath=live1-rbi6c swfUrl=http://sharecast.to/player/player20.swf live=1 timeout=13 pageUrl=http://sharecast.to/
-#EXTINF:-1,16.00 rus RUBIN KAZAN - ZENIT ST.PETERSBURG sportklub 2 sr
-http://www.nasatv.eu:80/live?channelId=88&uid=18&deviceUser=zine&devicePass=zine
-
-
-#EXTINF:-1,19.15 ger2 KAISERSLAUTERN - PADERBORN bt sport europe uk
-rtmp://$OPT:rtmp-raw=rtmp://80.82.64.140:443/liverepeater playpath=14 pageUrl=http://popeoftheplayers.eu/ token=#atd%#$ZH
-#EXTINF:-1,19.15 ger2 KAISERSLAUTERN - PADERBORN sport 1 de
-http://streaming-hub.com/tv/i/sport1_1@97464/index_1300_av-p.m3u8?sd=10&rebase=on
-
-#EXTINF:-1,19.30 esp GRANADA - EIBAR sport tv 2 pt
-rtmp://$OPT:rtmp-raw=rtmpe://5.153.233.106:443/share/ playpath=live2-bipmr swfUrl=http://sharecast.to/player/player20.swf live=1 timeout=13 pageUrl=http://sharecast.to/
-#EXTINF:-1,19.30 esp GRANADA - EIBAR beIN sports FR 1
-rtmp://176.10.250.166:1935/tv/stream2
-#EXTINF:-1,19.30 esp GRANADA - EIBAR digi sport 2 ro
-rtmp://rtmp.deltatv.pw:1935/liverepeater/_definst_/132685
-#EXTINF:-1,19.30 esp GRANADA - EIBAR ntv+futbol 2 ru
-http://fe-nw.svc.iptv.rt.ru/hls/CH_C05_FOOTBALL2/variant.m3u8?version=2
-#EXTINF:-1,19.30 esp GRANADA - EIBAR sportklub 2 sr
-http://www.nasatv.eu:80/live?channelId=88&uid=18&deviceUser=zine&devicePass=zine
-#EXTINF:-1,19.30 esp GRANADA - EIBAR silk sport 2 ge
-http://80.77.52.6:3719/udp/226.0.0.8:12345
-
-#EXTINF:-1,20.00 eng ARSENAL - LIVERPOOL idman tv Az
+#EXTINF:-1,19.45 ch.lea MONACO - VALENCIA idman tv Az
 http://149.255.152.70:80/idman/index.m3u8
-#EXTINF:-1,20.00 eng ARSENAL - LIVERPOOL irib varzesh ir
+#EXTINF:-1,19.45 ch.lea MONACO - VALENCIA irib varzesh ir
 http://63.237.48.3/ios/VARZESH_TV/VARZESH_TV.m3u8
-#EXTINF:-1,20.00 eng ARSENAL - LIVERPOOL turkmen sport
-rtmp://217.174.227.20/webtv/ch004_sd
-#EXTINF:-1,20.00 eng ARSENAL - LIVERPOOL ntv+futbol 1 ru
-http://fe-nw.svc.iptv.rt.ru/hls/CH_C03_FOOTBALL1/variant.m3u8?version=2
-#EXTINF:-1,20.00 eng ARSENAL - LIVERPOOL silk sport 1 ge
-http://80.77.52.6:3719/udp/226.0.0.7:12345
-#EXTINF:-1,20.00 eng ARSENAL - LIVERPOOL sky sports 1 uk
-rtmp://$OPT:rtmp-raw=rtmp://80.82.64.140:443/liverepeater playpath=1 pageUrl=http://popeoftheplayers.eu/ token=#atd%#$ZH
-#EXTINF:-1,20.00 eng ARSENAL - LIVERPOOL sportklub 1 sr
-http://www.nasatv.eu:80/live?channelId=87&uid=18&deviceUser=zine&devicePass=zine
-
-
-#EXTINF:-1,20.00 por ACADEMICA - VIT.SETUBAL sport tv 1 pt
+#EXTINF:-1,19.45 ch.lea MONACO - VALENCIA sport tv 1 pt
 rtmp://$OPT:rtmp-raw=rtmpe://5.153.233.106:443/share/ playpath=live1-rbi6c swfUrl=http://sharecast.to/player/player20.swf live=1 timeout=13 pageUrl=http://sharecast.to/
-#EXTINF:-1,20.00 por ACADEMICA - VIT.SETUBAL sportklub 3 sr
-http://www.nasatv.eu:80/live?channelId=101&uid=18&deviceUser=zine&devicePass=zine
+#EXTINF:-1,19.45 ch.lea MONACO - VALENCIA sport 1 voetbal nl
+http://ziggo.cdn.sport1.triple-it.nl/sport1voetbalhd.isml/QualityLevels(696000)/manifest(format=m3u8-aapl).m3u8
+#EXTINF:-1,19.45 ch.lea MONACO - VALENCIA Antena 3 es
+http://a3live-lh.akamaihd.net/i/antena3_1@35248/master.m3u8
+#EXTINF:-1,19.45 ch.lea MONACO - VALENCIA trt1 tr
+http://trtcanlitv-lh.akamaihd.net/i/TRT1HD_1@181842/master.m3u8
+#EXTINF:-1,19.45 ch.lea MONACO - VALENCIA arena sport 1 sr
+http://balkanstream.com/stream/arenasport1sr/hospa140/adis0234
+#EXTINF:-1,19.45 ch.lea MONACO - VALENCIA silk sport 1 ge
+http://80.77.52.6:3719/udp/226.0.0.7:12345
+#EXTINF:-1,19.45 ch.lea MONACO - VALENCIA ntv+futbol 1 ru
+http://fe-nw.svc.iptv.rt.ru/hls/CH_C03_FOOTBALL1/variant.m3u8?version=2
  
 
-#EXTINF:-1,1.10 arg TEMPERLEY - SARMIENTO tv publica ar
-rtmp://live-edge01.telecentro.net.ar:1935/live/tvphd-180
-#EXTINF:-1,1.10 arg TEMPERLEY - SARMIENTO tv publica ar_opz 2
-http://live-edge01.telecentro.net.ar:1935/live/tvphd-360/playlist.m3u8?
-#EXTINF:-1,1.10 arg TEMPERLEY - SARMIENTO tv publica ar_opz 3
-http://live-edge01.telecentro.net.ar:1935/live/tvphd-720/playlist.m3u8?
+#EXTINF:-1,19.45 ch.lea MACCABI TEL AVIV - BASEL rsi la 2 ch
+http://streaming-hub.com/tv/i/rsila2_1@97473/index_1300_av-b.m3u8?sd=10&rebase=on
+#EXTINF:-1,19.45 ch.lea MACCABI TEL AVIV - BASEL rts2 ch
+http://streaming-hub.com/tv/i/rts2_1@97470/index_1300_av-b.m3u8?sd=10&rebase=on
+#EXTINF:-1,19.45 ch.lea MACCABI TEL AVIV - BASEL srf 2 ch
+http://streaming-hub.com/tv/i/sf2_1@97475/index_1300_av-b.m3u8?sd=10&rebase=on
+#EXTINF:-1,19.45 ch.lea MACCABI TEL AVIV - BASEL arena sport 2 sr
+http://balkanstream.com/stream/arenasport2sr/hospa140/adis0234
+#EXTINF:-1,19.45 ch.lea MACCABI TEL AVIV - BASEL ntv+futbol 3 ru
+http://fe-nw.svc.iptv.rt.ru/hls/CH_C04_FOOTBALL3/variant.m3u8?version=2
+
+#EXTINF:-1,19.45 ch.lea SHAKHTAR DONETSK - RAPID WIEN aztv az
+http://bak01-edge03.itdc.ge/aztv/index.m3u8?token=hC9DvBIKvuN2GXbOhtwiyaWMIAGKyhe-YBSG8lYg_4nve9744Bxp1PARbILC_InBe8DzsmKz2GraLEBb2T-lBg**
+#EXTINF:-1,19.45 ch.lea SHAKHTAR DONETSK - RAPID WIEN orf 1 at
+http://81.92.105.134:5555/pl.m3u8?channel=7
+#EXTINF:-1,19.45 ch.lea SHAKHTAR DONETSK - RAPID WIEN sport tv 3 pt
+rtmp://$OPT:rtmp-raw=rtmpe://5.153.233.106:443/share/ playpath=live3-qszlx swfUrl=http://sharecast.to/player/player20.swf live=1 timeout=10 pageUrl=http://sharecast.to/
+#EXTINF:-1,19.45 ch.lea SHAKHTAR DONETSK - RAPID WIEN ntv+futbol 2 ru
+http://fe-nw.svc.iptv.rt.ru/hls/CH_C05_FOOTBALL2/variant.m3u8?version=2
+#EXTINF:-1,19.45 ch.lea SHAKHTAR DONETSK - RAPID WIEN arena sport 5 sr
+http://balkanstream.com/stream/arenasport5sr/hospa140/adis0234
+#EXTINF:-1,19.45 ch.lea SHAKHTAR DONETSK - RAPID WIEN beIN sports FR 2
+rtmp://176.10.250.166:1935/tv/stream2
+
+ 
+
+#EXTINF:-1,19.45 ch.lea DINAMO ZAGREB - SKENDERBEU hrt 2 hr
+http://213.5.58.58:1935/hrt_live/smil:hrt2.smil/nesto.m3u8
+#EXTINF:-1,19.45 ch.lea DINAMO ZAGREB - SKENDERBEU rtrs sr
+http://www.nasatv.eu:80/live?channelId=55&uid=18&deviceUser=zine&devicePass=zine
+#EXTINF:-1,19.45 ch.lea DINAMO ZAGREB - SKENDERBEU arena sport 4 sr
+http://balkanstream.com/stream/arenasport4sr/hospa140/adis0234
+#EXTINF:-1,19.45 ch.lea DINAMO ZAGREB - SKENDERBEU bht1
+http://balkanstream.com/stream/bht1/hospa140/adis0234
+#EXTINF:-1,19.45 ch.lea DINAMO ZAGREB - SKENDERBEU hrt 2 hr_opz 2
+http://balkanstream.com/stream/hrt2/hospa140/adis0234
+ 
+
+#EXTINF:-1,19.45 ch.lea MALMO - CELTIC tv georgia
+http://ams01-edge01.itdc.ge/gpb/index.m3u8?token=q3m3-L9XR5r9R05w8pOjwGIL2GHL6jYmdEW3L4gbaEGn4s2o9p-X-4pJMbwBC515HANtmMe-oArl7caccmG15Q**
+#EXTINF:-1,19.45 ch.lea MALMO - CELTIC arena sport 3 sr
+http://balkanstream.com/stream/arenasport3sr/hospa140/adis0234
+#EXTINF:-1,19.45 ch.lea MALMO - CELTIC bt sport europe uk
+rtmp://$OPT:rtmp-raw=rtmp://80.82.64.140:443/liverepeater playpath=14 pageUrl=http://popeoftheplayers.eu/ token=#atd%#$ZH
+#EXTINF:-1,19.45 ch.lea MALMO - CELTIC sport tv 2 pt
+rtmp://$OPT:rtmp-raw=rtmpe://5.153.233.106:443/share/ playpath=live2-bipmr swfUrl=http://sharecast.to/player/player20.swf live=1 timeout=13 pageUrl=http://sharecast.to/
+#EXTINF:-1,19.45 ch.lea MALMO - CELTIC tv3 sport 1 ace
+acestream://783f9190794b0cf507cc0da231d280121e8f89ad
+#EXTINF:-1,19.45 ch.lea MALMO - CELTIC silk sport 2 ge
+http://80.77.52.6:3719/udp/226.0.0.8:12345
+
+#EXTINF:-1,19.45 eng.lea.cup LUTON TOWN - STOKE CITY gazzetta tv it
+http://rcsgazzettatv59-lh.akamaihd.net/i/gazzettaTV59Univ_1@127684/master.m3u8
+#EXTINF:-1,19.45 eng.lea.cup LUTON TOWN - STOKE CITY gazzetta tv it_opz 2
+http://rcsgazzettatv59-lh.akamaihd.net/i/gazzettaTV59Univ_1@127684/index_700_av-p.m3u8?sd=10&rebase=on
+#EXTINF:-1,19.45 eng.lea.cup LUTON TOWN - STOKE CITY digi sport 2 ro
+rtmp://rtmp.deltatv.pw:1935/liverepeater/_definst_/132685
+#EXTINF:-1,19.45 eng.lea.cup LUTON TOWN - STOKE CITY sky sports 1 uk
+rtmp://$OPT:rtmp-raw=rtmp://80.82.64.140:443/liverepeater playpath=1 pageUrl=http://popeoftheplayers.eu/ token=#atd%#$ZH
