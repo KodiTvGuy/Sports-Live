@@ -50,7 +50,7 @@ http://iptv-volkan.ddns.net:8000/live/noureddine123/barb52/346.ts
 #EXTINF:-1,BT SPORT EUROPE
 rtmp://80.82.64.140:443/liverepeater playpath=14 pageUrl=http://popeoftheplayers.eu/ token=#atd%#$ZH
 
-#EXTINF:0,BT SPORT EUROP
+#EXTINF:0,BT SPORT EUROPE
 http://iptv-volkan.ddns.net:8000/live/noureddine123/barb52/1032.ts
 
 #EXTINF:0,SETANTA SPORTS
