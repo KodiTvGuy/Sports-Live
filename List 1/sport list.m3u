@@ -1,6 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1, [COLOR green]-------------UPDATED 25/08/15 @13.40-------------[/COLOR]
+#EXTINF:-1, [COLOR green]-------------UPDATED 26/08/15 @20.05-------------[/COLOR]
 
 
 
@@ -20,37 +20,27 @@
 http://iptv-volkan.ddns.net:8000/live/noureddine123/barb52/352.ts
 
 #EXTINF:0,SKY SPORTS 1
-http://192.99.149.33/live/eC9hCYNLB0LmcVWVohXigQ/1440552735/3562f7795a18fc93d94ad2cb616c3d90.m3u8
-
-#EXTINF:-1,SKY SPORTS 1
-http://5.196.82.222:8000/live/bensportpackage/kIEwGfrvIm/11.ts
+http://192.99.149.33/live/W7swcHB5DGIjotQeqv1wXw/1440622256/3562f7795a18fc93d94ad2cb616c3d90.m3u8
 
 #EXTINF:0,SKY SPORTS 2
-http://192.99.149.33/live/0d2kINccIsuIAFdFxb1Ebg/1440552983/c715e3cbca072810c4d5216b0827437b.m3u8
+http://37.59.17.46/live/XhnKxlHy1pSUmmYM_VKXTw/1440622343/c715e3cbca072810c4d5216b0827437b.m3u8
 
-#EXTINF:-1,SKY SPORTS 2
-http://5.196.82.222:8000/live/bensportpackage/kIEwGfrvIm/12.ts
 
 #EXTINF:0,SKY SPORTS 3
 http://37.59.17.46/live/tD0BBPWL64F0ilpUgf9Bag/1440553059/1b08968ed7063cf6d11c88e0c52cbb91.m3u8
 
 #EXTINF:-1,SKY SPORTS 3
-http://5.196.82.222:8000/live/bensportpackage/kIEwGfrvIm/13.ts
+http://37.59.17.46/live/UQ2cYXs8sRvPx2daIt0ilw/1440622672/1b08968ed7063cf6d11c88e0c52cbb91.m3u8
 
-#EXTINF:0,SKY SPORTS 4
-http://192.99.149.33/live/0x1ufVdW4kahrzeOorHNFw/1440553101/1607ec4a5cdcb0acd48804076737f712.m3u8
 
 #EXTINF:-1,SKY SPORTS 4
 http://5.196.82.222:8000/live/bensportpackage/kIEwGfrvIm/14.ts
 
-#EXTINF:0,SKY SPORTS 5 HD
-http://84.232.5.115/liveedge3/skysp5.stream/playlist.m3u8
+#EXTINF:0,SKY SPORTS 5
+http://192.99.19.181/live/VS_yvGUuHXzY18qHbH5Kow/1440622449/ce89bce2a42f4d7df8854af633da1a86.m3u8
 
-#EXTINF:-1,SKY SPORTS 5
-http://5.196.82.222:8000/live/bensportpackage/kIEwGfrvIm/15.ts
+#EXTINF:0,SKY SPORTS F1 
 
-#EXTINF:0,SKY SPORTS F1 HD
-http://84.232.5.115/liveedge3/skyspf1.stream/playlist.m3u8
 
 #EXTINF:-1,SKY SPORTS NEWS
 http://5.196.82.222:8000/live/bensportpackage/kIEwGfrvIm/16.ts
@@ -58,23 +48,20 @@ http://5.196.82.222:8000/live/bensportpackage/kIEwGfrvIm/16.ts
 #EXTINF:-1,SKY SPORTS NEWS
 http://37.59.17.46/live/AWE-9tK2A1RoFHojyU-pmg/1440553705/4b200ad68aeb55750139f206f6c47a7d.m3u8
 
+#EXTINF:-1,BT SPORTS ESPN
+http://192.99.149.33/live/0LK00h8chjYS2qALw5skuw/1440623066/38e3d6422da1c25e4424ae59ba8245b6.m3u8
+
+
 
 #EXTINF:0,BT SPORT 1
-http://84.232.5.115/liveedge3/bt1.stream/playlist.m3u8
-
-#EXTINF:0,BT SPORT 1
-http://5.196.82.222:8000/live/bensportpackage/kIEwGfrvIm/20.ts
+http://192.99.149.33/live/2UoS0fmOh10-mAKny5VWAw/1440622528/feb9c19124327ffd2bae3c97249ea40e.m3u8
 
 #EXTINF:0,BT SPORT 2
-http://5.196.82.222:8000/live/bensportpackage/kIEwGfrvIm/21.ts
-
-#EXTINF:0,BT SPORT 2
-http://37.59.17.46/live/7EDGXTFNzEKQqtidQlCiNg/1440553193/a0baff4a9870ad57efd54f32cf8be880.m3u8
-
-#EXTINF:-1,BT SPORT EUROPE
-rtmp://80.82.64.140:443/liverepeater playpath=14 pageUrl=http://popeoftheplayers.eu/ token=#atd%#$ZH
+http://192.99.19.181/live/imKM18JA5JXP70Ed0yvwJw/1440622594/a0baff4a9870ad57efd54f32cf8be880.m3u8
 
 #EXTINF:0,BT SPORT EUROPE
+http://192.99.149.33/live/VAqAo8iuzX4TrGx96mIRMw/1440622722/9d8896af505619b4c912197f79833555.m3u8
+
 
 #EXTINF:0,BT SPORT ESPN
 http://84.232.5.115/liveedge3/espn.stream/playlist.m3u8
@@ -88,53 +75,6 @@ http://84.232.5.115/liveedge3/attheraces.stream/playlist.m3u8
 #EXTINF:0,BOX NATION
 http://servprjsmartv.mine.nu:8000/live/persianshare/shkfyhpne/1571.m3u8
 
-#EXTINF:-1,BEIN SPORTS 16
-http://5.196.82.222:8000/live/bensportpackage/kIEwGfrvIm/691.ts
-
-#EXTINF:-1,BEIN SPORTS 15
-http://5.196.82.222:8000/live/bensportpackage/kIEwGfrvIm/690.ts
-
-#EXTINF:-1,BEIN SPORTS 14
-http://5.196.82.222:8000/live/bensportpackage/kIEwGfrvIm/689.ts
-
-#EXTINF:-1,BEIN SPORTS 13
-http://5.196.82.222:8000/live/bensportpackage/kIEwGfrvIm/688.ts
-
-#EXTINF:-1,BEIN SPORTS 12
-http://5.196.82.222:8000/live/bensportpackage/kIEwGfrvIm/687.ts
-
-#EXTINF:-1,BEIN SPORTS 11
-http://5.196.82.222:8000/live/bensportpackage/kIEwGfrvIm/686.ts
-
-#EXTINF:-1,BEIN SPORTS 10
-http://5.196.82.222:8000/live/bensportpackage/kIEwGfrvIm/685.ts
-
-#EXTINF:-1,BEIN SPORTS 9
-http://5.196.82.222:8000/live/bensportpackage/kIEwGfrvIm/684.ts
-
-#EXTINF:-1,BEIN SPORTS 8
-http://5.196.82.222:8000/live/bensportpackage/kIEwGfrvIm/683.ts
-
-#EXTINF:-1,BEIN SPORTS 7
-http://5.196.82.222:8000/live/bensportpackage/kIEwGfrvIm/682.ts
-
-#EXTINF:-1,BEIN SPORTS 6
-http://5.196.82.222:8000/live/bensportpackage/kIEwGfrvIm/681.ts
-
-#EXTINF:-1,BEIN SPORTS 5
-http://5.196.82.222:8000/live/bensportpackage/kIEwGfrvIm/680.ts
-
-#EXTINF:-1,BEIN SPORTS 4
-http://5.196.82.222:8000/live/bensportpackage/kIEwGfrvIm/679.ts
-
-#EXTINF:-1,BEIN SPORTS 3
-http://5.196.82.222:8000/live/bensportpackage/kIEwGfrvIm/678.ts
-
-#EXTINF:-1,BEIN SPORTS 2
-http://5.196.82.222:8000/live/bensportpackage/kIEwGfrvIm/677.ts
-
-#EXTINF:-1,BEIN SPORTS 1
-http://5.196.82.222:8000/live/bensportpackage/kIEwGfrvIm/676.ts
 
 #EXTINF:0,EUROSPORT 1
 http://84.232.5.115/liveedge3/eurosport.stream/playlist.m3u8
@@ -173,7 +113,7 @@ http://tvegolf-i.Akamaihd.net/hls/live/218225/golfx/2596k/prog.m3u8|X-Forwarded-
 http://tvegolf-i.Akamaihd.net/hls/live/218225/golfx/4296k/prog.m3u8|X-Forwarded-For=209.239.112.104
 
 #EXTINF:0,NFL TV
-http://192.99.19.181/live/H-6962OM7cDDLK1BpUBozw/1440553803/877ad69c810ccc693b207cf11badc04a.m3u8
+
 
 
 
