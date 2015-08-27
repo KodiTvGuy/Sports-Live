@@ -1,4 +1,0 @@
-AuthType Basic
-AuthName "Enter Details"
-AuthUserFile D:\User_Data\stuart.sneddon\Documents\GitHub\Sports-Live\List 1.htlist
-require valid-user
