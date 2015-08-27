@@ -17,71 +17,71 @@
 
 
 #EXTINF:0,SKY SPORTS 5
-http://iptv-volkan.ddns.net:8000/live/noureddine123/barb52/352.ts
+http://iptv-volkan.ddns.net:8000/live/noureddine123/barb52/352.m3u8
 
 
 #EXTINF:0,SKY SPORTS 1
-http://iptv-volkan.ddns.net:8000/live/test/test301/328.ts
+http://iptv-volkan.ddns.net:8000/live/test/test301/328.m3u8
 
 #EXTINF:-1,SKY SPORTS 2
-http://iptv-volkan.ddns.net:8000/live/test/test301/327.ts
+http://iptv-volkan.ddns.net:8000/live/test/test301/327.m3u8
 
 #EXTINF:-1,SKY SPORTS 3
-http://iptv-volkan.ddns.net:8000/live/test/test301/326.ts
+http://iptv-volkan.ddns.net:8000/live/test/test301/326.m3u8
 
 #EXTINF:-1,SKY SPORTS 4
-http://iptv-volkan.ddns.net:8000/live/test/test301/351.ts
+http://iptv-volkan.ddns.net:8000/live/test/test301/351.m3u8
 
 #EXTINF:-1,SKY SPORTS 5
-http://iptv-volkan.ddns.net:8000/live/test/test301/352.ts
+http://iptv-volkan.ddns.net:8000/live/test/test301/352.m3u8
 
 #EXTINF:-1,SKY SPORTS F1
-http://iptv-volkan.ddns.net:8000/live/test/test301/550.ts
+http://iptv-volkan.ddns.net:8000/live/test/test301/550.m3u8
 
 #EXTINF:0,SKY SPORTS NEWS HD
-http://iptv-volkan.ddns.net:8000/live/test/test301/354.ts
+http://iptv-volkan.ddns.net:8000/live/test/test301/354.m3u8
 
 #EXTINF:-1,BT SPORT 1
-http://iptv-volkan.ddns.net:8000/live/test/test301/347.ts
+http://iptv-volkan.ddns.net:8000/live/test/test301/347.m3u8
 
 #EXTINF:-1,BT SPORT 2
-http://iptv-volkan.ddns.net:8000/live/test/test301/346.ts
+http://iptv-volkan.ddns.net:8000/live/test/test301/346.m3u8
 
 #EXTINF:-1,BT SPORT EXTRA
-http://iptv-volkan.ddns.net:8000/live/test/test301/1031.ts
+http://iptv-volkan.ddns.net:8000/live/test/test301/1031.m3u8
 
 #EXTINF:-1,BT SPORT EUROPE
-http://iptv-volkan.ddns.net:8000/live/test/test301/1032.ts
+http://iptv-volkan.ddns.net:8000/live/test/test301/1032.m3u8
 
 #EXTINF:-1,PREMIERE SPORT
-http://iptv-volkan.ddns.net:8000/live/test/test301/877.ts
+http://iptv-volkan.ddns.net:8000/live/test/test301/877.m3u8
 
 #EXTINF:-1,MUTV
-http://iptv-volkan.ddns.net:8000/live/test/test301/927.ts
+http://iptv-volkan.ddns.net:8000/live/test/test301/927.m3u8
 
 #EXTINF:-1,LIVERPOOL FC
-http://iptv-volkan.ddns.net:8000/live/test/test301/928.ts
+http://iptv-volkan.ddns.net:8000/live/test/test301/928.m3u8
 
 #EXTINF:-1,EUROSPORT
-http://iptv-volkan.ddns.net:8000/live/test/test301/410.ts
+http://iptv-volkan.ddns.net:8000/live/test/test301/410.m3u8
 
 #EXTINF:-1,EUROSPORT 2
-http://iptv-volkan.ddns.net:8000/live/test/test301/411.ts
+http://iptv-volkan.ddns.net:8000/live/test/test301/411.m3u8
 
 #EXTINF:-1,ESPN UK
-http://iptv-volkan.ddns.net:8000/live/test/test301/353.ts
+http://iptv-volkan.ddns.net:8000/live/test/test301/353.m3u8
 
 #EXTINF:-1,CHELSEA TV
-http://iptv-volkan.ddns.net:8000/live/test/test301/430.ts
+http://iptv-volkan.ddns.net:8000/live/test/test301/430.m3u8
 
 #EXTINF:-1,SETANTA SPORTS
-http://iptv-volkan.ddns.net:8000/live/test/test301/409.ts
+http://iptv-volkan.ddns.net:8000/live/test/test301/409.m3u8
 
 #EXTINF:-1,RACING UK
-http://iptv-volkan.ddns.net:8000/live/test/test301/850.ts
+http://iptv-volkan.ddns.net:8000/live/test/test301/850.m3u8
 
 #EXTINF:-1,BOXNATION
-http://iptv-volkan.ddns.net:8000/live/test/test301/408.ts
+http://iptv-volkan.ddns.net:8000/live/test/test301/408.m3u8
 
 #EXTINF:0,BEIN USA 1
 http://lihattv.toh.info/jhos/beib1.m3u8
@@ -95,13 +95,13 @@ http://lihattv.toh.info/jhos/beib3.m3u8
 #EXTINF:0,NBC SPORTS EXTRA 1080P
 http://tvenbcsn-i.Akamaihd.net/hls/live/218235/nbcsnx/4296k/prog.m3u8|X-Forwarded-For=209.239.112.104
 
-#EXTINF:0,NBC GOLF 720p
-http://tvegolf-i.Akamaihd.net/hls/live/218225/golfx/2596k/prog.m3u8|X-Forwarded-For=209.239.112.104
- 
 #EXTINF:0,NBC GOLF 1080p
 http://tvegolf-i.Akamaihd.net/hls/live/218225/golfx/4296k/prog.m3u8|X-Forwarded-For=209.239.112.104
 
-#EXTINF:0,NFL TV
+#EXTINF:0,NBC GOLF 720p
+http://tvegolf-i.Akamaihd.net/hls/live/218225/golfx/2596k/prog.m3u8|X-Forwarded-For=209.239.112.104
+ 
+
 
 
 
