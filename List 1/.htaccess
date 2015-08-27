@@ -1,4 +1,4 @@
 AuthType Basic
 AuthName "Enter Details"
-AuthUserFile 
+AuthUserFile https://github.com/KodiTvGuy/Sports-Live/blob/master/List%201/.htlist
 require valid-user
