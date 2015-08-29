@@ -30,6 +30,9 @@ plugin://plugin.video.p2p-streams/?url=acestream://37558d4ae8149aebd7e87a406fece
 #EXTINF:-1,[COLOR lime]SKY SPORTS F1[/COLOR]
 plugin://plugin.video.p2p-streams/?url=acestream://02c14347959f78d8bf18f898c56f429ab5a44c7b&mode=1&name=acestream+SKY SPORTS F1
 
+#EXTINF:-1,[COLOR red]SKY SPORTS NEWS[/COLOR]
+plugin://plugin.video.p2p-streams/?url=acestream://82d9268889e0d67c991b421577e810faff3e5ba0&mode=1&name=acestream+SKY SPORTS NEWS
+
 #EXTINF:-1,[COLOR lime]BT SPORT 1[/COLOR]
 plugin://plugin.video.p2p-streams/?url=acestream://dc5310a7e47fcd52cf1d9d7c4db089d72cf3d9e5&mode=1&name=acestream+BT SPORT 1
 
@@ -37,10 +40,10 @@ plugin://plugin.video.p2p-streams/?url=acestream://dc5310a7e47fcd52cf1d9d7c4db08
 plugin://plugin.video.p2p-streams/?url=acestream://ccfa7549f7837e3e2c7cb646562e77c1aac6f0c9&mode=1&name=acestream+BT SPORT 2
 
 #EXTINF:-1,[COLOR lime]BT SPORT EUROPE[/COLOR]
-plugin://plugin.video.p2p-streams/?url=acestream://46f1a7f1774400e6b7b73990edb89803f98a4215&mode=1&name=acestream+BT SPORT EUROPE
+plugin://plugin.video.p2p-streams/?url=acestream://28bae63cd0c99f20116d769e2d0d87e88c9aa6af&mode=1&name=acestream+BT SPORT EUROPE
 
 #EXTINF:-1,[COLOR lime]BT SPORT/ESPN[/COLOR]
-plugin://plugin.video.p2p-streams/?url=acestream://585352b149c4aae30c1da013f0fe378430fb7c7e&mode=1&name=acestream+BT SPORT ESPN
+plugin://plugin.video.p2p-streams/?url=acestream://19ac8f262e29e04dfcf4ae88695e4f0a78bd7e64&mode=1&name=acestream+BT SPORT ESPN
 
 #EXTINF:-1,[COLOR lime]BRITISH EUROSPORT[/COLOR]
 plugin://plugin.video.p2p-streams/?url=acestream://268877735d560d2fe78f44bc763e40e2b23b13e4&mode=1&name=acestream+BRITISH EUROSPORT
@@ -48,8 +51,11 @@ plugin://plugin.video.p2p-streams/?url=acestream://268877735d560d2fe78f44bc763e4
 #EXTINF:-1,[COLOR lime]BRITISH EUROSPORT 2[/COLOR]
 plugin://plugin.video.p2p-streams/?url=acestream://7462d97e96e0f05e4551dbd3fb8a75a2d746c596&mode=1&name=acestream+BRITISH EUROSPORT 2
 
-#EXTINF:-1,[COLOR red]SETANTA[/COLOR]
-plugin://plugin.video.p2p-streams/?url=acestream://132bc6147e94c8903d8c5c0c0034b27ce4b1f761&mode=1&name=acestream+SETANTA
+#EXTINF:-1,[COLOR red]SETANTA SPORTS[/COLOR]
+plugin://plugin.video.p2p-streams/?url=acestream://132bc6147e94c8903d8c5c0c0034b27ce4b1f761&mode=1&name=acestream+SETANTA SPORTS
+
+#EXTINF:-1,[COLOR lime]SETANTA SPORTS +[/COLOR]
+plugin://plugin.video.p2p-streams/?url=acestream://0f7600a4b59199820c0e19bd8457b5a617c5b2cb&mode=1&name=acestream+SETANTA SPORTS +
 
 #EXTINF:-1,[COLOR red]ESPN USA[/COLOR]
 plugin://plugin.video.p2p-streams/?url=acestream://1bfa6e870c963a4dcbcb4a76bf3624d1335a0e23&mode=1&name=acestream+ESPN USA
