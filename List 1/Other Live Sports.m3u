@@ -1,16 +1,19 @@
 #EXTM3U
 
 
-#EXTINF:-1, [COLOR green]-------------UPDATED 24/08/15 @14.10-------------[/COLOR]
+#EXTINF:-1, [COLOR green]-------------UPDATED 29/08/15 @ 13.20-------------[/COLOR]
 #EXTINF:-1,
 #
 #EXTINF:-1,
 
-#EXTINF:-1,15.00 cycling VUELTA A ESPANA - etapa 3 - Mijas-Malaga eurosport uk
+#EXTINF:-1,15.00 cycling VUELTA A ESPANA - etapa 8 - Puebla de Don Fadrique-Murcia
+http://streameo.altervista.org/forum/index.php
+
+#EXTINF:-1,15.00 cycling VUELTA A ESPANA - etapa 8 - eurosport uk
 rtmp://$OPT:rtmp-raw=rtmp://80.82.64.140:443/liverepeater playpath=39 pageUrl=http://popeoftheplayers.eu/ token=#atd%#$ZH
 
-#EXTINF:-1,15.00 cycling VUELTA A ESPANA - etapa 3 - Mijas-Malaga eurosport de
-http://streaming-hub.com/tv/i/eurosportde_1@97452/index_1300_av-p.m3u8?sd=10&rebase=on
+#EXTINF:-1,15.00 cycling VUELTA A ESPANA - etapa 8 - eurosport de
+http://streaming-hub.com/ss/kjhkdsqfksdqfhoisdxco/i/eurosportde_1@97452/index_1300_av-p.m3u8?sd=10&rebase=on
 
-#EXTINF:-1,15.00 cycling VUELTA A ESPANA - etapa 3 - Mijas-Malaga tve1 es
+#EXTINF:-1,15.00 cycling VUELTA A ESPANA - etapa 8 - tve1 es
 http://hlslive.rtve.es/LA1_LV3_IPH/master.m3u8

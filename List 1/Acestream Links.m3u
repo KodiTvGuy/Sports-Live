@@ -8,6 +8,47 @@
 
 
 
+#EXTINF:-1,12.45 eng NEWCASTLE - ARSENAL LINK 1
+plugin://plugin.video.p2p-streams/?url=acestream://60fd37e738b51ed73ceef65052e1a4e56dcaa729&mode=1&name=acestream+NEWCASTLE - ARSENAL
+
+#EXTINF:-1,12.45 eng NEWCASTLE - ARSENAL LINK 2
+plugin://plugin.video.p2p-streams/?url=acestream://f0be1dcc62ce52be176e96006ba2527e52707806&mode=1&name=acestream+NEWCASTLE - ARSENAL
+
+#EXTINF:-1,12.45 eng NEWCASTLE - ARSENAL LINK 3
+plugin://plugin.video.p2p-streams/?url=acestream://ae8feca3c1bdc419d264cd7cabea26b3d797fa13&mode=1&name=acestream+NEWCASTLE - ARSENAL
+
+#EXTINF:-1,15.00 eng MANCHESTER CITY - WATFORD
+plugin://plugin.video.p2p-streams/?url=acestream://cbb4764ca8a7edd9a26533acad103fa2d5965d10&mode=1&name=acestream+MANCHESTER CITY - WATFORD
+
+#EXTINF:-1,15.00 eng CHELSEA - CRYSTAL PALACE LNIK 1
+plugin://plugin.video.p2p-streams/?url=acestream://60fd37e738b51ed73ceef65052e1a4e56dcaa729&mode=1&name=acestream+CHELSEA - CRYSTAL PALACE
+
+#EXTINF:-1,15.00 eng CHELSEA - CRYSTAL PALACE LINK 2
+plugin://plugin.video.p2p-streams/?url=acestream://f0be1dcc62ce52be176e96006ba2527e52707806&mode=1&name=acestream+CHELSEA - CYSTAL PALACE
+
+#EXTINF:-1,15.00 eng CHELSEA - CRYSTAL PALACE LINK 3
+plugin://plugin.video.p2p-streams/?url=acestream://ae8feca3c1bdc419d264cd7cabea26b3d797fa13&mode=1&name=acestream+CHELSEA - CYSTAL PALACE
+
+#EXTINF:-1,15.00 eng CHELSEA - CRYSTAL PALACE LINK 4
+plugin://plugin.video.p2p-streams/?url=acestream://ef9a0e10a92678c29edf812a00d1db38f7ff6d70&mode=1&name=acestream+CHELSEA - CYSTAL PALACE
+
+#EXTINF:-1,15.00 den SONDERJYSKE - VIBORG
+plugin://plugin.video.p2p-streams/?url=acestream://783f9190794b0cf507cc0da231d280121e8f89ad&mode=1&name=acestream+SONDERJYSKE - VIBORG
+
+#EXTINF:-1,17.30 eng TOTTENHAM H- EVERTON LINK 1
+plugin://plugin.video.p2p-streams/?url=acestream://60fd37e738b51ed73ceef65052e1a4e56dcaa729&mode=1&name=acestream+TOTTENHAM - EVERTON
+
+#EXTINF:-1,17.30 eng TOTTENHAM H- EVERTON LINK 2
+plugin://plugin.video.p2p-streams/?url=acestream://cbb4764ca8a7edd9a26533acad103fa2d5965d10&mode=1&name=acestream+TOTTENHAM - EVERTON
+
+#EXTINF:-1,17.30 esp REAL SOCIEDAD - SPORTING GIJON
+plugin://plugin.video.p2p-streams/?url=acestream://dd70dfe213f9cb4bf3d60d9801bfbdd3fcce7efa&mode=1&name=acestream+REAL SOCIEDAD - SPORTING GIJON
+
+#EXTINF:-1,19.30 esp BARCELONA - MALAGA
+plugin://plugin.video.p2p-streams/?url=acestream://dd70dfe213f9cb4bf3d60d9801bfbdd3fcce7efa&mode=1&name=acestream+BARCELON - MALAGA
+
+#EXTINF:-1,21.30 esp REAL MADRID - REAL BETIS
+plugin://plugin.video.p2p-streams/?url=acestream://dd70dfe213f9cb4bf3d60d9801bfbdd3fcce7efa&mode=1&name=acestream+REAL MADRID - REAL BETIS
 
 #EXTINF:-1,[COLOR lime]SKY SPORTS 1 LINK 1[/COLOR]
 plugin://plugin.video.p2p-streams/?url=acestream://7dcf3c8daaad0efbef55af2d74d52a5f8f65783c&mode=1&name=acestream+SKY SPORTS 1
