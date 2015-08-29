@@ -77,8 +77,8 @@ plugin://plugin.video.p2p-streams/?url=acestream://82d9268889e0d67c991b421577e81
 #EXTINF:-1,[COLOR lime]BT SPORT 1[/COLOR]
 plugin://plugin.video.p2p-streams/?url=acestream://dc5310a7e47fcd52cf1d9d7c4db089d72cf3d9e5&mode=1&name=acestream+BT SPORT 1
 
-#EXTINF:-1,[COLOR red]BT SPORT 2[/COLOR]
-plugin://plugin.video.p2p-streams/?url=acestream://ccfa7549f7837e3e2c7cb646562e77c1aac6f0c9&mode=1&name=acestream+BT SPORT 2
+#EXTINF:-1,[COLOR lime]BT SPORT 2[/COLOR]
+plugin://plugin.video.p2p-streams/?url=&acestream://7e8a66f8acc92f39e52634761f391693a4134585&mode=1&name=acestream+BT SPORT 2
 
 #EXTINF:-1,[COLOR lime]BT SPORT EUROPE[/COLOR]
 plugin://plugin.video.p2p-streams/?url=acestream://28bae63cd0c99f20116d769e2d0d87e88c9aa6af&mode=1&name=acestream+BT SPORT EUROPE
