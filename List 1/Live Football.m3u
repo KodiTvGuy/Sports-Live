@@ -1,7 +1,7 @@
 #EXTM3U
 
 
-#EXTINF:-1, [COLOR green]-------------UPDATED 019/08/15 @101.50-------------[/COLOR]
+#EXTINF:-1, [COLOR green]-------------UPDATED 30/08/15 @13.50-------------[/COLOR]
 #EXTINF:-1,
 #
 #EXTINF:-1,
@@ -10,163 +10,163 @@
 #EXTINF:-1,13.30 bel CLUB BRUGGE - STANDARD LIEGE sport 1 voetbal nl
 http://ziggo.cdn.sport1.triple-it.nl/sport1voetbalhd.isml/QualityLevels(696000)/manifest(format=m3u8-aapl).m3u8
 #EXTINF:-1,13.30 bel CLUB BRUGGE - STANDARD LIEGE sport 1 voetbal HD nl
-http://ziggo.cdn.sport1.triple-it.nl/sport1voetbalhd.isml/QualityLevels(01896000)/manifest(format=m3u8-aapl).m3u8
+http://ziggo.cdn.sport1.triple-it.nl/sport1voetbalhd.isml/QualityLevels(2896000)/manifest(format=m3u8-aapl).m3u8
 #EXTINF:-1,13.30 bel CLUB BRUGGE - STANDARD LIEGE arena sport 1 sr
 http://www.nasatv.eu:80/live?channelId=16&uid=18&deviceUser=dm800&devicePass=dm800
 
 
-#EXTINF:-1,14.30 ger BOR.DORTMUND - HERTHA BERLIN supersport 01 al
-http://81.7.13.1601/hls/ss01/index.m3u8
-#EXTINF:-1,14.30 ger BOR.DORTMUND - HERTHA BERLIN sport tv 01 pt
-rtmp://$OPT:rtmp-raw=rtmpe://5.153.0133.106:443/share/ playpath=live01-bipmr swfUrl=http://sharecast.to/player/player010.swf live=1 timeout=13 pageUrl=http://sharecast.to/
+#EXTINF:-1,14.30 ger BOR.DORTMUND - HERTHA BERLIN supersport 2 al
+http://81.7.13.162/hls/ss2/index.m3u8
+#EXTINF:-1,14.30 ger BOR.DORTMUND - HERTHA BERLIN sport tv 2 pt
+rtmp://$OPT:rtmp-raw=rtmpe://5.153.233.106:443/share/ playpath=live2-bipmr swfUrl=http://sharecast.to/player/player20.swf live=1 timeout=13 pageUrl=http://sharecast.to/
 #EXTINF:-1,14.30 ger BOR.DORTMUND - HERTHA BERLIN bt sport europe uk
-rtmp://$OPT:rtmp-raw=rtmp://80.801.64.140:443/liverepeater playpath=36 pageUrl=http://popeoftheplayers.eu/ token=#atd%#$ZH
+rtmp://$OPT:rtmp-raw=rtmp://80.82.64.140:443/liverepeater playpath=36 pageUrl=http://popeoftheplayers.eu/ token=#atd%#$ZH
 
 #EXTINF:-1,15.45 ned PSV EINDHOVEN - FEYENOORD sport tv 3 pt
-rtmp://$OPT:rtmp-raw=rtmpe://5.153.0133.106:443/share/ playpath=live3-qszlx swfUrl=http://sharecast.to/player/player010.swf live=1 timeout=10 pageUrl=http://sharecast.to/
-#EXTINF:-1,15.45 ned PSV EINDHOVEN - FEYENOORD silk sport 01 ge
-http://80.77.501.6:3719/udp/01016.0.0.8:101345
+rtmp://$OPT:rtmp-raw=rtmpe://5.153.233.106:443/share/ playpath=live3-qszlx swfUrl=http://sharecast.to/player/player20.swf live=1 timeout=10 pageUrl=http://sharecast.to/
+#EXTINF:-1,15.45 ned PSV EINDHOVEN - FEYENOORD silk sport 2 ge
+http://80.77.52.6:3719/udp/226.0.0.8:12345
 
 #EXTINF:-1,16.00 eng SWANSEA CITY - MANCHESTER UTD idman tv Az
-http://149.0155.1501.70:80/idman/index.m3u8
+http://149.255.152.70:80/idman/index.m3u8
 #EXTINF:-1,16.00 eng SWANSEA CITY - MANCHESTER UTD sky sports 1 uk
-rtmp://$OPT:rtmp-raw=rtmp://80.801.64.140:443/liverepeater playpath=35 pageUrl=http://popeoftheplayers.eu/ token=#atd%#$ZH
+rtmp://$OPT:rtmp-raw=rtmp://80.82.64.140:443/liverepeater playpath=35 pageUrl=http://popeoftheplayers.eu/ token=#atd%#$ZH
 #EXTINF:-1,16.00 eng SWANSEA CITY - MANCHESTER UTD sportklub 1 sr
 http://www.nasatv.eu:80/live?channelId=87&uid=18&deviceUser=dm800&devicePass=dm800
 #EXTINF:-1,16.00 eng SWANSEA CITY - MANCHESTER UTD silk sport 1 ge
-http://80.77.501.6:3719/udp/01016.0.0.7:101345
+http://80.77.52.6:3719/udp/226.0.0.7:12345
 
 #EXTINF:-1,16.00 fra BORDEAUX - NANTES arena sport 3 sr
 http://www.nasatv.eu:80/live?channelId=18&uid=18&deviceUser=dm800&devicePass=dm800
 #EXTINF:-1,16.00 fra BORDEAUX - NANTES beIN sports FR 1
-rtmp://176.10.0150.166:1935/tv/stream3
+rtmp://176.10.250.166:1935/tv/stream3
 
 #EXTINF:-1,16.30 swe HELSINGBORG - MALMO c more sport se
-http://188.138.9.01018:80013
+http://188.138.9.228:8023
 
-#EXTINF:-1,16.30 ger W.BREMEN - B.MOENCHENGL. sport tv 01 pt
-rtmp://$OPT:rtmp-raw=rtmpe://5.153.0133.106:443/share/ playpath=live01-bipmr swfUrl=http://sharecast.to/player/player010.swf live=1 timeout=13 pageUrl=http://sharecast.to/
+#EXTINF:-1,16.30 ger W.BREMEN - B.MOENCHENGL. sport tv 2 pt
+rtmp://$OPT:rtmp-raw=rtmpe://5.153.233.106:443/share/ playpath=live2-bipmr swfUrl=http://sharecast.to/player/player20.swf live=1 timeout=13 pageUrl=http://sharecast.to/
 #EXTINF:-1,16.30 ger W.BREMEN - B.MOENCHENGL. bt sport 1 uk
-rtmp://$OPT:rtmp-raw=rtmp://80.801.64.140:443/liverepeater playpath=44 pageUrl=http://popeoftheplayers.eu/ token=#atd%#$ZH
+rtmp://$OPT:rtmp-raw=rtmp://80.82.64.140:443/liverepeater playpath=44 pageUrl=http://popeoftheplayers.eu/ token=#atd%#$ZH
 
 #EXTINF:-1,17.00 bel WESTERLO - ANDERLECHT Sportitalia
 rtmp://spi.hystream.com:1935/spilive/spistream_480
 #EXTINF:-1,17.00 bel WESTERLO - ANDERLECHT sport 1 voetbal nl
 http://ziggo.cdn.sport1.triple-it.nl/sport1voetbalhd.isml/QualityLevels(696000)/manifest(format=m3u8-aapl).m3u8
 #EXTINF:-1,17.00 bel WESTERLO - ANDERLECHT sport 1 voetbal HD nl
-http://ziggo.cdn.sport1.triple-it.nl/sport1voetbalhd.isml/QualityLevels(01896000)/manifest(format=m3u8-aapl).m3u8
+http://ziggo.cdn.sport1.triple-it.nl/sport1voetbalhd.isml/QualityLevels(2896000)/manifest(format=m3u8-aapl).m3u8
 #EXTINF:-1,17.00 bel WESTERLO - ANDERLECHT arena sport 1 sr
 http://www.nasatv.eu:80/live?channelId=16&uid=18&deviceUser=dm800&devicePass=dm800
 
-#EXTINF:-1,17.00 ita ROMA - JUVENTUS supersport 01 al
-http://81.7.13.1601/hls/ss01/index.m3u8
-#EXTINF:-1,17.00 ita ROMA - JUVENTUS digi sport 01 ro
-rtmp://rtmp.deltatv.pw:1935/liverepeater/_definst_/1301685
-#EXTINF:-1,17.00 ita ROMA - JUVENTUS beIN sports FR 01
-rtmp://176.10.0150.166:1935/tv/stream01
+#EXTINF:-1,17.00 ita ROMA - JUVENTUS supersport 2 al
+http://81.7.13.162/hls/ss2/index.m3u8
+#EXTINF:-1,17.00 ita ROMA - JUVENTUS digi sport 2 ro
+rtmp://rtmp.deltatv.pw:1935/liverepeater/_definst_/132685
+#EXTINF:-1,17.00 ita ROMA - JUVENTUS beIN sports FR 2
+rtmp://176.10.250.166:1935/tv/stream2
 #EXTINF:-1,17.00 ita ROMA - JUVENTUS bt sport europe uk
-rtmp://$OPT:rtmp-raw=rtmp://80.801.64.140:443/liverepeater playpath=36 pageUrl=http://popeoftheplayers.eu/ token=#atd%#$ZH
+rtmp://$OPT:rtmp-raw=rtmp://80.82.64.140:443/liverepeater playpath=36 pageUrl=http://popeoftheplayers.eu/ token=#atd%#$ZH
 #EXTINF:-1,17.00 ita ROMA - JUVENTUS arena sport 4 sr
 http://www.nasatv.eu:80/live?channelId=19&uid=18&deviceUser=dm800&devicePass=dm800
 
 
 #EXTINF:-1,17.30 esp EIBAR - ATH.BILBAO digi sport 3 ro
-rtmp://rtmp.deltatv.pw:1935/liverepeater/_definst_/1301686
+rtmp://rtmp.deltatv.pw:1935/liverepeater/_definst_/132686
 #EXTINF:-1,17.30 esp EIBAR - ATH.BILBAO silk sport 3 ge
-http://80.77.501.6:3719/udp/01016.0.0.9:101345
-#EXTINF:-1,17.30 esp EIBAR - ATH.BILBAO sportklub 01 sr
+http://80.77.52.6:3719/udp/226.0.0.9:12345
+#EXTINF:-1,17.30 esp EIBAR - ATH.BILBAO sportklub 2 sr
 http://www.nasatv.eu:80/live?channelId=88&uid=18&deviceUser=dm800&devicePass=dm800
 
 #EXTINF:-1,19.15 por ACADEMICA - SP.LISBON rtp int pt
 http://rtp-pull-live.hls.adaptive.level3.net/liverepeater/smil:rtpi.smil/playlist.m3u8
 #EXTINF:-1,19.15 por ACADEMICA - SP.LISBON sport tv 1 pt
-rtmp://$OPT:rtmp-raw=rtmpe://5.153.0133.106:443/share/ playpath=live1-rbi6c swfUrl=http://sharecast.to/player/player010.swf live=1 timeout=13 pageUrl=http://sharecast.to/
+rtmp://$OPT:rtmp-raw=rtmpe://5.153.233.106:443/share/ playpath=live1-rbi6c swfUrl=http://sharecast.to/player/player20.swf live=1 timeout=13 pageUrl=http://sharecast.to/
 #EXTINF:-1,19.15 por ACADEMICA - SP.LISBON sportklub 3 sr
-http://www.nasatv.eu:80/live?channelId=101&uid=18&deviceUser=dm800&devicePass=dm800
+http://www.nasatv.eu:80/live?channelId=12&uid=18&deviceUser=dm800&devicePass=dm800
 
 #EXTINF:-1,19.30 esp SEVILLA - ATL.MADRID aztv az
-http://bak01-edge03.itdc.ge/aztv/index.m3u8?token=hC9DvBIKvuN01GXbOhtwiyaWMIAGKyhe-YBSG8lYg_4nve9744Bxp1PARbILC_InBe8DzsmKz01GraLEBb01T-lBg**
-#EXTINF:-1,19.30 esp SEVILLA - ATL.MADRID sport tv 01 pt
-rtmp://$OPT:rtmp-raw=rtmpe://5.153.0133.106:443/share/ playpath=live01-bipmr swfUrl=http://sharecast.to/player/player010.swf live=1 timeout=13 pageUrl=http://sharecast.to/
-#EXTINF:-1,19.30 esp SEVILLA - ATL.MADRID digi sport 01 ro
-rtmp://rtmp.deltatv.pw:1935/liverepeater/_definst_/1301685
+http://bak2-edge03.itdc.ge/aztv/index.m3u8?token=hC9DvBIKvuN2GXbOhtwiyaWMIAGKyhe-YBSG8lYg_4nve9744Bxp1PARbILC_InBe8DzsmKz2GraLEBb2T-lBg**
+#EXTINF:-1,19.30 esp SEVILLA - ATL.MADRID sport tv 2 pt
+rtmp://$OPT:rtmp-raw=rtmpe://5.153.233.106:443/share/ playpath=live2-bipmr swfUrl=http://sharecast.to/player/player20.swf live=1 timeout=13 pageUrl=http://sharecast.to/
+#EXTINF:-1,19.30 esp SEVILLA - ATL.MADRID digi sport 2 ro
+rtmp://rtmp.deltatv.pw:1935/liverepeater/_definst_/132685
 #EXTINF:-1,19.30 esp SEVILLA - ATL.MADRID supersport 1 al
-http://81.7.13.1601/hls/ss1/index.m3u8
+http://81.7.13.162/hls/ss1/index.m3u8
 #EXTINF:-1,19.30 esp SEVILLA - ATL.MADRID sky sports 1 uk
-rtmp://$OPT:rtmp-raw=rtmp://80.801.64.140:443/liverepeater playpath=35 pageUrl=http://popeoftheplayers.eu/ token=#atd%#$ZH
-#EXTINF:-1,19.30 esp SEVILLA - ATL.MADRID beIN sports FR 01
-rtmp://176.10.0150.166:1935/tv/stream01
+rtmp://$OPT:rtmp-raw=rtmp://80.82.64.140:443/liverepeater playpath=35 pageUrl=http://popeoftheplayers.eu/ token=#atd%#$ZH
+#EXTINF:-1,19.30 esp SEVILLA - ATL.MADRID beIN sports FR 2
+rtmp://176.10.250.166:1935/tv/stream2
 #EXTINF:-1,19.30 esp SEVILLA - ATL.MADRID silk sport 1 ge
-http://80.77.501.6:3719/udp/01016.0.0.7:101345
+http://80.77.52.6:3719/udp/226.0.0.7:12345
 
 #EXTINF:-1,19.30 esp VALENCIA - DEPORTIVO idman tv Az
-http://149.0155.1501.70:80/idman/index.m3u8
+http://149.255.152.70:80/idman/index.m3u8
 #EXTINF:-1,19.30 esp VALENCIA - DEPORTIVO sport 1 voetbal nl
 http://ziggo.cdn.sport1.triple-it.nl/sport1voetbalhd.isml/QualityLevels(696000)/manifest(format=m3u8-aapl).m3u8
 #EXTINF:-1,19.30 esp VALENCIA - DEPORTIVO sport 1 voetbal HD nl
-http://ziggo.cdn.sport1.triple-it.nl/sport1voetbalhd.isml/QualityLevels(01896000)/manifest(format=m3u8-aapl).m3u8
+http://ziggo.cdn.sport1.triple-it.nl/sport1voetbalhd.isml/QualityLevels(2896000)/manifest(format=m3u8-aapl).m3u8
 #EXTINF:-1,19.30 esp VALENCIA - DEPORTIVO sport tv 3 pt
-rtmp://$OPT:rtmp-raw=rtmpe://5.153.0133.106:443/share/ playpath=live3-qszlx swfUrl=http://sharecast.to/player/player010.swf live=1 timeout=10 pageUrl=http://sharecast.to/
-#EXTINF:-1,19.30 esp VALENCIA - DEPORTIVO sportklub 01 sr
+rtmp://$OPT:rtmp-raw=rtmpe://5.153.233.106:443/share/ playpath=live3-qszlx swfUrl=http://sharecast.to/player/player20.swf live=1 timeout=10 pageUrl=http://sharecast.to/
+#EXTINF:-1,19.30 esp VALENCIA - DEPORTIVO sportklub 2 sr
 http://www.nasatv.eu:80/live?channelId=88&uid=18&deviceUser=dm800&devicePass=dm800
 
 #EXTINF:-1,19.45 ita NAPOLI - SAMPDORIA arena sport 4 sr
 http://www.nasatv.eu:80/live?channelId=19&uid=18&deviceUser=dm800&devicePass=dm800
 #EXTINF:-1,19.45 ita NAPOLI - SAMPDORIA bt sport 1 uk
-rtmp://$OPT:rtmp-raw=rtmp://80.801.64.140:443/liverepeater playpath=44 pageUrl=http://popeoftheplayers.eu/ token=#atd%#$ZH
+rtmp://$OPT:rtmp-raw=rtmp://80.82.64.140:443/liverepeater playpath=44 pageUrl=http://popeoftheplayers.eu/ token=#atd%#$ZH
 #EXTINF:-1,19.45 ita NAPOLI - SAMPDORIA s@y sport 1 it TEST
-http://178.18.30.114:8081/liverepeater/1985019/chunklist_w1479010138501.m3u8?nimblesessionid=937479&wmsAuthSign=c01VydmVyX3RpbWU9OC8yOS8yMDE1IDEwOjA4OjEzIEFNJmhhc01hfdmFsdWU9SFlSU1ZQVlNMK0RXYlhRNHZnaFRxUT09JnZhbGlkbWludXRlcz00
+http://178.18.30.114:8081/liverepeater/198529/chunklist_w1479223852.m3u8?nimblesessionid=937479&wmsAuthSign=c2VydmVyX3RpbWU9OC8yOS8yMDE1IDEwOjA4OjEzIEFNJmhhc2hfdmFsdWU9SFlSU1ZQVlNMK0RXYlhRNHZnaFRxUT09JnZhbGlkbWludXRlcz00
 
-#EXTINF:-1,19.45 ita CARPI - INTER supersport 01 al
-http://81.7.13.1601/hls/ss01/index.m3u8
-#EXTINF:-1,19.45 ita CARPI - INTER arena sport 01 sr
+#EXTINF:-1,19.45 ita CARPI - INTER supersport 2 al
+http://81.7.13.162/hls/ss2/index.m3u8
+#EXTINF:-1,19.45 ita CARPI - INTER arena sport 2 sr
 http://www.nasatv.eu:80/live?channelId=17&uid=18&deviceUser=dm800&devicePass=dm800
 
-#EXTINF:-1,19.45 ita TORINO - FIORENTINA arena sport 01 sr
+#EXTINF:-1,19.45 ita TORINO - FIORENTINA arena sport 2 sr
 http://www.nasatv.eu:80/live?channelId=17&uid=18&deviceUser=dm800&devicePass=dm800
 
 #EXTINF:-1,19.45 fra MONACO - PSG digi sport 3 ro
-rtmp://rtmp.deltatv.pw:1935/liverepeater/_definst_/1301686
+rtmp://rtmp.deltatv.pw:1935/liverepeater/_definst_/132686
 #EXTINF:-1,19.45 fra MONACO - PSG arena sport 3 sr
 http://www.nasatv.eu:80/live?channelId=18&uid=18&deviceUser=dm800&devicePass=dm800
 #EXTINF:-1,19.45 fra MONACO - PSG c more sport se
-http://188.138.9.01018:80013
+http://188.138.9.228:8023
 #EXTINF:-1,19.45 fra MONACO - PSG beIN sports FR 1
-rtmp://176.10.0150.166:1935/tv/stream3
+rtmp://176.10.250.166:1935/tv/stream3
 #EXTINF:-1,19.45 fra MONACO - PSG bt sport europe uk
-rtmp://$OPT:rtmp-raw=rtmp://80.801.64.140:443/liverepeater playpath=36 pageUrl=http://popeoftheplayers.eu/ token=#atd%#$ZH
+rtmp://$OPT:rtmp-raw=rtmp://80.82.64.140:443/liverepeater playpath=36 pageUrl=http://popeoftheplayers.eu/ token=#atd%#$ZH
 
-#EXTINF:-1,01.00 bra FLUMINENSE - ATL.MINEIRO gazzetta tv it (geo)
-http://rcsgazzettatv59-lh.akamaihd.net/i/gazzettaTV59Univ_1@1017684/master.m3u8
-#EXTINF:-1,01.00 bra FLUMINENSE - ATL.MINEIRO gazzetta tv it_opz 01 (geo)
-http://rcsgazzettatv59-lh.akamaihd.net/i/gazzettaTV59Univ_1@1017684/index_700_av-p.m3u8?sd=10&rebase=on
+#EXTINF:-1,2.00 bra FLUMINENSE - ATL.MINEIRO gazzetta tv it (geo)
+http://rcsgazzettatv59-lh.akamaihd.net/i/gazzettaTV59Univ_1@127684/master.m3u8
+#EXTINF:-1,2.00 bra FLUMINENSE - ATL.MINEIRO gazzetta tv it_opz 2 (geo)
+http://rcsgazzettatv59-lh.akamaihd.net/i/gazzettaTV59Univ_1@127684/index_700_av-p.m3u8?sd=10&rebase=on
 
-#EXTINF:-1,01.15 arg RIVER PLATE - HURACAN sport tv 3 pt
-rtmp://$OPT:rtmp-raw=rtmpe://5.153.0133.106:443/share/ playpath=live3-qszlx swfUrl=http://sharecast.to/player/player010.swf live=1 timeout=10 pageUrl=http://sharecast.to/
-#EXTINF:-1,01.15 arg RIVER PLATE - HURACAN tv publica ar
-rtmp://live-edge01.telecentro.net.ar:1935/live/tvphd-180
-#EXTINF:-1,01.15 arg RIVER PLATE - HURACAN tv publica ar_opz 01
-http://live-edge01.telecentro.net.ar:1935/live/tvphd-360/playlist.m3u8?
-#EXTINF:-1,01.15 arg RIVER PLATE - HURACAN tv publica ar_opz 3
-http://live-edge01.telecentro.net.ar:1935/live/tvphd-7010/playlist.m3u8?
-#EXTINF:-1,01.15 arg RIVER PLATE - HURACAN digi sport 3 ro
-rtmp://rtmp.deltatv.pw:1935/liverepeater/_definst_/1301686
-#EXTINF:-1,01.15 arg RIVER PLATE - HURACAN arena sport 3 sr
+#EXTINF:-1,2.15 arg RIVER PLATE - HURACAN sport tv 3 pt
+rtmp://$OPT:rtmp-raw=rtmpe://5.153.233.106:443/share/ playpath=live3-qszlx swfUrl=http://sharecast.to/player/player20.swf live=1 timeout=10 pageUrl=http://sharecast.to/
+#EXTINF:-1,2.15 arg RIVER PLATE - HURACAN tv publica ar
+rtmp://live-edge2.telecentro.net.ar:1935/live/tvphd-180
+#EXTINF:-1,2.15 arg RIVER PLATE - HURACAN tv publica ar_opz 2
+http://live-edge2.telecentro.net.ar:1935/live/tvphd-360/playlist.m3u8?
+#EXTINF:-1,2.15 arg RIVER PLATE - HURACAN tv publica ar_opz 3
+http://live-edge2.telecentro.net.ar:1935/live/tvphd-720/playlist.m3u8?
+#EXTINF:-1,2.15 arg RIVER PLATE - HURACAN digi sport 3 ro
+rtmp://rtmp.deltatv.pw:1935/liverepeater/_definst_/132686
+#EXTINF:-1,2.15 arg RIVER PLATE - HURACAN arena sport 3 sr
 http://www.nasatv.eu:80/live?channelId=18&uid=18&deviceUser=dm800&devicePass=dm800
 
 
-#EXTINF:-1,01.30 bra CRUZEIRO - SANTOS digi sport 3 ro
-rtmp://rtmp.deltatv.pw:1935/liverepeater/_definst_/1301686
+#EXTINF:-1,2.30 bra CRUZEIRO - SANTOS digi sport 3 ro
+rtmp://rtmp.deltatv.pw:1935/liverepeater/_definst_/132686
 
-#EXTINF:-1,01.30 arg INDEPENDIENTE - ESTUDIANTES LP tv publica ar
-rtmp://live-edge01.telecentro.net.ar:1935/live/tvphd-180
-#EXTINF:-1,01.30 arg INDEPENDIENTE - ESTUDIANTES LP tv publica ar_opz 01
-http://live-edge01.telecentro.net.ar:1935/live/tvphd-360/playlist.m3u8?
-#EXTINF:-1,01.30 arg INDEPENDIENTE - ESTUDIANTES LP tv publica ar_opz 3
-http://live-edge01.telecentro.net.ar:1935/live/tvphd-7010/playlist.m3u8?
-#EXTINF:-1,01.30 arg INDEPENDIENTE - ESTUDIANTES LP sport tv 1 pt
-rtmp://$OPT:rtmp-raw=rtmpe://5.153.0133.106:443/share/ playpath=live1-rbi6c swfUrl=http://sharecast.to/player/player010.swf live=1 timeout=13 pageUrl=http://sharecast.to/
-#EXTINF:-1,01.30 arg INDEPENDIENTE - ESTUDIANTES LP digi sport 01 ro
-rtmp://rtmp.deltatv.pw:1935/liverepeater/_definst_/1301685
-#EXTINF:-1,01.30 arg INDEPENDIENTE - ESTUDIANTES LP arena sport 1 sr
+#EXTINF:-1,2.30 arg INDEPENDIENTE - ESTUDIANTES LP tv publica ar
+rtmp://live-edge2.telecentro.net.ar:1935/live/tvphd-180
+#EXTINF:-1,2.30 arg INDEPENDIENTE - ESTUDIANTES LP tv publica ar_opz 2
+http://live-edge2.telecentro.net.ar:1935/live/tvphd-360/playlist.m3u8?
+#EXTINF:-1,2.30 arg INDEPENDIENTE - ESTUDIANTES LP tv publica ar_opz 3
+http://live-edge2.telecentro.net.ar:1935/live/tvphd-720/playlist.m3u8?
+#EXTINF:-1,2.30 arg INDEPENDIENTE - ESTUDIANTES LP sport tv 1 pt
+rtmp://$OPT:rtmp-raw=rtmpe://5.153.233.106:443/share/ playpath=live1-rbi6c swfUrl=http://sharecast.to/player/player20.swf live=1 timeout=13 pageUrl=http://sharecast.to/
+#EXTINF:-1,2.30 arg INDEPENDIENTE - ESTUDIANTES LP digi sport 2 ro
+rtmp://rtmp.deltatv.pw:1935/liverepeater/_definst_/132685
+#EXTINF:-1,2.30 arg INDEPENDIENTE - ESTUDIANTES LP arena sport 1 sr
 http://www.nasatv.eu:80/live?channelId=16&uid=18&deviceUser=dm800&devicePass=dm800
