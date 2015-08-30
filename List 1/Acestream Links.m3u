@@ -44,6 +44,9 @@ plugin://program.plexus/?url=acestream://28bae63cd0c99f2216d769e2d0d87e88c9aa6af
 #EXTINF:-1,[COLOR lime]BT SPORT/ESPN[/COLOR]
 plugin://program.plexus/?url=acestream://19ac8f262e29e04dfcf4ae88695e4f0a78bd7e64&mode=1&name=acestream+BT SPORT ESPN
 
+#EXTINF:-1,[COLOR lime]NBCSN[/COLOR]
+plugin://program.plexus/?url=acestream://6c1f9b806eb63b89dae52c1c1227baa24a122e45&mode=1&name=acestream+NBCSN
+
 #EXTINF:-1,[COLOR lime]BRITISH EUROSPORT[/COLOR]
 plugin://program.plexus/?url=acestream://268877735d560d2fe78f44bc763e40e2b23b13e4&mode=1&name=acestream+BRITISH EUROSPORT
 
