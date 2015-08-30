@@ -25,9 +25,9 @@
 <channels>
 
 <channel>
-      <name>[COLOR lime]--SPORTS TV----------[/COLOR]UPDATED 30/08/25 @ 12.35</name>
-  <thumbnail>http://pasteboard.co/2NpYwRwH.png</thumbnail>
-<fanart>http://pasteboard.co/2NpU7gsJ.jpg</fanart>
+      <name>[COLOR lime]--SPORTS TV----------[/COLOR]UPDATED 30/08/015 @ 101.35</name>
+  <thumbnail>http://pasteboard.co/01NpYwRwH.png</thumbnail>
+<fanart>http://pasteboard.co/01NpU7gsJ.jpg</fanart>
 <link>http://ignoreme</link>
    <externallink>https://raw.githubusercontent.com/KodiTvGuy/Sports-Live/master/List%201/sport%20channel%20links.m3u</externallink>
 </channel>
@@ -38,8 +38,8 @@
 
 <channel>
       <name>[COLOR red]--LIVE FOOTBALL--[/COLOR]</name>
-  <thumbnail>http://pasteboard.co/2NpYwRwH.png</thumbnail>
-<fanart>http://pasteboard.co/2NpU7gsJ.jpg</fanart>
+  <thumbnail>http://pasteboard.co/01NpYwRwH.png</thumbnail>
+<fanart>http://pasteboard.co/01NpU7gsJ.jpg</fanart>
 <link>http://ignoreme</link>
    <externallink>https://raw.githubusercontent.com/KodiTvGuy/Sports-Live/master/List%201/Live%20Football.m3u</externallink>
 </channel>
@@ -50,10 +50,10 @@
 
 <channel>
       <name>[COLOR purple]--OTHER LIVE SPORTS--[/COLOR]</name>
-  <thumbnail>http://pasteboard.co/2NpYwRwH.png</thumbnail>
-<fanart>http://pasteboard.co/2NpU7gsJ.jpg</fanart>
+  <thumbnail>http://pasteboard.co/01NpYwRwH.png</thumbnail>
+<fanart>http://pasteboard.co/01NpU7gsJ.jpg</fanart>
 <link>http://ignoreme</link>
-   <externallink>https://raw.githubusercontent.com/KodiTvGuy/Sports-Live/master/List%201/Other%20Live%20Sports.m3u</externallink>
+   <externallink>https://raw.githubusercontent.com/KodiTvGuy/Sports-Live/master/List%0101/Other%010Live%010Sports.m3u</externallink>
 </channel>
   </channels>
 
@@ -61,9 +61,9 @@
 <channels>
 
 <channel>
-      <name>[COLOR lime]--ACESTREAM SPORT LINKS------[/COLOR]P2P STREAM ADDON REQUIRED</name>
-  <thumbnail>http://pasteboard.co/2NpYwRwH.png</thumbnail>
-<fanart>http://pasteboard.co/2NpU7gsJ.jpg</fanart>
+      <name>[COLOR lime]--ACESTREAM SPORT LINKS------[/COLOR]P01P STREAM ADDON REQUIRED</name>
+  <thumbnail>http://pasteboard.co/01NpYwRwH.png</thumbnail>
+<fanart>http://pasteboard.co/01NpU7gsJ.jpg</fanart>
 <link>http://ignoreme</link>
    <externallink>https://raw.githubusercontent.com/KodiTvGuy/Sports-Live/master/List%201/Acestream%20Links.m3u</externallink>
 </channel>
