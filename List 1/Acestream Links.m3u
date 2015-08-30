@@ -29,14 +29,14 @@ plugin://program.plexus/?url=acestream://37558d4ae8149aebd7e87a406fece41626e35c3
 #EXTINF:-1,[COLOR lime]SKY SPORTS F1[/COLOR]
 plugin://program.plexus/?url=acestream://02c14347959f78d8bf18f898c56f429ab5a44c7b&mode=1&name=acestream+SKY SPORTS F1
 
-#EXTINF:-1,[COLOR red]SKY SPORTS NEWS[/COLOR]
-plugin://program.plexus/?url=acestream://82d9268889e0d67c991b421577e810faff3e5ba0&mode=1&name=acestream+SKY SPORTS NEWS
+#EXTINF:-1,[COLOR lime]SKY SPORTS NEWS[/COLOR]
+plugin://program.plexus/?url=acestream://c7b76f6220f6e46b19cb5d655b04dc0dc21d11c4&mode=1&name=acestream+SKY SPORTS NEWS
 
 #EXTINF:-1,[COLOR lime]BT SPORT 1[/COLOR]
 plugin://program.plexus/?url=acestream://dc5310a7e47fcd52cf1d9d7c4db089d72cf3d9e5&mode=1&name=acestream+BT SPORT 1
 
-#EXTINF:-1,[COLOR lime]BT SPORT 1[/COLOR]
-plugin://program.plexus/?url=acestream://7e8a66f8acc92f39e52634761f391693a4134585&mode=1&name=acestream+BT SPORT 1
+#EXTINF:-1,[COLOR lime]BT SPORT 2[/COLOR]
+plugin://program.plexus/?url=acestream://7e8a66f8acc92f39e52634761f391693a4134585&mode=1&name=acestream+BT SPORT 2
 
 #EXTINF:-1,[COLOR lime]BT SPORT EUROPE[/COLOR]
 plugin://program.plexus/?url=acestream://28bae63cd0c99f2216d769e2d0d87e88c9aa6af&mode=1&name=acestream+BT SPORT EUROPE
