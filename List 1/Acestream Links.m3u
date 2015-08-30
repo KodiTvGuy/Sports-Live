@@ -55,7 +55,7 @@ plugin://plugin.video.p2p-streams/?url=acestream://28bae63cd0c99f2216d769e2d0d87
 plugin://plugin.video.p2p-streams/?url=acestream://19ac8f262e29e04dfcf4ae88695e4f0a78bd7e64&mode=1&name=acestream+BT SPORT ESPN
 
 #EXTINF:-1,[COLOR lime]BRITISH EUROSPORT[/COLOR]
-plugin://plugin.video.p2p-streams/?url=acestream://268877735d560d2fe78f44bc763e40e2b23b13e4&mode=1&name=acestream+BRITISH EUROSPORT
+plugin://plugin.program.plexus/?url=acestream://268877735d560d2fe78f44bc763e40e2b23b13e4&mode=1&name=acestream+BRITISH EUROSPORT
 
 #EXTINF:-1,[COLOR lime]BRITISH EUROSPORT 2[/COLOR]
 plugin://plugin.video.p2p-streams/?url=acestream://7462d97e96e0f05e4551dbd3fb8a75a2d746c596&mode=1&name=acestream+BRITISH EUROSPORT 2
