@@ -23,6 +23,9 @@ http://stream-full.selfip.com:8000/live/facebook/facebook/102.m3u8
 #EXTINF:-1,SKY SPORTS 1 HD
 http://stream-full.selfip.com:8000/live/facebook/facebook/131.m3u8
 
+#EXTINF:-1,SKY SPORT 1 HD
+http://62.210.248.96:11000/sneddonuk01@hotmail.co.uk_test/sneddonuk01@hotmail.co.uk_test/6.ch
+
 #EXTINF:-1,SKY SPORTS 2
 http://stream-full.selfip.com:8000/live/facebook/facebook/103.m3u8
 
@@ -95,7 +98,7 @@ http://stream-full.selfip.com:8000/live/facebook/facebook/347.m3u8
 http://stream-full.selfip.com:8000/live/facebook/facebook/86.m3u8
 
 #EXTINF:0,NBA
-http://37.187.149.103:8000/live/07951db8aa7cbd43/34abd2d0ce65538f/144.m3u8?token=uz6qP4oobvt_uHy8wFoYSQ&e=1439941315&u=3392&channel=
+http://stream-full.selfip.com:8000/live/facebook/facebook/294.m3u8
 
 #EXTINF:0,BEIN USA 1
 http://lihattv.toh.info/jhos/beib1.m3u8
