@@ -17,170 +17,82 @@
 http://iptv-volkan.ddns.net:8000/live/noureddine123/barb52/352.m3u8
 
 
-#EXTINF:0,SKY SPORTS 1 LINK 1
-http://37.59.17.46/live/RIAr0KLTZGSGifXW5e6_bQ/1440966598/3562f7795a18fc93d94ad2cb616c3d90.m3u8
+#EXTINF:-1,SKY SPORTS 1
+http://stream-full.selfip.com:8000/live/facebook/facebook/102.m3u8
 
+#EXTINF:-1,SKY SPORTS 1 HD
+http://stream-full.selfip.com:8000/live/facebook/facebook/131.m3u8
 
-#EXTINF:0,SKY SPORTS 1 LINK 2
-http://37.59.17.46/live/7gWr69SqnLNRA0QBdJz6Kg/1440966622/3562f7795a18fc93d94ad2cb616c3d90.m3u8
+#EXTINF:-1,SKY SPORTS 2
+http://stream-full.selfip.com:8000/live/facebook/facebook/103.m3u8
 
+#EXTINF:-1,SKY SPORTS 2 HD
+http://stream-full.selfip.com:8000/live/facebook/facebook/132.m3u8
 
-#EXTINF:0,SKY SPORTS 1 LINK 3
-http://37.59.17.46/live/ga_smHXBOjz0Yv1EeRljdg/1440966637/3562f7795a18fc93d94ad2cb616c3d90.m3u8
+#EXTINF:-1,SKY SPORTS 3
+http://stream-full.selfip.com:8000/live/facebook/facebook/104.m3u8
 
+#EXTINF:-1,SKY SPORTS 3 HD
+http://stream-full.selfip.com:8000/live/facebook/facebook/133.m3u8
 
+#EXTINF:-1,SKY SPORTS 4
+http://stream-full.selfip.com:8000/live/facebook/facebook/105.m3u8
 
+#EXTINF:-1,SKY SPORTS 4 HD
+http://stream-full.selfip.com:8000/live/facebook/facebook/134.m3u8
 
+#EXTINF:-1,SKY SPORTS 5
+http://stream-full.selfip.com:8000/live/facebook/facebook/106.m3u8
 
-#EXTINF:0,SKY SPORTS 2 LINK 1
-http://192.99.149.33/live/FFCmPUTs5_3CwLZMxxkjvw/1440966648/c715e3cbca072810c4d5216b0827437b.m3u8
+#EXTINF:-1,SKY SPORTS 5 HD
+http://stream-full.selfip.com:8000/live/facebook/facebook/135.m3u8
 
+#EXTINF:-1,SKY SPORTS News
+http://stream-full.selfip.com:8000/live/facebook/facebook/107.m3u8
 
+#EXTINF:-1,BT SPORT 1
+http://stream-full.selfip.com:8000/live/facebook/facebook/83.m3u8
 
-#EXTINF:0,SKY SPORTS 2 LINK 2
-http://192.99.149.33/live/i8tUaZIHwpqP1rh2PuFpCQ/1440966671/c715e3cbca072810c4d5216b0827437b.m3u8
+#EXTINF:-1,BT SPORT 2
+http://stream-full.selfip.com:8000/live/facebook/facebook/84.m3u8
 
+#EXTINF:-1,BT SPORT EUROPE
+http://stream-full.selfip.com:8000/live/facebook/facebook/358.m3u8
 
-#EXTINF:0,SKY SPORTS 2 LINK 3
-http://192.99.149.33/live/574nBXwl-Jn7g9_1xWEvdw/1440966705/c715e3cbca072810c4d5216b0827437b.m3u8
+#EXTINF:-1,BT SPORT EXTRA
+http://stream-full.selfip.com:8000/live/facebook/facebook/160.m3u8
 
+#EXTINF:0,CHELSEA TV
+http://stream-full.selfip.com:8000/live/facebook/facebook/85.m3u8
 
+#EXTINF:-1,LIVERPOOL TV
+http://stream-full.selfip.com:8000/live/facebook/facebook/162.m3u8
 
-#EXTINF:0,SKY SPORTS 3 LINK 1
-http://192.99.149.33/live/1dZL1hNBqtoHG4ieUqImvw/1440966716/1b08968ed7063cf6d11c88e0c52cbb91.m3u8
-
-
-
-#EXTINF:0.SKY SPORTS 3 LINK 2
-http://192.99.149.33/live/1H_TrzblOAt3GH-8c2kwbQ/1440966725/1b08968ed7063cf6d11c88e0c52cbb91.m3u8
-
-
-#EXTINF:0.SKY SPORTS 3 LINK 3
-http://192.99.149.33/live/Bh4EDsaoi5nzhU4k0D-AgA/1440966737/1b08968ed7063cf6d11c88e0c52cbb91.m3u8
-
-
-
-
-#EXTINF:0,SKY SPORTS 4 LINK 1
-http://37.59.17.46/live/HXC68k8qQXKvJRV8okC2Iw/1440966761/1607ec4a5cdcb0acd48804076737f712.m3u8
-
-
-#EXTINF:0,SKY SPORTS 4 LINK 2
-http://37.59.17.46/live/utcg2yumZhTIP8ttZLkAdQ/1440966787/1607ec4a5cdcb0acd48804076737f712.m3u8
-
-
-#EXTINF:0,SKY SPORTS 4 LINK 3
-http://37.59.17.46/live/kV4saVYJxYbdYMOcXsj1mg/1440966801/1607ec4a5cdcb0acd48804076737f712.m3u8
-
-
-
-
-#EXTINF:0,SKY SPORTS 5 LINK 1
-http://192.99.149.33/live/0MuJ6NHHbnZZWmQs0zePYQ/1440966828/ce89bce2a42f4d7df8854af633da1a86.m3u8
-
-
-#EXTINF:0,SKY SPORTS 5 LINK 2
-http://192.99.149.33/live/zh7MyJCJw_y9QT451F_KCg/1440966843/ce89bce2a42f4d7df8854af633da1a86.m3u8
-
-
-#EXTINF:0,SKY SPORTS 5 LINK 3
-http://192.99.149.33/live/VAoGPIh8EB-RnOfPA5V1-g/1440966860/ce89bce2a42f4d7df8854af633da1a86.m3u8
-
-
-
-#EXTINF:0,SKY SPORTS F1
-http://192.99.149.33/live/lwfvIu6OJUsQuUIJC66R6w/1440967113/343b4b2909705b5f5babe196c05c7895.m3u8
-
-
-#EXTING:0,SKY SPORTS F1
-http://192.99.149.33/live/4tLTfAAbqUga-EspNP1duw/1440967131/343b4b2909705b5f5babe196c05c7895.m3u8
-
-
-#EXTINF:0,SKY SPORTS NEW HQ
-http://192.99.19.181/live/WNUWmvFiieTqXGupZxZ_4A/1440967148/4b200ad68aeb55750139f206f6c47a7d.m3u8
-
-
-
-#EXTINF:0,SKY SPORTS NEW HQ
-http://192.99.19.181/live/OQFH7FKMxwfhHFWkuXClFw/1440967162/4b200ad68aeb55750139f206f6c47a7d.m3u8
-
-
-#EXTINF:0,SKY SPORTS NEWS HQ
-http://192.99.19.181/live/HwrP3cV-AeuFtbTkZlbjQw/1440967185/4b200ad68aeb55750139f206f6c47a7d.m3u8
-
-
-
-
-#EXTINF:0,BT SPORT 1
-http://192.99.149.33/live/zc1O2131SQVTxyTkM1C4vQ/1440966886/feb9c19124327ffd2bae3c97249ea40e.m3u8
-
-#EXTINF:0,BT SPORT 1
-http://192.99.149.33/live/-gxQvopEgD2zwJhAh5Su-A/1440966897/feb9c19124327ffd2bae3c97249ea40e.m3u8
-
-
-#EXTINF:0,BT SPORT 1
-http://192.99.149.33/live/wnzoRU5EB7pKKDzHbTfJ1g/1440966908/feb9c19124327ffd2bae3c97249ea40e.m3u8
-
-
-
-#EXTINF:0,BT SPORT 2
-http://192.99.149.33/live/2hyoKh2TqGU1AJ_YbSrGcA/1440966934/a0baff4a9870ad57efd54f32cf8be880.m3u8
-
-
-
-#EXTINF:0,BT SPORT 2
-http://192.99.149.33/live/sy8VEvMYMGMnzfyKZwAGiw/1440966949/a0baff4a9870ad57efd54f32cf8be880.m3u8
-
-
-#EXTINF:0,BT SPORT 2
-http://192.99.149.33/live/fLgqIxUrvvjA8YLb2W1n8A/1440966961/a0baff4a9870ad57efd54f32cf8be880.m3u8
-
-#EXTINF:0,BT SPORT EUROPE LINK 1
-http://192.99.149.33/live/Csmcs_MKljPZ_WOSlP4kTg/1440966974/9d8896af505619b4c912197f79833555.m3u8
-
-#EXTINF:0,BT SPORT EUROPE LINK 2
-http://192.99.149.33/live/Qptj4c6TSvRezbpFopacig/1440967003/9d8896af505619b4c912197f79833555.m3u8
-
-
-#EXTINF:0,BRITISH EUROSPORT LINK 1
-http://192.99.19.181/live/oaIxv4nsggQODZogeuQdUA/1440940912/e19366eea531fc28a54af600214456a5.m3u8
-
-#EXTINF:0,BRITISH EUROSPORT LINK 2
-http://192.99.19.181/live/mXXNHCCbHWXD39UKamXEYg/1440940941/e19366eea531fc28a54af600214456a5.m3u8
-
-
+#EXTINF:-1,MUTV TV
+http://stream-full.selfip.com:8000/live/facebook/facebook/159.m3u8
 
 
 #EXTINF:0,BRITISH EUROSPORT 2 LINK 1
-http://192.99.149.33/live/nL4QoAqrqzzZGb8ED4Lc6A/1440900960/b17a4be223d6d945f21785dc42a0429.m3u8
+http://stream-full.selfip.com:8000/live/facebook/facebook/87.m3u8
 
-#EXTINF:0,BRITISH EUROSPORT 2 LINK 2
-http://192.99.149.33/live/RPKl8maN5HP6-_sVOmpfRQ/1440941372/465ceb1d159f7b0a0372ad1110f95a12.m3u8
+#EXTINF:0,FOX SPORTS 1 HD
+http://stream-full.selfip.com:8000/live/facebook/facebook/99.ts
+
+#EXTINF:-1,FOX SPORTS 2 HD
+http://stream-full.selfip.com:8000/live/facebook/facebook/100.ts
 
 
 
 
 #EXTINF:0,RACING UK
-http://37.187.149.103:8000/live/07951db8aa7cbd43/34abd2d0ce65538f/93.m3u8?token=uz6qP4oobvt_uHy8wFoYSQ&e=1439941315&u=3392&channel=
+http://stream-full.selfip.com:8000/live/facebook/facebook/96.m3u8
 
 
-#EXTINF:0,BOXNATION
-http://37.187.149.103:8000/live/07951db8aa7cbd43/34abd2d0ce65538f/194.m3u8?token=uz6qP4oobvt_uHy8wFoYSQ&e=1439941315&u=3392&channel=
+#EXTINF:0,BOXNATION HD
+http://stream-full.selfip.com:8000/live/facebook/facebook/347.m3u8
 
-#EXTINF:0,SETANTA SPORTS
-http://37.187.149.103:8000/live/07951db8aa7cbd43/34abd2d0ce65538f/70.m3u8?token=uz6qP4oobvt_uHy8wFoYSQ&e=1439941315&u=3392&channel=
-
-#EXTINF:0,PREMIER SPORTS
-http://192.99.149.33/live/sPIQu0xv-c5bGFy7OxXBEA/1440900918/2d18f483dbcf20bf0cc41b916f026d6b.m3u8
-
-
-#EXTINF:0,NFL TV
-http://37.59.17.46/live/yhi4YAoFaRRoNg16pUmUiQ/1440941423/ac36a3696ec781ba88e1469447723040.m3u8
-
-
-
-#EXTINF:0,ESPN
-http://192.99.149.33/live/UNL16nHXPsMuxiiNNIjq0g/dsjfndfnjjdfjddjkjdkdkd.m3u
+#EXTINF:-1,ESPN
+http://stream-full.selfip.com:8000/live/facebook/facebook/86.m3u8
 
 #EXTINF:0,NBA
 http://37.187.149.103:8000/live/07951db8aa7cbd43/34abd2d0ce65538f/144.m3u8?token=uz6qP4oobvt_uHy8wFoYSQ&e=1439941315&u=3392&channel=
