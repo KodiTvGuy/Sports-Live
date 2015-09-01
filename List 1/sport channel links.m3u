@@ -20,35 +20,48 @@ http://iptv-volkan.ddns.net:8000/live/noureddine123/barb52/352.m3u8
 #EXTINF:-1,SKY SPORTS 1
 http://stream-full.selfip.com:8000/live/facebook/facebook/102.m3u8
 
-#EXTINF:-1,SKY SPORTS 1 HD
+#EXTINF:-1,SKY SPORTS 1 HD LINK 1
 http://stream-full.selfip.com:8000/live/facebook/facebook/131.m3u8
 
-#EXTINF:-1,SKY SPORT 1 HD
-http://62.210.248.96:11000/sneddonuk01@hotmail.co.uk_test/sneddonuk01@hotmail.co.uk_test/6.ch
+#EXTINF:-1,SKY SPORT 1 HD LINK 2
+http://tvi.ddns.me:8000/live/dhoha/benomrane/1044.m3u8
+
 
 #EXTINF:-1,SKY SPORTS 2
 http://stream-full.selfip.com:8000/live/facebook/facebook/103.m3u8
 
-#EXTINF:-1,SKY SPORTS 2 HD
+#EXTINF:-1,SKY SPORTS 2 HD LINK 1
 http://stream-full.selfip.com:8000/live/facebook/facebook/132.m3u8
+
+#EXTINF:-1,SKY SPORTS 2 HD LINK 2
+http://tvi.ddns.me:8000/live/dhoha/benomrane/1043.m3u8
 
 #EXTINF:-1,SKY SPORTS 3
 http://stream-full.selfip.com:8000/live/facebook/facebook/104.m3u8
 
-#EXTINF:-1,SKY SPORTS 3 HD
+#EXTINF:-1,SKY SPORTS 3 HD LINK 1
 http://stream-full.selfip.com:8000/live/facebook/facebook/133.m3u8
+
+#EXTINF:-1,SKY SPORTS 3 HD LINK 2
+http://tvi.ddns.me:8000/live/dhoha/benomrane/1042.m3u8
 
 #EXTINF:-1,SKY SPORTS 4
 http://stream-full.selfip.com:8000/live/facebook/facebook/105.m3u8
 
-#EXTINF:-1,SKY SPORTS 4 HD
+#EXTINF:-1,SKY SPORTS 4 HD LINK 1
 http://stream-full.selfip.com:8000/live/facebook/facebook/134.m3u8
+
+#EXTINF:-1,SKY SPORTS 4 HD LINK 2
+http://tvi.ddns.me:8000/live/dhoha/benomrane/1041.m3u8
 
 #EXTINF:-1,SKY SPORTS 5
 http://stream-full.selfip.com:8000/live/facebook/facebook/106.m3u8
 
-#EXTINF:-1,SKY SPORTS 5 HD
+#EXTINF:-1,SKY SPORTS 5 HD LINK 1
 http://stream-full.selfip.com:8000/live/facebook/facebook/135.m3u8
+
+#EXTINF:-1,SKY SPORTS 5 HD LINK 2
+http://tvi.ddns.me:8000/live/dhoha/benomrane/1040.m3u8
 
 #EXTINF:-1,SKY SPORTS News
 http://stream-full.selfip.com:8000/live/facebook/facebook/107.m3u8
@@ -64,6 +77,9 @@ http://stream-full.selfip.com:8000/live/facebook/facebook/358.m3u8
 
 #EXTINF:-1,BT SPORT EXTRA
 http://stream-full.selfip.com:8000/live/facebook/facebook/160.m3u8
+
+#EXTINF:0,SETANTA SPORT
+http://tvi.ddns.me:8000/live/dhoha/benomrane/1112.m3u8
 
 #EXTINF:0,CHELSEA TV
 http://stream-full.selfip.com:8000/live/facebook/facebook/85.m3u8
