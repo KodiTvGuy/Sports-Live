@@ -31,11 +31,17 @@ http://stream-full.selfip.com:8000/live/facebook/facebook/132.m3u8
 #EXTINF:-1,SKY SPORTS 2
 http://stream-full.selfip.com:8000/live/facebook/facebook/103.m3u8
 
+#EXTINF:-1,SKY SPORTS 2 LINK 2
+http://bravboy3.dyndns.tv:8000/live/dannytest/dannytest/11.m3u8
+
 #EXTINF:-1,SKY SPORTS 3 HD
 http://stream-full.selfip.com:8000/live/facebook/facebook/133.m3u8
 
 #EXTINF:-1,SKY SPORTS 3
 http://stream-full.selfip.com:8000/live/facebook/facebook/104.m3u8
+
+#EXTINF:-1,SKY SPORTS 3 LINK 2
+http://bravboy3.dyndns.tv:8000/live/dannytest/dannytest/12.m3u8
 
 #EXTINF:-1,SKY SPORTS 4 HD
 http://stream-full.selfip.com:8000/live/facebook/facebook/134.m3u8
@@ -43,8 +49,14 @@ http://stream-full.selfip.com:8000/live/facebook/facebook/134.m3u8
 #EXTINF:-1,SKY SPORTS 4
 http://stream-full.selfip.com:8000/live/facebook/facebook/105.m3u8
 
+#EXTINF:-1,SKY SPORTS 4 LINK 2
+http://bravboy3.dyndns.tv:8000/live/dannytest/dannytest/13.m3u8
+
 #EXTINF:-1,SKY SPORTS 5 HD
 http://stream-full.selfip.com:8000/live/facebook/facebook/135.m3u8
+
+#EXTINF:-1,SKY SPORTS 5 LINK 2
+http://bravboy3.dyndns.tv:8000/live/dannytest/dannytest/37.m3u8
 
 #EXTINF:-1,SKY SPORTS News
 http://stream-full.selfip.com:8000/live/facebook/facebook/107.m3u8
