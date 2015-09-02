@@ -16,7 +16,7 @@
 #EXTINF:0,SKY SPORTS 5
 http://iptv-volkan.ddns.net:8000/live/noureddine123/barb52/352.m3u8
 
-EXTINF:-1,SKY SPORTS 1 HD
+#EXTINF:-1,SKY SPORTS 1 HD
 http://stream-full.selfip.com:8000/live/facebook/facebook/131.m3u8
 
 #EXTINF:-1,SKY SPORTS 1
