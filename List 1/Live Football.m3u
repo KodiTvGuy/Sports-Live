@@ -1,55 +1,83 @@
 #EXTM3U
 
 
-<<<<<<< HEAD
-#EXTINF:-1, [COLOR green]-------------UPDATED 02/09/15 @17.40 GMT-------------[/COLOR]
-=======
-#EXTINF:-1, [COLOR green]-------------UPDATED 01/09/15 @17.20-------------[/COLOR]
->>>>>>> origin/master
+
+#EXTINF:-1, [COLOR green]-------------UPDATED 03/09/15 @17.50 GMT-------------[/COLOR]
 #EXTINF:-1,
 #
 #EXTINF:-1,
 
 
-<<<<<<< HEAD
-#EXTINF:-1,16.45 den.cup VEJLE BK - HOBRO tv3 sport 1 ace
-acestream://783f9190794b0cf507cc0da231d280121e8f89ad
-
-
-#EXTINF:-1,23.30 bra INTERNACIONAL - VASCO DA GAMA digi sport 2 ro
+#EXTINF:-1,17.00 eur.2016.qual AZERBAIJAN - CROATIA digi sport 2 ro
 rtmp://rtmp.deltatv.pw:1935/liverepeater/_definst_/132685
-
-
-#EXTINF:-1,02.00 bra CORINTHIANS - FLUMINENSE sport tv 1 pt
+#EXTINF:-1,17.00 eur.2016.qual AZERBAIJAN - CROATIA hrt 2 hr
+http://213.5.58.58:1935/hrt_live/smil:hrt2.smil/nesto.m3u8
+#EXTINF:-1,17.00 eur.2016.qual AZERBAIJAN - CROATIA hrt 2 hr_2
+http://www.nasatv.eu:80/live?channelId=3&uid=18&deviceUser=dm800&devicePass=dm800
+#EXTINF:-1,17.00 eur.2016.qual AZERBAIJAN - CROATIA ictimai tv Az
+http://bak01-edge03.itdc.ge/ictimai/index.m3u8?token=mk8CRfDflPluw8PPSBcG0ngP6FXfU0b7Lmy4OmQFkH2OfJVVhM-LifoJyCym2ru1tZpodnleth8K1YSg9yOVSQ**
+#EXTINF:-1,17.00 eur.2016.qual AZERBAIJAN - CROATIA sport tv 1 pt
 rtmp://$OPT:rtmp-raw=rtmpe://5.153.233.106:443/share/ playpath=live1-rbi6c swfUrl=http://sharecast.to/player/player20.swf live=1 timeout=13 pageUrl=http://sharecast.to/
-
-#EXTINF:-1,02.00 bra CORINTHIANS - FLUMINENSE digi sport 2 ro
-rtmp://rtmp.deltatv.pw:1935/liverepeater/_definst_/132685
-
-#EXTINF:-1,02.00 bra CORINTHIANS - FLUMINENSE arena sport 1 sr
-http://www.nasatv.eu:80/live?channelId=16&uid=18&deviceUser=dm800&devicePass=dm800
-=======
-#EXTINF:-1,19.00 por BELENENSES - MARITIMO sport tv 1 pt
-rtmp://$OPT:rtmp-raw=rtmpe://5.153.233.106:443/share/ playpath=live1-rbi6c swfUrl=http://sharecast.to/player/player20.swf live=1 timeout=13 pageUrl=http://sharecast.to/
-
-#EXTINF:-1,19.00 por BELENENSES - MARITIMO sportklub 1 sr
+#EXTINF:-1,17.00 eur.2016.qual AZERBAIJAN - CROATIA sportklub 1 sr
 http://www.nasatv.eu:80/live?channelId=87&uid=18&deviceUser=dm800&devicePass=dm800
 
-#EXTINF:-1,19.15 ger2 BOCHUM - 1860 MUNICH sport 1 de
-http://streaming-hub.com/ss/kjhkdsqfksdqfhoisdxco/i/sport1_1@97464/index_1300_av-p.m3u8?sd=10&rebase=on
 
-#EXTINF:-1,19.15 ger2 BOCHUM - 1860 MUNICH bt sport europe uk
-rtmp://$OPT:rtmp-raw=rtmp://80.82.64.140:443/liverepeater playpath=36 pageUrl=http://popeoftheplayers.eu/ token=#atd%#$ZH
-
-#EXTINF:-1,21.00 por UNIAO MADEIRA - VIT.GUIMARAES sport tv 1 pt
+#EXTINF:-1,19.45 eur.2016.qual ITALY - MALTA rai1 it
+http://httpstream2.rai.it/Italy/rai1.isml/QualityLevels(1856000)/manifest(format=m3u8-aapl).m3u8
+#EXTINF:-1,19.45 eur.2016.qual ITALY - MALTA rai1 it_opz 2
+http://origin2.live.web.tv.streamprovider.net/streams/a3be8da5ba57ddb33ada9fa8fcd53a19/index.m3u8
+#EXTINF:-1,19.45 eur.2016.qual ITALY - MALTA rai1 it_opz 3
+http://streaming-hub.com/ss/kjhkdsqfksdqfhoisdxco/i/rai1_1@97382/index_1300_av-p.m3u8?sd=10&rebase=on
+#EXTINF:-1,19.45 eur.2016.qual ITALY - MALTA sport tv 1 pt
 rtmp://$OPT:rtmp-raw=rtmpe://5.153.233.106:443/share/ playpath=live1-rbi6c swfUrl=http://sharecast.to/player/player20.swf live=1 timeout=13 pageUrl=http://sharecast.to/
+#EXTINF:-1,19.45 eur.2016.qual ITALY - MALTA supersport 2 al
+http://81.7.13.162/hls/ss2/index.m3u8
+#EXTINF:-1,19.45 eur.2016.qual ITALY - MALTA digi sport 3 ro
+rtmp://rtmp.deltatv.pw:1935/liverepeater/_definst_/132686
 
-#EXTINF:-1 01.10 arg LANUS - NUEVA CHICAGO tv publica ar
-rtmp://live-edge01.telecentro.net.ar:1935/live/tvphd-180
 
-#EXTINF:-1,01.10 arg LANUS - NUEVA CHICAGO tv publica ar_opz 2
-http://live-edge01.telecentro.net.ar:1935/live/tvphd-360/playlist.m3u8?
+#EXTINF:-1,19.45 eur.2016.qual BULGARIA - NORWAY sportklub 3 sr
+http://www.nasatv.eu:80/live?channelId=101&uid=18&deviceUser=dm800&devicePass=dm800
 
-#EXTINF:-1,01.10 arg LANUS - NUEVA CHICAGO tv publica ar_opz 3
-http://live-edge01.telecentro.net.ar:1935/live/tvphd-720/playlist.m3u8?
->>>>>>> origin/master
+#EXTINF:-1,19.45 eur.2016.qual BELGIUM - BOSNIA HERZEGOVINA sport 1 voetbal nl
+http://ziggo.cdn.sport1.triple-it.nl/sport1voetbalhd.isml/QualityLevels(696000)/manifest(format=m3u8-aapl).m3u8
+#EXTINF:-1,19.45 eur.2016.qual BELGIUM - BOSNIA HERZEGOVINA sport 1 voetbal HD nl
+http://ziggo.cdn.sport1.triple-it.nl/sport1voetbalhd.isml/QualityLevels(2896000)/manifest(format=m3u8-aapl).m3u8
+#EXTINF:-1,19.45 eur.2016.qual BELGIUM - BOSNIA HERZEGOVINA digi sport 2 ro
+rtmp://rtmp.deltatv.pw:1935/liverepeater/_definst_/132685
+#EXTINF:-1,19.45 eur.2016.qual BELGIUM - BOSNIA HERZEGOVINA sport tv 3 pt
+rtmp://$OPT:rtmp-raw=rtmpe://5.153.233.106:443/share/ playpath=live3-qszlx swfUrl=http://sharecast.to/player/player20.swf live=1 timeout=10 pageUrl=http://sharecast.to/
+#EXTINF:-1,19.45 eur.2016.qual BELGIUM - BOSNIA HERZEGOVINA supersport 4 al
+http://balkanstream.com/stream/supersport4/mip001/25hsK6Sa9l
+#EXTINF:-1,19.45 eur.2016.qual BELGIUM - BOSNIA HERZEGOVINA bht1
+http://www.nasatv.eu:80/live?channelId=109&uid=18&deviceUser=dm800&devicePass=dm800
+#EXTINF:-1,19.45 eur.2016.qual BELGIUM - BOSNIA HERZEGOVINA bht1
+http://balkanstream.com/stream/bht1/mip001/25hsK6Sa9l
+
+#EXTINF:-1,19.45 eur.2016.qual TURKEY - LATVIA show tv tr
+http://mn-l.mncdn.com/showtv/showtv2/playlist.m3u8
+
+
+#EXTINF:-1,19.45 eur.2016.qual NETHERLANDS - ICELAND sport tv 2 pt
+rtmp://$OPT:rtmp-raw=rtmpe://5.153.233.106:443/share/ playpath=live2-bipmr swfUrl=http://sharecast.to/player/player20.swf live=1 timeout=13 pageUrl=http://sharecast.to/
+#EXTINF:-1,19.45 eur.2016.qual NETHERLANDS - ICELAND digi sport 1 ro
+rtmp://rtmp.deltatv.pw:1935/liverepeater/_definst_/132679
+#EXTINF:-1,19.45 eur.2016.qual NETHERLANDS - ICELAND haberturk tr
+http://strm-i.glb.pr.medianova.tv:1935/haberturk/haberturk2/playlist.m3u8
+#EXTINF:-1,19.45 eur.2016.qual NETHERLANDS - ICELAND supersport 3 al
+http://balkanstream.com/stream/supersport3/mip001/25hsK6Sa9l
+#EXTINF:-1,19.45 eur.2016.qual NETHERLANDS - ICELAND sportklub 1 sr
+http://www.nasatv.eu:80/live?channelId=87&uid=18&deviceUser=dm800&devicePass=dm800
+#EXTINF:-1,19.45 eur.2016.qual NETHERLANDS - ICELAND rtl nitro de
+http://212.79.96.134:8026
+
+
+#EXTINF:-1,19.45 eur.2016.qual CZECH REP. - KAZAKHSTAN ct sport cz
+http://212.79.96.134:8014
+
+#EXTINF:-1,01.00 bra FIGUEIRENSE - GREMIO sport tv 1 pt
+rtmp://$OPT:rtmp-raw=rtmpe://5.153.233.106:443/share/ playpath=live1-rbi6c swfUrl=http://sharecast.to/player/player20.swf live=1 timeout=13 pageUrl=http://sharecast.to/
+#EXTINF:-1,01.00 bra FIGUEIRENSE - GREMIO digi sport 1 ro
+rtmp://rtmp.deltatv.pw:1935/liverepeater/_definst_/132679
+#EXTINF:-1,01.00 bra FIGUEIRENSE - GREMIO arena sport 3 sr
+http://www.nasatv.eu:80/live?channelId=18&uid=18&deviceUser=dm800&devicePass=dm800
