@@ -1,16 +1,16 @@
 #EXTM3U
 
 
-#EXTINF:-1, [COLOR green]-------------UPDATED 05/09/15 @ 15.15 GMT-------------[/COLOR]
+#EXTINF:-1, [COLOR green]-------------UPDATED 08/09/15 @ 19.00 GMT-------------[/COLOR]
 #EXTINF:-1,
 #
 #EXTINF:-1,
 
-#EXTINF:-1,16.00-03.00 TENNIS US OPEN 3rd round eurosport de
+#EXTINF:-1,16.00-03.00 TENNIS US OPEN – Quarter Final eurosport de
 http://streaming-hub.com/ss/kjhkdsqfksdqfhoisdxco/i/eurosportde_1@97452/index_1300_av-p.m3u8?sd=10&rebase=on
 
-#EXTINF:-1,17.00-03.00 TENNIS US OPEN 3rd round eurosport uk
-http://www.nasatv.eu:80/live?channelId=42&uid=18&deviceUser=dm800&devicePass=dm800
+#EXTINF:-1,16.00-03.00 TENNIS US OPEN – Quarter Final eurosport uk
+http://www.nasatv.eu:80/live?channelId=42&uid=18&deviceUser=zine&devicePass=zine
 
-#EXTINF:-1,16.00-03.00 TENNIS US OPEN 3rd round eurosport 2 uk
-http://www.nasatv.eu:80/live?channelId=43&uid=18&deviceUser=dm800&devicePass=dm800
+#EXTINF:-1,16.00-03.00 TENNIS US OPEN – Quarter Final eurosport 2 uk
+http://www.nasatv.eu:80/live?channelId=43&uid=18&deviceUser=zine&devicePass=zine
