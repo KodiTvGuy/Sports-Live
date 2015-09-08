@@ -16,33 +16,25 @@
 #EXTINF:0,SKY SPORTS 5
 http://iptv-volkan.ddns.net:8000/live/noureddine123/barb52/352.m3u8
 
-#EXTINF:-1,SKY SPORTS 1 HD rtmp://$OPT:rtmp-raw=rtmp://80.82.78.165/live playpath=ss1 swfUrl=http://www.yocast.tv/myplayer/jwplayer.flash.swf live=1 pageUrl=http://www.yocast.tv/embed.php?live=ss1&vw=600&vh=450 
 
-#EXTINF:0,SKY SPORTS 1 HD
-http://bravboy3.dyndns.tv:8000/live/dannyp/dannyp/735.m3u8
 
-#EXTINF:-1,SKY SPORTS 2 HD rtmp://$OPT:rtmp-raw=rtmp://89.248.169.35/live playpath=sss2 swfUrl=http://www.yocast.tv/myplayer/jwplayer.flash.swf live=1 pageUrl=http://www.yocast.tv/embed.php?live=sss2&vw=600&vh=450 
+#EXTINF:-1,SKY SPORTS 1 HD
+http://proxiiptv.dyndns.tv:8000/live/Nikola.mne/Nikola.mne/419.m3u8
 
-#EXTINF:0,SKY SPORTS 2 HD
-http://bravboy3.dyndns.tv:8000/live/dannyp/dannyp/736.m3u8
+#EXTINF:-1,SKY SPORTS 2 HD
+http://proxiiptv.dyndns.tv:8000/live/Nikola.mne/Nikola.mne/420.m3u8
 
-#EXTINF:-1,SKY SPORTS 3 HD rtmp://$OPT:rtmp-raw=rtmp://80.82.78.165/live playpath=ss3 swfUrl=http://www.yocast.tv/myplayer/jwplayer.flash.swf live=1 pageUrl=http://www.yocast.tv/embed.php?live=ss3&vw=600&vh=450 
+#EXTINF:-1,SKY SPORTS 3 HD
+http://proxiiptv.dyndns.tv:8000/live/Nikola.mne/Nikola.mne/421.m3u8
 
-#EXTINF:0,SKY SPORTS 3 HD
-http://bravboy3.dyndns.tv:8000/live/dannyp/dannyp/737.m3u8
+#EXTINF:-1,SKY SPORTS 4 HD
+http://proxiiptv.dyndns.tv:8000/live/Nikola.mne/Nikola.mne/422.m3u8
 
-#EXTINF:-1,SKY SPORTS 4 HD rtmp://$OPT:rtmp-raw=rtmp://80.82.78.165/live playpath=ss4 swfUrl=http://www.yocast.tv/myplayer/jwplayer.flash.swf live=1 pageUrl=http://www.yocast.tv/embed.php?live=ss4&vw=600&vh=450 
+#EXTINF:-1,SKY SPORTS 5 HD
+http://proxiiptv.dyndns.tv:8000/live/Nikola.mne/Nikola.mne/423.m3u8
 
-#EXTINF:0,SKY SPORTS 4 HD
-http://bravboy3.dyndns.tv:8000/live/dannyp/dannyp/738.m3u8
-
-#EXTINF:-1,SKY SPORTS 5 HD rtmp://$OPT:rtmp-raw=rtmp://89.248.169.50/live playpath=ss5 swfUrl=http://www.yocast.tv/myplayer/jwplayer.flash.swf live=1 pageUrl=http://www.yocast.tv/embed.php?live=ss5&vw=600&vh=450
-
-#EXTINF:0,SKY SPORTS 5 HD
-http://bravboy3.dyndns.tv:8000/live/dannyp/dannyp/739.m3u8
-
-#EXTINF:0,SKY SPORTS F1 HD
-http://bravboy3.dyndns.tv:8000/live/dannyp/dannyp/38.m3u8
+#EXTINF:-1,SKY SPORTS F1 HD
+http://proxiiptv.dyndns.tv:8000/live/Nikola.mne/Nikola.mne/408.m3u8
 
 #EXTINF:0,SKY SPORTS NEWS HQ
 http://bravboy3.dyndns.tv:8000/live/dannyp/dannyp/24.m3u8
@@ -62,6 +54,12 @@ http://bravboy3.dyndns.tv:8000/live/dannyp/dannyp/1341.m3u8
 #EXTINF:0,SETANTA SPORTS
 http://bravboy3.dyndns.tv:8000/live/dannyp/dannyp/46.m3u8
 
+#EXTINF:-1,EUROSPORT
+http://proxiiptv.dyndns.tv:8000/live/Nikola.mne/Nikola.mne/537.m3u8
+
+#EXTINF:-1,EUROSPORT 2
+http://proxiiptv.dyndns.tv:8000/live/Nikola.mne/Nikola.mne/401.m3u8
+
 #EXTINF:0,BEIN USA 1
 http://lihattv.toh.info/jhos/beib1.m3u8
 
@@ -70,6 +68,18 @@ http://lihattv.toh.info/jhos/beib2.m3u8
 
 #EXTINF:0,BEIN USA 3
 http://lihattv.toh.info/jhos/beib3.m3u8
+
+#EXTINF:-1,Lig TV1 HD
+http://proxiiptv.dyndns.tv:8000/live/Nikola.mne/Nikola.mne/490.m3u8
+
+#EXTINF:-1,Lig TV2 HD
+http://proxiiptv.dyndns.tv:8000/live/Nikola.mne/Nikola.mne/491.m3u8
+
+#EXTINF:-1,Lig TV3
+http://proxiiptv.dyndns.tv:8000/live/Nikola.mne/Nikola.mne/526.m3u8
+
+#EXTINF:-1,C+ Liga
+http://proxiiptv.dyndns.tv:8000/live/Nikola.mne/Nikola.mne/411.m3u8
 
 #EXTINF:-1, NBC GOLF SD
 http://tvegolf-i.Akamaihd.net/hls/live/218225/golfx/1896k/prog.m3u8|X-Forwarded-For=209.239.112.104
