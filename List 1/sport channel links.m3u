@@ -18,38 +18,25 @@ http://iptv-volkan.ddns.net:8000/live/noureddine123/barb52/352.m3u8
 
 
 
-#EXTINF:-1,SKY SPORTS 1 HD
-http://proxiiptv.dyndns.tv:8000/live/Nikola.mne/Nikola.mne/419.
-
-#EXTINF:-1, SKY SPORTS 1
+#EXTINF:-1, SKY SPORTS 1 HD
 rtmp://pub.yocast.tv:1935/live/_definst_/ss1
 
-#EXTINF:-1,SKY SPORTS 2 HD
-http://proxiiptv.dyndns.tv:8000/live/Nikola.mne/Nikola.mne/420.m3u8
-
-#EXTINF:-1, SKY SPORT 2
+#EXTINF:-1, SKY SPORT 2 HD
 rtmp://pub.yocast.tv:1935/live/_definst_/sss2
 
-#EXTINF:-1,SKY SPORTS 3 HD
-http://proxiiptv.dyndns.tv:8000/live/Nikola.mne/Nikola.mne/421.m3u8
-
-#EXTINF:-1, SKY SPORT 3
+#EXTINF:-1, SKY SPORT 3 HD
 rtmp://pub.yocast.tv:1935/live/_definst_/sss3
 
-#EXTINF:-1,SKY SPORTS 4 HD
-http://proxiiptv.dyndns.tv:8000/live/Nikola.mne/Nikola.mne/422.m3u8
-
-#EXTINF:-1, SKY SPORT 4
+#EXTINF:-1, SKY SPORT 4 HD
 rtmp://pub.yocast.tv:1935/live/_definst_/sss4
 
-#EXTINF:-1,SKY SPORTS 5 HD
-http://proxiiptv.dyndns.tv:8000/live/Nikola.mne/Nikola.mne/423.
-
-#EXTINF:-1, SKY SPORT 5
+#EXTINF:-1, SKY SPORT 5 HD
 rtmp://pub.yocast.tv:1935/live/_definst_/sss5
 
-#EXTINF:-1,SKY SPORTS F1 HD
-http://proxiiptv.dyndns.tv:8000/live/Nikola.mne/Nikola.mne/408.m3u8
+
+#EXTINF:-1, SKY SPORT F1 HD
+rtmp://pub.yocast.tv:1935/live/_definst_/sssf1
+
 
 #EXTINF:0,SKY SPORTS NEWS HQ
 http://bravboy3.dyndns.tv:8000/live/dannyp/dannyp/24.m3u8
@@ -60,20 +47,25 @@ http://bravboy3.dyndns.tv:8000/live/dannyp/dannyp/33.m3u8
 #EXTINF:0,BT SPORTS 2 HD
 http://bravboy3.dyndns.tv:8000/live/dannyp/dannyp/44.m3u8
 
-#EXTINF:0,BT SPORT ESPN HD
-http://bravboy3.dyndns.tv:8000/live/dannyp/dannyp/317.m3u8
+#EXTINF:-1,BT ESPN HD
+rtmp://pub.yocast.tv:1935/live/_definst_/espnus
 
 #EXTINF:0,BT SPORT ESPN 2 HD
 http://bravboy3.dyndns.tv:8000/live/dannyp/dannyp/1341.m3u8
+
+#EXTINF:-1,BOXNATION
+rtmp://pub.yocast.tv:1935/live/_definst_/box
 
 #EXTINF:0,SETANTA SPORTS
 http://bravboy3.dyndns.tv:8000/live/dannyp/dannyp/46.m3u8
 
 #EXTINF:-1,EUROSPORT
-http://proxiiptv.dyndns.tv:8000/live/Nikola.mne/Nikola.mne/537.m3u8
+rtmp://pub.yocast.tv:1935/live/_definst_/weeuro1
 
 #EXTINF:-1,EUROSPORT 2
-http://proxiiptv.dyndns.tv:8000/live/Nikola.mne/Nikola.mne/401.m3u8
+rtmp://pub.yocast.tv:1935/live/_definst_/euro2
+
+
 
 #EXTINF:0,BEIN USA 1
 http://lihattv.toh.info/jhos/beib1.m3u8
