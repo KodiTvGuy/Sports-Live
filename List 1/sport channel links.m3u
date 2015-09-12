@@ -89,7 +89,7 @@ http://proxiiptv.dyndns.tv:8000/live/Nikola.mne/Nikola.mne/526.m3u8
 http://proxiiptv.dyndns.tv:8000/live/Nikola.mne/Nikola.mne/411.m3u8
 
 #EXTINF:0,FOX SPORTS 1
-http://173.254.236.130:8000/stuardxmbcaddon/znX2YXgQPqFHryjo/225
+http://72.11.148.148:8000/stuardxmbcaddon/znX2YXgQPqFHryjo/225
 
 #EXTINF:-1, NBC GOLF SD
 http://tvegolf-i.Akamaihd.net/hls/live/218225/golfx/1896k/prog.m3u8|X-Forwarded-For=209.239.112.104
