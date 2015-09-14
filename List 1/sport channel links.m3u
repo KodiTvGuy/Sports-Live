@@ -16,128 +16,119 @@
 #EXTINF:0,SKY SPORTS 5
 http://iptv-volkan.ddns.net:8000/live/noureddine123/barb52/352.m3u8
 
-#EXTINF:0,SKY SPORT 1 HD
+#EXTINF:0,SKY SPORTS 1 HD
 http://72.11.148.148:8000/stuardxmbcaddon/znX2YXgQPqFHryjo/220.m3u8
 
 #EXTINF:0,SKY SPORTS 2 HD
 http://72.11.148.148:8000/stuardxmbcaddon/znX2YXgQPqFHryjo/221.m3u8
 
 #EXTINF:0,SKY SPORTS 3 HD
-http://72.11.148.148:8000/stuardxmbcaddon/znX2YXgQPqFHryjo/222
+http://72.11.148.148:8000/stuardxmbcaddon/znX2YXgQPqFHryjo/222.m3u8
 
 #EXTINF:0,SKY SPORTS 4 HD
-http://72.11.148.148:8000/stuardxmbcaddon/znX2YXgQPqFHryjo/223
+http://72.11.148.148:8000/stuardxmbcaddon/znX2YXgQPqFHryjo/223.m3u8
 
 #EXTINF:0,SKY SPORTS 5 HD
-http://72.11.148.148:8000/stuardxmbcaddon/znX2YXgQPqFHryjo/224
+http://72.11.148.148:8000/stuardxmbcaddon/znX2YXgQPqFHryjo/224.m3u8
 
 #EXTINF:0,SKY SPORTS F1 HD
-http://72.11.148.148:8000/stuardxmbcaddon/znX2YXgQPqFHryjo/225
+http://72.11.148.148:8000/stuardxmbcaddon/znX2YXgQPqFHryjo/225.m3u8
 
 #EXTINF:0,SKY SPORTS NEWS
-http://72.11.148.148:8000/stuardxmbcaddon/znX2YXgQPqFHryjo/226
+http://72.11.148.148:8000/stuardxmbcaddon/znX2YXgQPqFHryjo/226.m3u8
 
 #EXTINF:0,BT SPORT 1 HD
-http://72.11.148.148:8000/stuardxmbcaddon/znX2YXgQPqFHryjo/142
+http://72.11.148.148:8000/stuardxmbcaddon/znX2YXgQPqFHryjo/142.m3u8
 
 #EXTINF:0,BT SPORT 2 HD
-http://72.11.148.148:8000/stuardxmbcaddon/znX2YXgQPqFHryjo/143
+http://72.11.148.148:8000/stuardxmbcaddon/znX2YXgQPqFHryjo/143.m3u8
 
 #EXTINF:0,BT SPORT EUROPE
-http://72.11.148.148:8000/stuardxmbcaddon/znX2YXgQPqFHryjo/140
+http://72.11.148.148:8000/stuardxmbcaddon/znX2YXgQPqFHryjo/140.m3u8
 
 #EXTINF:0,BT SPORT ESPN
-http://72.11.148.148:8000/stuardxmbcaddon/znX2YXgQPqFHryjo/141
+http://72.11.148.148:8000/stuardxmbcaddon/znX2YXgQPqFHryjo/141.m3u8
 
 #EXTINF:0,ESPN
-http://72.11.148.148:8000/stuardxmbcaddon/znX2YXgQPqFHryjo/166
+http://72.11.148.148:8000/stuardxmbcaddon/znX2YXgQPqFHryjo/166.m3u8
 
 #EXTINF:0,ESPN USA
-http://72.11.148.148:8000/stuardxmbcaddon/znX2YXgQPqFHryjo/480
+http://72.11.148.148:8000/stuardxmbcaddon/znX2YXgQPqFHryjo/480.m3u8
 
 #EXTINF:0,EUROSPORT 1
-http://72.11.148.148:8000/stuardxmbcaddon/znX2YXgQPqFHryjo/167
+http://72.11.148.148:8000/stuardxmbcaddon/znX2YXgQPqFHryjo/167.m3u8
 
 #EXTINF:0,EUROSPORT 2
-http://72.11.148.148:8000/stuardxmbcaddon/znX2YXgQPqFHryjo/168
+http://72.11.148.148:8000/stuardxmbcaddon/znX2YXgQPqFHryjo/168.m3u8
 
 #EXTINF:0,EUROSPORT NEWS
-http://72.11.148.148:8000/stuardxmbcaddon/znX2YXgQPqFHryjo/169
+http://72.11.148.148:8000/stuardxmbcaddon/znX2YXgQPqFHryjo/169.m3u8
 
 #EXTINF:0,BOXNATION
-http://72.11.148.148:8000/stuardxmbcaddon/znX2YXgQPqFHryjo/137
-
-#EXTINF:0,BT SPORTS 1 HD
-http://5.9.67.251/chn/btsu1bak/v.m3u8
-
-#EXTINF:0,BT SPORTS 2 HD
-http://5.9.86.26/chn/btsu2bak/v.m3u8
-
-#EXTINF:-1,BT ESPN HD
-rtmp://pub.yocast.tv:1935/live/_definst_/espnus
+http://72.11.148.148:8000/stuardxmbcaddon/znX2YXgQPqFHryjo/137.m3u8
 
 #EXTINF:0,FOX SPORTS 1
-http://72.11.148.148:8000/stuardxmbcaddon/znX2YXgQPqFHryjo/482
+http://72.11.148.148:8000/stuardxmbcaddon/znX2YXgQPqFHryjo/482.m3u8
 
 #EXTINF:0,FOX SPORTS 2
-http://72.11.148.148:8000/stuardxmbcaddon/znX2YXgQPqFHryjo/483
+http://72.11.148.148:8000/stuardxmbcaddon/znX2YXgQPqFHryjo/483.m3u8
 
 #EXTINF:0,GOLF CHANNEL
-http://72.11.148.148:8000/stuardxmbcaddon/znX2YXgQPqFHryjo/485
+http://72.11.148.148:8000/stuardxmbcaddon/znX2YXgQPqFHryjo/485.m3u8
 
 #EXTINF:0,NBC GOLF
-http://72.11.148.148:8000/stuardxmbcaddon/znX2YXgQPqFHryjo/490
+http://72.11.148.148:8000/stuardxmbcaddon/znX2YXgQPqFHryjo/490.m3u8
 
 #EXTINF:0,NBCSN
-http://72.11.148.148:8000/stuardxmbcaddon/znX2YXgQPqFHryjo/491
+http://72.11.148.148:8000/stuardxmbcaddon/znX2YXgQPqFHryjo/491.m3u8
 
-#EXTINF:0,USA Network
-http://72.11.148.148:8000/stuardxmbcaddon/znX2YXgQPqFHryjo/492
+#EXTINF:0,USA NETWORK
+http://72.11.148.148:8000/stuardxmbcaddon/znX2YXgQPqFHryjo/492.m3u8
 
 #EXTINF:0,BEIN SPORTS 1
-http://72.11.148.148:8000/stuardxmbcaddon/znX2YXgQPqFHryjo/2
+http://72.11.148.148:8000/stuardxmbcaddon/znX2YXgQPqFHryjo/2.m3u8
 
 #EXTINF:0,BEIN SPORTS 2
-http://72.11.148.148:8000/stuardxmbcaddon/znX2YXgQPqFHryjo/3
+http://72.11.148.148:8000/stuardxmbcaddon/znX2YXgQPqFHryjo/3.m3u8
 
 #EXTINF:0,BEIN SPORTS 3
-http://72.11.148.148:8000/stuardxmbcaddon/znX2YXgQPqFHryjo/4
+http://72.11.148.148:8000/stuardxmbcaddon/znX2YXgQPqFHryjo/4.m3u8
 
 #EXTINF:0,BEIN SPORTS 4
-http://72.11.148.148:8000/stuardxmbcaddon/znX2YXgQPqFHryjo/5
+http://72.11.148.148:8000/stuardxmbcaddon/znX2YXgQPqFHryjo/5.m3u8
 
 #EXTINF:0,BEIN SPORTS 5
-http://72.11.148.148:8000/stuardxmbcaddon/znX2YXgQPqFHryjo/6
+http://72.11.148.148:8000/stuardxmbcaddon/znX2YXgQPqFHryjo/6.m3u8
 
 #EXTINF:0,BEIN SPORTS 6
-http://72.11.148.148:8000/stuardxmbcaddon/znX2YXgQPqFHryjo/7
+http://72.11.148.148:8000/stuardxmbcaddon/znX2YXgQPqFHryjo/7.m3u8
 
 #EXTINF:0,BEIN SPORTS 7
-http://72.11.148.148:8000/stuardxmbcaddon/znX2YXgQPqFHryjo/8
+http://72.11.148.148:8000/stuardxmbcaddon/znX2YXgQPqFHryjo/8.m3u8
 
 #EXTINF:0,BEIN SPORTS 8
-http://72.11.148.148:8000/stuardxmbcaddon/znX2YXgQPqFHryjo/9
+http://72.11.148.148:8000/stuardxmbcaddon/znX2YXgQPqFHryjo/9.m3u8
 
 #EXTINF:0,BEIN SPORTS 9
-http://72.11.148.148:8000/stuardxmbcaddon/znX2YXgQPqFHryjo/10
+http://72.11.148.148:8000/stuardxmbcaddon/znX2YXgQPqFHryjo/10.m3u8
 
 #EXTINF:0,BEIN SPORTS 10
-http://72.11.148.148:8000/stuardxmbcaddon/znX2YXgQPqFHryjo/11
+http://72.11.148.148:8000/stuardxmbcaddon/znX2YXgQPqFHryjo/11.m3u8
 
 #EXTINF:0,BEIN SPORTS 11
-http://72.11.148.148:8000/stuardxmbcaddon/znX2YXgQPqFHryjo/12
+http://72.11.148.148:8000/stuardxmbcaddon/znX2YXgQPqFHryjo/12.m3u8
 
 #EXTINF:0,BEIN SPORTS 12
-http://72.11.148.148:8000/stuardxmbcaddon/znX2YXgQPqFHryjo/13
+http://72.11.148.148:8000/stuardxmbcaddon/znX2YXgQPqFHryjo/13.m3u8
 
 #EXTINF:0,BEIN SPORTS 13
-http://72.11.148.148:8000/stuardxmbcaddon/znX2YXgQPqFHryjo/14
+http://72.11.148.148:8000/stuardxmbcaddon/znX2YXgQPqFHryjo/14.m3u8
 
 #EXTINF:0,BEIN SPORTS 14
-http://72.11.148.148:8000/stuardxmbcaddon/znX2YXgQPqFHryjo/15
+http://72.11.148.148:8000/stuardxmbcaddon/znX2YXgQPqFHryjo/15.m3u8
 
 #EXTINF:0,BEIN SPORTS 15
-http://72.11.148.148:8000/stuardxmbcaddon/znX2YXgQPqFHryjo/16
+http://72.11.148.148:8000/stuardxmbcaddon/znX2YXgQPqFHryjo/16.m3u8
 
 #EXTINF:0,BEIN USA 1
 http://lihattv.toh.info/jhos/beib1.m3u8
@@ -149,124 +140,124 @@ http://lihattv.toh.info/jhos/beib2.m3u8
 http://lihattv.toh.info/jhos/beib3.m3u8
 
 #EXTINF:0, CHELSEA FC
-http://72.11.148.148:8000/stuardxmbcaddon/znX2YXgQPqFHryjo/149
+http://72.11.148.148:8000/stuardxmbcaddon/znX2YXgQPqFHryjo/149.m3u8
 
 #EXTINF:0, LIVERPOOL FC
-http://72.11.148.148:8000/stuardxmbcaddon/znX2YXgQPqFHryjo/180
+http://72.11.148.148:8000/stuardxmbcaddon/znX2YXgQPqFHryjo/180.m3u8
 
 #EXTINF:0, MANCHESTER UNITED FC
-http://72.11.148.148:8000/stuardxmbcaddon/znX2YXgQPqFHryjo/182
+http://72.11.148.148:8000/stuardxmbcaddon/znX2YXgQPqFHryjo/182.m3u8
 
 #EXTINF:0, RACING 
-http://72.11.148.148:8000/stuardxmbcaddon/znX2YXgQPqFHryjo/193
+http://72.11.148.148:8000/stuardxmbcaddon/znX2YXgQPqFHryjo/193.m3u8
 
 #EXTINF:0, SETANTA SPORTS
-http://72.11.148.148:8000/stuardxmbcaddon/znX2YXgQPqFHryjo/197
+http://72.11.148.148:8000/stuardxmbcaddon/znX2YXgQPqFHryjo/197.m3u8
 
-#EXTINF:0, PREMIERE SPORTS
-http://72.11.148.148:8000/stuardxmbcaddon/znX2YXgQPqFHryjo/213
+#EXTINF:0, PREMIER SPORTS
+http://72.11.148.148:8000/stuardxmbcaddon/znX2YXgQPqFHryjo/213.m3u8
 
 #EXTINF:0,ARENA SPORT 1
-http://72.11.148.148:8000/stuardxmbcaddon/znX2YXgQPqFHryjo/245
+http://72.11.148.148:8000/stuardxmbcaddon/znX2YXgQPqFHryjo/245.m3u8
 
 #EXTINF:0,ARENA SPORT 2
-http://72.11.148.148:8000/stuardxmbcaddon/znX2YXgQPqFHryjo/246
+http://72.11.148.148:8000/stuardxmbcaddon/znX2YXgQPqFHryjo/246.m3u8
 
 #EXTINF:0,ARENA SPORT 3
-http://72.11.148.148:8000/stuardxmbcaddon/znX2YXgQPqFHryjo/247
+http://72.11.148.148:8000/stuardxmbcaddon/znX2YXgQPqFHryjo/247.m3u8
 
 #EXTINF:0,ARENA SPORT 4
-http://72.11.148.148:8000/stuardxmbcaddon/znX2YXgQPqFHryjo/248
+http://72.11.148.148:8000/stuardxmbcaddon/znX2YXgQPqFHryjo/248.m3u8
 
 #EXTINF:0,ARENA SPORT 5
-http://72.11.148.148:8000/stuardxmbcaddon/znX2YXgQPqFHryjo/249
+http://72.11.148.148:8000/stuardxmbcaddon/znX2YXgQPqFHryjo/249.m3u8
 
 #EXTINF:0,ASTRO SUPERSPORT 1 HD
-http://72.11.148.148:8000/stuardxmbcaddon/znX2YXgQPqFHryjo/259
+http://72.11.148.148:8000/stuardxmbcaddon/znX2YXgQPqFHryjo/259.m3u8
 
 #EXTINF:0,ASTRO SUPERSPORT 2 HD
-http://72.11.148.148:8000/stuardxmbcaddon/znX2YXgQPqFHryjo/260
+http://72.11.148.148:8000/stuardxmbcaddon/znX2YXgQPqFHryjo/260.m3u8
 
 #EXTINF:0,ASTRO SUPERSPORT 3 HD
-http://72.11.148.148:8000/stuardxmbcaddon/znX2YXgQPqFHryjo/261
+http://72.11.148.148:8000/stuardxmbcaddon/znX2YXgQPqFHryjo/261.m3u8
 
 #EXTINF:0,ASTRO SUPERSPORT 4 HD
-http://72.11.148.148:8000/stuardxmbcaddon/znX2YXgQPqFHryjo/262
+http://72.11.148.148:8000/stuardxmbcaddon/znX2YXgQPqFHryjo/262.m3u8
 
 #EXTINF:0,CTH STADIUM 1
-http://72.11.148.148:8000/stuardxmbcaddon/znX2YXgQPqFHryjo/263
+http://72.11.148.148:8000/stuardxmbcaddon/znX2YXgQPqFHryjo/263.m3u8
 
 #EXTINF:0,CTH STADIUM 2
-http://72.11.148.148:8000/stuardxmbcaddon/znX2YXgQPqFHryjo/264
+http://72.11.148.148:8000/stuardxmbcaddon/znX2YXgQPqFHryjo/264.m3u8
 
 #EXTINF:0,CTH STADIUM 3
-http://72.11.148.148:8000/stuardxmbcaddon/znX2YXgQPqFHryjo/265
+http://72.11.148.148:8000/stuardxmbcaddon/znX2YXgQPqFHryjo/265.m3u8
 
 #EXTINF:0,CTH STADIUM 4
-http://72.11.148.148:8000/stuardxmbcaddon/znX2YXgQPqFHryjo/266
+http://72.11.148.148:8000/stuardxmbcaddon/znX2YXgQPqFHryjo/266.m3u8
 
 #EXTINF:0,CTH STADIUM 5
-http://72.11.148.148:8000/stuardxmbcaddon/znX2YXgQPqFHryjo/267
+http://72.11.148.148:8000/stuardxmbcaddon/znX2YXgQPqFHryjo/267.m3u8
 
 #EXTINF:0,LIG TV1
-http://72.11.148.148:8000/stuardxmbcaddon/znX2YXgQPqFHryjo/272
+http://72.11.148.148:8000/stuardxmbcaddon/znX2YXgQPqFHryjo/272.m3u8
 
 #EXTINF:0,LIG TV2
-http://72.11.148.148:8000/stuardxmbcaddon/znX2YXgQPqFHryjo/273
+http://72.11.148.148:8000/stuardxmbcaddon/znX2YXgQPqFHryjo/273.m3u8
 
 #EXTINF:0,LIG TV3
-http://72.11.148.148:8000/stuardxmbcaddon/znX2YXgQPqFHryjo/274
+http://72.11.148.148:8000/stuardxmbcaddon/znX2YXgQPqFHryjo/274.m3u8
 
 #EXTINF:0,SPORTS BIG TEN
-http://72.11.148.148:8000/stuardxmbcaddon/znX2YXgQPqFHryjo/275
+http://72.11.148.148:8000/stuardxmbcaddon/znX2YXgQPqFHryjo/275.m3u8
 
 #EXTINF:0,DIGI SPORT 1
-http://72.11.148.148:8000/stuardxmbcaddon/znX2YXgQPqFHryjo/276
+http://72.11.148.148:8000/stuardxmbcaddon/znX2YXgQPqFHryjo/276.m3u8
 
 #EXTINF:0,DIGI SPORT 2
-http://72.11.148.148:8000/stuardxmbcaddon/znX2YXgQPqFHryjo/277
+http://72.11.148.148:8000/stuardxmbcaddon/znX2YXgQPqFHryjo/277.m3u8
 
 #EXTINF:0,DIGI SPORT 3
-http://72.11.148.148:8000/stuardxmbcaddon/znX2YXgQPqFHryjo/278
+http://72.11.148.148:8000/stuardxmbcaddon/znX2YXgQPqFHryjo/278.m3u8
 
-#EXTINF:0,SPORTS NBA TV
-http://72.11.148.148:8000/stuardxmbcaddon/znX2YXgQPqFHryjo/279
+#EXTINF:0,NBA TV
+http://72.11.148.148:8000/stuardxmbcaddon/znX2YXgQPqFHryjo/279.m3u8
 
 #EXTINF:0,VIASAT SPORTS
-http://72.11.148.148:8000/stuardxmbcaddon/znX2YXgQPqFHryjo/294
+http://72.11.148.148:8000/stuardxmbcaddon/znX2YXgQPqFHryjo/294.m3u8
 
 #EXTINF:0,VIASAT FOOTBALL
-http://72.11.148.148:8000/stuardxmbcaddon/znX2YXgQPqFHryjo/295
+http://72.11.148.148:8000/stuardxmbcaddon/znX2YXgQPqFHryjo/295.m3u8
 
 #EXTINF:0,SUPERSPORT NEWS
-http://72.11.148.148:8000/stuardxmbcaddon/znX2YXgQPqFHryjo/296
+http://72.11.148.148:8000/stuardxmbcaddon/znX2YXgQPqFHryjo/296.m3u8
 
 #EXTINF:0,HUNTING AND FISHING
-http://72.11.148.148:8000/stuardxmbcaddon/znX2YXgQPqFHryjo/297
+http://72.11.148.148:8000/stuardxmbcaddon/znX2YXgQPqFHryjo/297.m3u8
 
 #EXTINF:0,SILK SPORT 1
-http://72.11.148.148:8000/stuardxmbcaddon/znX2YXgQPqFHryjo/298
+http://72.11.148.148:8000/stuardxmbcaddon/znX2YXgQPqFHryjo/298.m3u8
 
 #EXTINF:0,SILK SPORT 2
-http://72.11.148.148:8000/stuardxmbcaddon/znX2YXgQPqFHryjo/299
+http://72.11.148.148:8000/stuardxmbcaddon/znX2YXgQPqFHryjo/299.m3u8
 
 #EXTINF:0,SILK SPORT 3
-http://72.11.148.148:8000/stuardxmbcaddon/znX2YXgQPqFHryjo/300
+http://72.11.148.148:8000/stuardxmbcaddon/znX2YXgQPqFHryjo/300.m3u8
 
 #EXTINF:0,TSN 1
-http://72.11.148.148:8000/stuardxmbcaddon/znX2YXgQPqFHryjo/499
+http://72.11.148.148:8000/stuardxmbcaddon/znX2YXgQPqFHryjo/499.m3u8
 
 #EXTINF:0,TSN 2
-http://72.11.148.148:8000/stuardxmbcaddon/znX2YXgQPqFHryjo/500
+http://72.11.148.148:8000/stuardxmbcaddon/znX2YXgQPqFHryjo/500.m3u8
 
 #EXTINF:0,TSN 3
-http://72.11.148.148:8000/stuardxmbcaddon/znX2YXgQPqFHryjo/501
+http://72.11.148.148:8000/stuardxmbcaddon/znX2YXgQPqFHryjo/501.m3u8
 
 #EXTINF:0,TSN 4
-http://72.11.148.148:8000/stuardxmbcaddon/znX2YXgQPqFHryjo/502
+http://72.11.148.148:8000/stuardxmbcaddon/znX2YXgQPqFHryjo/502.m3u8
 
 #EXTINF:0,TSN 5
-http://72.11.148.148:8000/stuardxmbcaddon/znX2YXgQPqFHryjo/503
+http://72.11.148.148:8000/stuardxmbcaddon/znX2YXgQPqFHryjo/503.m3u8
 
 
 
