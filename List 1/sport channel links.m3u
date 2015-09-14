@@ -22,7 +22,6 @@ http://72.11.148.148:8000/stuardxmbcaddon/znX2YXgQPqFHryjo/220
 #EXTINF:0,UK SKY SPORTS 2 HD
 http://72.11.148.148:8000/stuardxmbcaddon/znX2YXgQPqFHryjo/221
 
-<<<<<<< HEAD
 #EXTINF:0,UK SKY SPORTS 3 HD
 http://72.11.148.148:8000/stuardxmbcaddon/znX2YXgQPqFHryjo/222
 
@@ -55,32 +54,10 @@ http://72.11.148.148:8000/stuardxmbcaddon/znX2YXgQPqFHryjo/166
 
 #EXTINF:0,ESPN USA
 http://72.11.148.148:8000/stuardxmbcaddon/znX2YXgQPqFHryjo/480
-=======
-#EXTINF:-1, SKY SPORTS 1 HD
-rtmp://pub.yocast.tv:1935/live/_definst_/ss1
-
-#EXTINF:-1, SKY SPORT 2 HD
-rtmp://pub.yocast.tv:1935/live/_definst_/sss2
-
-#EXTINF:-1, SKY SPORT 3 HD
-rtmp://pub.yocast.tv:1935/live/_definst_/sss3
-
-#EXTINF:-1, SKY SPORT 4 HD
-rtmp://pub.yocast.tv:1935/live/_definst_/sss4
-
-#EXTINF:-1, SKY SPORT 5 HD
-rtmp://pub.yocast.tv:1935/live/_definst_/sss5
-
-
-#EXTINF:-1, SKY SPORT F1 HD
-rtmp://pub.yocast.tv:1935/live/_definst_/sssf1
-
->>>>>>> origin/master
 
 #EXTINF:0,UK EUROSPORT 1
 http://72.11.148.148:8000/stuardxmbcaddon/znX2YXgQPqFHryjo/167
 
-<<<<<<< HEAD
 #EXTINF:0,UK EUROSPORT 2
 http://72.11.148.148:8000/stuardxmbcaddon/znX2YXgQPqFHryjo/168
 
@@ -89,7 +66,7 @@ http://72.11.148.148:8000/stuardxmbcaddon/znX2YXgQPqFHryjo/169
 
 #EXTINF:0,BOXNATION
 http://72.11.148.148:8000/stuardxmbcaddon/znX2YXgQPqFHryjo/137
-=======
+
 #EXTINF:0,BT SPORTS 1 HD
 http://5.9.67.251/chn/btsu1bak/v.m3u8
 
@@ -98,7 +75,6 @@ http://5.9.86.26/chn/btsu2bak/v.m3u8
 
 #EXTINF:-1,BT ESPN HD
 rtmp://pub.yocast.tv:1935/live/_definst_/espnus
->>>>>>> origin/master
 
 #EXTINF:0,FOX SPORTS 1
 http://72.11.148.148:8000/stuardxmbcaddon/znX2YXgQPqFHryjo/482
@@ -139,7 +115,6 @@ http://72.11.148.148:8000/stuardxmbcaddon/znX2YXgQPqFHryjo/7
 #EXTINF:0,BEIN SPORTS 7
 http://72.11.148.148:8000/stuardxmbcaddon/znX2YXgQPqFHryjo/8
 
-<<<<<<< HEAD
 #EXTINF:0,BEIN SPORTS 8
 http://72.11.148.148:8000/stuardxmbcaddon/znX2YXgQPqFHryjo/9
 
@@ -163,21 +138,6 @@ http://72.11.148.148:8000/stuardxmbcaddon/znX2YXgQPqFHryjo/15
 
 #EXTINF:0,BEIN SPORTS 15
 http://72.11.148.148:8000/stuardxmbcaddon/znX2YXgQPqFHryjo/16
-=======
-#EXTINF:-1,BOXNATION
-rtmp://pub.yocast.tv:1935/live/_definst_/box
-
-#EXTINF:0,SETANTA SPORTS
-http://bravboy3.dyndns.tv:8000/live/dannyp/dannyp/46.m3u8
-
-#EXTINF:-1,EUROSPORT
-rtmp://pub.yocast.tv:1935/live/_definst_/weeuro1
-
-#EXTINF:-1,EUROSPORT 2
-rtmp://pub.yocast.tv:1935/live/_definst_/euro2
-
-
->>>>>>> origin/master
 
 #EXTINF:0,BEIN USA 1
 http://lihattv.toh.info/jhos/beib1.m3u8
@@ -200,7 +160,6 @@ http://72.11.148.148:8000/stuardxmbcaddon/znX2YXgQPqFHryjo/182
 #EXTINF:0,UK RACING UK
 http://72.11.148.148:8000/stuardxmbcaddon/znX2YXgQPqFHryjo/193
 
-<<<<<<< HEAD
 #EXTINF:0,UK SETANTA SPORTS
 http://72.11.148.148:8000/stuardxmbcaddon/znX2YXgQPqFHryjo/197
 
@@ -302,10 +261,6 @@ http://72.11.148.148:8000/stuardxmbcaddon/znX2YXgQPqFHryjo/500
 
 #EXTINF:0,TSN 3
 http://72.11.148.148:8000/stuardxmbcaddon/znX2YXgQPqFHryjo/501
-=======
-#EXTINF:0,FOX SPORTS 1
-http://72.11.148.148:8000/stuardxmbcaddon/znX2YXgQPqFHryjo/225
->>>>>>> origin/master
 
 #EXTINF:0,TSN 4
 http://72.11.148.148:8000/stuardxmbcaddon/znX2YXgQPqFHryjo/502
