@@ -16,64 +16,119 @@
 #EXTINF:0,SKY SPORTS 5
 http://iptv-volkan.ddns.net:8000/live/noureddine123/barb52/352.m3u8
 
+#EXTINF:0,UK SKY SPORTS 1 HD
+http://72.11.148.148:8000/stuardxmbcaddon/znX2YXgQPqFHryjo/220
 
+#EXTINF:0,UK SKY SPORTS 2 HD
+http://72.11.148.148:8000/stuardxmbcaddon/znX2YXgQPqFHryjo/221
 
-#EXTINF:-1,SKY SPORTS 1 HD
-http://proxiiptv.dyndns.tv:8000/live/Nikola.mne/Nikola.mne/419.
+#EXTINF:0,UK SKY SPORTS 3 HD
+http://72.11.148.148:8000/stuardxmbcaddon/znX2YXgQPqFHryjo/222
 
-#EXTINF:-1, SKY SPORTS 1
-rtmp://pub.yocast.tv:1935/live/_definst_/ss1
+#EXTINF:0,UK SKY SPORTS 4 HD
+http://72.11.148.148:8000/stuardxmbcaddon/znX2YXgQPqFHryjo/223
 
-#EXTINF:-1,SKY SPORTS 2 HD
-http://proxiiptv.dyndns.tv:8000/live/Nikola.mne/Nikola.mne/420.m3u8
+#EXTINF:0,UK SKY SPORTS 5 HD
+http://72.11.148.148:8000/stuardxmbcaddon/znX2YXgQPqFHryjo/224
 
-#EXTINF:-1, SKY SPORT 2
-rtmp://pub.yocast.tv:1935/live/_definst_/sss2
+#EXTINF:0,UK SKY SPORTS F1 HD
+http://72.11.148.148:8000/stuardxmbcaddon/znX2YXgQPqFHryjo/225
 
-#EXTINF:-1,SKY SPORTS 3 HD
-http://proxiiptv.dyndns.tv:8000/live/Nikola.mne/Nikola.mne/421.m3u8
+#EXTINF:0,UK SKY SPORTS NEWS
+http://72.11.148.148:8000/stuardxmbcaddon/znX2YXgQPqFHryjo/226
 
-#EXTINF:-1, SKY SPORT 3
-rtmp://pub.yocast.tv:1935/live/_definst_/sss3
+#EXTINF:0,UK BT SPORT 1 HD
+http://72.11.148.148:8000/stuardxmbcaddon/znX2YXgQPqFHryjo/142
 
-#EXTINF:-1,SKY SPORTS 4 HD
-http://proxiiptv.dyndns.tv:8000/live/Nikola.mne/Nikola.mne/422.m3u8
+#EXTINF:0,UK BT SPORT 2 HD
+http://72.11.148.148:8000/stuardxmbcaddon/znX2YXgQPqFHryjo/143
 
-#EXTINF:-1, SKY SPORT 4
-rtmp://pub.yocast.tv:1935/live/_definst_/sss4
+#EXTINF:0,UK BT SPORT EUROPE
+http://72.11.148.148:8000/stuardxmbcaddon/znX2YXgQPqFHryjo/140
 
-#EXTINF:-1,SKY SPORTS 5 HD
-http://proxiiptv.dyndns.tv:8000/live/Nikola.mne/Nikola.mne/423.
+#EXTINF:0,UK BT SPORT ESPN
+http://72.11.148.148:8000/stuardxmbcaddon/znX2YXgQPqFHryjo/141
 
-#EXTINF:-1, SKY SPORT 5
-rtmp://pub.yocast.tv:1935/live/_definst_/sss5
+#EXTINF:0,UK ESPN
+http://72.11.148.148:8000/stuardxmbcaddon/znX2YXgQPqFHryjo/166
 
-#EXTINF:-1,SKY SPORTS F1 HD
-http://proxiiptv.dyndns.tv:8000/live/Nikola.mne/Nikola.mne/408.m3u8
+#EXTINF:0,ESPN USA
+http://72.11.148.148:8000/stuardxmbcaddon/znX2YXgQPqFHryjo/480
 
-#EXTINF:0,SKY SPORTS NEWS HQ
-http://bravboy3.dyndns.tv:8000/live/dannyp/dannyp/24.m3u8
+#EXTINF:0,UK EUROSPORT 1
+http://72.11.148.148:8000/stuardxmbcaddon/znX2YXgQPqFHryjo/167
 
-#EXTINF:0,BT SPORTS 1 HD
-http://bravboy3.dyndns.tv:8000/live/dannyp/dannyp/33.m3u8
+#EXTINF:0,UK EUROSPORT 2
+http://72.11.148.148:8000/stuardxmbcaddon/znX2YXgQPqFHryjo/168
 
-#EXTINF:0,BT SPORTS 2 HD
-http://bravboy3.dyndns.tv:8000/live/dannyp/dannyp/44.m3u8
+#EXTINF:0,UK EUROSPORT NEWS
+http://72.11.148.148:8000/stuardxmbcaddon/znX2YXgQPqFHryjo/169
 
-#EXTINF:0,BT SPORT ESPN HD
-http://bravboy3.dyndns.tv:8000/live/dannyp/dannyp/317.m3u8
+#EXTINF:0,BOXNATION
+http://72.11.148.148:8000/stuardxmbcaddon/znX2YXgQPqFHryjo/137
 
-#EXTINF:0,BT SPORT ESPN 2 HD
-http://bravboy3.dyndns.tv:8000/live/dannyp/dannyp/1341.m3u8
+#EXTINF:0,FOX SPORTS 1
+http://72.11.148.148:8000/stuardxmbcaddon/znX2YXgQPqFHryjo/482
 
-#EXTINF:0,SETANTA SPORTS
-http://bravboy3.dyndns.tv:8000/live/dannyp/dannyp/46.m3u8
+#EXTINF:0,FOX SPORTS 2
+http://72.11.148.148:8000/stuardxmbcaddon/znX2YXgQPqFHryjo/483
 
-#EXTINF:-1,EUROSPORT
-http://proxiiptv.dyndns.tv:8000/live/Nikola.mne/Nikola.mne/537.m3u8
+#EXTINF:0,GOLF CHANNEL
+http://72.11.148.148:8000/stuardxmbcaddon/znX2YXgQPqFHryjo/485
 
-#EXTINF:-1,EUROSPORT 2
-http://proxiiptv.dyndns.tv:8000/live/Nikola.mne/Nikola.mne/401.m3u8
+#EXTINF:0,NBC Golf
+http://72.11.148.148:8000/stuardxmbcaddon/znX2YXgQPqFHryjo/490
+
+#EXTINF:0,NBCSN
+http://72.11.148.148:8000/stuardxmbcaddon/znX2YXgQPqFHryjo/491
+
+#EXTINF:0,USA Network
+http://72.11.148.148:8000/stuardxmbcaddon/znX2YXgQPqFHryjo/492
+
+#EXTINF:0,BEIN SPORTS 1
+http://72.11.148.148:8000/stuardxmbcaddon/znX2YXgQPqFHryjo/2
+
+#EXTINF:0,BEIN SPORTS 2
+http://72.11.148.148:8000/stuardxmbcaddon/znX2YXgQPqFHryjo/3
+
+#EXTINF:0,BEIN SPORTS 3
+http://72.11.148.148:8000/stuardxmbcaddon/znX2YXgQPqFHryjo/4
+
+#EXTINF:0,BEIN SPORTS 4
+http://72.11.148.148:8000/stuardxmbcaddon/znX2YXgQPqFHryjo/5
+
+#EXTINF:0,BEIN SPORTS 5
+http://72.11.148.148:8000/stuardxmbcaddon/znX2YXgQPqFHryjo/6
+
+#EXTINF:0,BEIN SPORTS 6
+http://72.11.148.148:8000/stuardxmbcaddon/znX2YXgQPqFHryjo/7
+
+#EXTINF:0,BEIN SPORTS 7
+http://72.11.148.148:8000/stuardxmbcaddon/znX2YXgQPqFHryjo/8
+
+#EXTINF:0,BEIN SPORTS 8
+http://72.11.148.148:8000/stuardxmbcaddon/znX2YXgQPqFHryjo/9
+
+#EXTINF:0,BEIN SPORTS 9
+http://72.11.148.148:8000/stuardxmbcaddon/znX2YXgQPqFHryjo/10
+
+#EXTINF:0,BEIN SPORTS 10
+http://72.11.148.148:8000/stuardxmbcaddon/znX2YXgQPqFHryjo/11
+
+#EXTINF:0,BEIN SPORTS 11
+http://72.11.148.148:8000/stuardxmbcaddon/znX2YXgQPqFHryjo/12
+
+#EXTINF:0,BEIN SPORTS 12
+http://72.11.148.148:8000/stuardxmbcaddon/znX2YXgQPqFHryjo/13
+
+#EXTINF:0,BEIN SPORTS 13
+http://72.11.148.148:8000/stuardxmbcaddon/znX2YXgQPqFHryjo/14
+
+#EXTINF:0,BEIN SPORTS 14
+http://72.11.148.148:8000/stuardxmbcaddon/znX2YXgQPqFHryjo/15
+
+#EXTINF:0,BEIN SPORTS 15
+http://72.11.148.148:8000/stuardxmbcaddon/znX2YXgQPqFHryjo/16
 
 #EXTINF:0,BEIN USA 1
 http://lihattv.toh.info/jhos/beib1.m3u8
@@ -84,32 +139,127 @@ http://lihattv.toh.info/jhos/beib2.m3u8
 #EXTINF:0,BEIN USA 3
 http://lihattv.toh.info/jhos/beib3.m3u8
 
-#EXTINF:-1,Lig TV1 HD
-http://proxiiptv.dyndns.tv:8000/live/Nikola.mne/Nikola.mne/490.m3u8
+#EXTINF:0,UK CHELSEA FC
+http://72.11.148.148:8000/stuardxmbcaddon/znX2YXgQPqFHryjo/149
 
-#EXTINF:-1,Lig TV2 HD
-http://proxiiptv.dyndns.tv:8000/live/Nikola.mne/Nikola.mne/491.m3u8
+#EXTINF:0,UK LIVERPOOL FC
+http://72.11.148.148:8000/stuardxmbcaddon/znX2YXgQPqFHryjo/180
 
-#EXTINF:-1,Lig TV3
-http://proxiiptv.dyndns.tv:8000/live/Nikola.mne/Nikola.mne/526.m3u8
+#EXTINF:0,UK MANCHESTER UNITED FC
+http://72.11.148.148:8000/stuardxmbcaddon/znX2YXgQPqFHryjo/182
 
-#EXTINF:-1,C+ Liga
-http://proxiiptv.dyndns.tv:8000/live/Nikola.mne/Nikola.mne/411.m3u8
+#EXTINF:0,UK RACING UK
+http://72.11.148.148:8000/stuardxmbcaddon/znX2YXgQPqFHryjo/193
 
-#EXTINF:0,FOX SPORTS 1
-http://173.254.236.130:8000/stuardxmbcaddon/znX2YXgQPqFHryjo/225
+#EXTINF:0,UK SETANTA SPORTS
+http://72.11.148.148:8000/stuardxmbcaddon/znX2YXgQPqFHryjo/197
 
-#EXTINF:-1, NBC GOLF SD
-http://tvegolf-i.Akamaihd.net/hls/live/218225/golfx/1896k/prog.m3u8|X-Forwarded-For=209.239.112.104
+#EXTINF:0,UK PREMIERE SPORTS
+http://72.11.148.148:8000/stuardxmbcaddon/znX2YXgQPqFHryjo/213
 
-#EXTINF:-1, NBC GOLF 720p
-http://tvegolf-i.Akamaihd.net/hls/live/218225/golfx/2596k/prog.m3u8|X-Forwarded-For=209.239.112.104
+#EXTINF:0,ARENA SPORT 1
+http://72.11.148.148:8000/stuardxmbcaddon/znX2YXgQPqFHryjo/245
 
-#EXTINF:-1, NBC GOLF 1080p
-http://tvegolf-i.Akamaihd.net/hls/live/218225/golfx/4296k/prog.m3u8|X-Forwarded-For=209.239.112.104
+#EXTINF:0,ARENA SPORT 2
+http://72.11.148.148:8000/stuardxmbcaddon/znX2YXgQPqFHryjo/246
 
-#EXTINF:-1,NBC Sports Network 1080P
-http://tvenbcsn-i.Akamaihd.net/hls/live/218235/nbcsnx/4296k/prog.m3u8|X-Forwarded-For=209.239.112.104
+#EXTINF:0,ARENA SPORT 3
+http://72.11.148.148:8000/stuardxmbcaddon/znX2YXgQPqFHryjo/247
+
+#EXTINF:0,ARENA SPORT 4
+http://72.11.148.148:8000/stuardxmbcaddon/znX2YXgQPqFHryjo/248
+
+#EXTINF:0,ARENA SPORT 5
+http://72.11.148.148:8000/stuardxmbcaddon/znX2YXgQPqFHryjo/249
+
+#EXTINF:0,ASTRO SUPERSPORT 1 HD
+http://72.11.148.148:8000/stuardxmbcaddon/znX2YXgQPqFHryjo/259
+
+#EXTINF:0,ASTRO SUPERSPORT 2 HD
+http://72.11.148.148:8000/stuardxmbcaddon/znX2YXgQPqFHryjo/260
+
+#EXTINF:0,ASTRO SUPERSPORT 3 HD
+http://72.11.148.148:8000/stuardxmbcaddon/znX2YXgQPqFHryjo/261
+
+#EXTINF:0,ASTRO SUPERSPORT 4 HD
+http://72.11.148.148:8000/stuardxmbcaddon/znX2YXgQPqFHryjo/262
+
+#EXTINF:0,CTH STADIUM 1
+http://72.11.148.148:8000/stuardxmbcaddon/znX2YXgQPqFHryjo/263
+
+#EXTINF:0,CTH STADIUM 2
+http://72.11.148.148:8000/stuardxmbcaddon/znX2YXgQPqFHryjo/264
+
+#EXTINF:0,CTH STADIUM 3
+http://72.11.148.148:8000/stuardxmbcaddon/znX2YXgQPqFHryjo/265
+
+#EXTINF:0,CTH STADIUM 4
+http://72.11.148.148:8000/stuardxmbcaddon/znX2YXgQPqFHryjo/266
+
+#EXTINF:0,CTH STADIUM 5
+http://72.11.148.148:8000/stuardxmbcaddon/znX2YXgQPqFHryjo/267
+
+#EXTINF:0,LIG TV1
+http://72.11.148.148:8000/stuardxmbcaddon/znX2YXgQPqFHryjo/272
+
+#EXTINF:0,LIG TV2
+http://72.11.148.148:8000/stuardxmbcaddon/znX2YXgQPqFHryjo/273
+
+#EXTINF:0,LIG TV3
+http://72.11.148.148:8000/stuardxmbcaddon/znX2YXgQPqFHryjo/274
+
+#EXTINF:0,SPORTS BIG TEN
+http://72.11.148.148:8000/stuardxmbcaddon/znX2YXgQPqFHryjo/275
+
+#EXTINF:0,DIGI SPORT 1
+http://72.11.148.148:8000/stuardxmbcaddon/znX2YXgQPqFHryjo/276
+
+#EXTINF:0,DIGI SPORT 2
+http://72.11.148.148:8000/stuardxmbcaddon/znX2YXgQPqFHryjo/277
+
+#EXTINF:0,DIGI SPORT 3
+http://72.11.148.148:8000/stuardxmbcaddon/znX2YXgQPqFHryjo/278
+
+#EXTINF:0,SPORTS NBA TV
+http://72.11.148.148:8000/stuardxmbcaddon/znX2YXgQPqFHryjo/279
+
+#EXTINF:0,VIASAT SPORTS
+http://72.11.148.148:8000/stuardxmbcaddon/znX2YXgQPqFHryjo/294
+
+#EXTINF:0,VIASAT FOOTBALL
+http://72.11.148.148:8000/stuardxmbcaddon/znX2YXgQPqFHryjo/295
+
+#EXTINF:0,SUPERSPORT NEWS
+http://72.11.148.148:8000/stuardxmbcaddon/znX2YXgQPqFHryjo/296
+
+#EXTINF:0,HUNTING AND FISHING
+http://72.11.148.148:8000/stuardxmbcaddon/znX2YXgQPqFHryjo/297
+
+#EXTINF:0,SILK SPORT 1
+http://72.11.148.148:8000/stuardxmbcaddon/znX2YXgQPqFHryjo/298
+
+#EXTINF:0,SILK SPORT 2
+http://72.11.148.148:8000/stuardxmbcaddon/znX2YXgQPqFHryjo/299
+
+#EXTINF:0,SILK SPORT 3
+http://72.11.148.148:8000/stuardxmbcaddon/znX2YXgQPqFHryjo/300
+
+#EXTINF:0,TSN 1
+http://72.11.148.148:8000/stuardxmbcaddon/znX2YXgQPqFHryjo/499
+
+#EXTINF:0,TSN 2
+http://72.11.148.148:8000/stuardxmbcaddon/znX2YXgQPqFHryjo/500
+
+#EXTINF:0,TSN 3
+http://72.11.148.148:8000/stuardxmbcaddon/znX2YXgQPqFHryjo/501
+
+#EXTINF:0,TSN 4
+http://72.11.148.148:8000/stuardxmbcaddon/znX2YXgQPqFHryjo/502
+
+#EXTINF:0,TSN 5
+http://72.11.148.148:8000/stuardxmbcaddon/znX2YXgQPqFHryjo/503
+
+
 
 
 
