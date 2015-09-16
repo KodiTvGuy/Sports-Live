@@ -14,6 +14,9 @@ plugin://program.plexus/?url=acestream://7dcf3c8daaad0efbef55af2d74d52a5f8f65783
 #EXTINF:-1,[COLOR lime]SKY SPORTS 1 LINK 2[/COLOR]
 plugin://program.plexus/?url=acestream://3dec27f191922f42f6ff91a0f1641d15cba80d5e&mode=1&name=acestream+SKY SPORTS 1
 
+#EXTINF:-1,[COLOR lime]SKY SPORTS 1 LINK 3[/COLOR]
+plugin://program.plexus/?url=acestream://f5ad291930308ed2125b164e6c48c2f0ec404325&mode=1&name=acestream+SKY SPORTS 1
+
 #EXTINF:-1,[COLOR lime]SKY SPORTS 2[/COLOR]
 plugin://program.plexus/?url=acestream://e9969669eeed0adb1c68072e977283222ac9572e&mode=1&name=acestream+SKY SPORTS 2
 
@@ -30,10 +33,13 @@ plugin://program.plexus/?url=acestream://37558d4ae8149aebd7e87a406fece41626e35c3
 plugin://program.plexus/?url=acestream://02c14347959f78d8bf18f898c56f429ab5a44c7b&mode=1&name=acestream+SKY SPORTS F1
 
 #EXTINF:-1,[COLOR lime]SKY SPORTS NEWS[/COLOR]
-plugin://program.plexus/?url=acestream://c7b76f6220f6e46b19cb5d655b04dc0dc21d11c4&mode=1&name=acestream+SKY SPORTS NEWS
+plugin://program.plexus/?url=acestream://82d9268889e0d67c991b421577e810faff3e5ba0&mode=1&name=acestream+SKY SPORTS NEWS
 
-#EXTINF:-1,[COLOR lime]BT SPORT 1[/COLOR]
+#EXTINF:-1,[COLOR lime]BT SPORT 1 LINK 1[/COLOR]
 plugin://program.plexus/?url=acestream://dc5310a7e47fcd52cf1d9d7c4db089d72cf3d9e5&mode=1&name=acestream+BT SPORT 1
+
+#EXTINF:-1,[COLOR lime]BT SPORT 1 LINK 2[/COLOR]
+plugin://program.plexus/?url=acestream://8b9a6589d2a6cd4adb8be47eae7954c6b53c26ce&mode=1&name=acestream+BT SPORT 1
 
 #EXTINF:-1,[COLOR lime]BT SPORT 2[/COLOR]
 plugin://program.plexus/?url=acestream://7e8a66f8acc92f39e52634761f391693a4134585&mode=1&name=acestream+BT SPORT 2
@@ -44,7 +50,7 @@ plugin://program.plexus/?url=acestream://28bae63cd0c99f2216d769e2d0d87e88c9aa6af
 #EXTINF:-1,[COLOR lime]BT SPORT/ESPN[/COLOR]
 plugin://program.plexus/?url=acestream://19ac8f262e29e04dfcf4ae88695e4f0a78bd7e64&mode=1&name=acestream+BT SPORT ESPN
 
-#EXTINF:-1,[COLOR lime]NBCSN[/COLOR]
+#EXTINF:-1,[COLOR red]NBCSN[/COLOR]
 plugin://program.plexus/?url=acestream://6c1f9b806eb63b89dae52c1c1227baa24a122e45&mode=1&name=acestream+NBCSN
 
 #EXTINF:-1,[COLOR lime]BRITISH EUROSPORT[/COLOR]
@@ -53,14 +59,17 @@ plugin://program.plexus/?url=acestream://268877735d560d2fe78f44bc763e40e2b23b13e
 #EXTINF:-1,[COLOR lime]BRITISH EUROSPORT 2[/COLOR]
 plugin://program.plexus/?url=acestream://7462d97e96e0f05e4551dbd3fb8a75a2d746c596&mode=1&name=acestream+BRITISH EUROSPORT 2
 
-#EXTINF:-1,[COLOR red]SETANTA SPORTS[/COLOR]
-plugin://program.plexus/?url=acestream://132bc6147e94c8903d8c5c0c0034b27ce4b1f761&mode=1&name=acestream+SETANTA SPORTS
+#EXTINF:-1,[COLOR lime]SETANTA SPORTS[/COLOR]
+plugin://program.plexus/?url=acestream://9ba1fc315918f63b576c5268ce3f9558693d1968&mode=1&name=acestream+SETANTA SPORTS
 
 #EXTINF:-1,[COLOR lime]SETANTA SPORTS +[/COLOR]
 plugin://program.plexus/?url=acestream://0f7600a4b59199820c0e19bd8457b5a617c5b2cb&mode=1&name=acestream+SETANTA SPORTS +
 
-#EXTINF:-1,[COLOR red]ESPN USA[/COLOR]
-plugin://program.plexus/?url=acestream://1bfa6e870c963a4dcbcb4a76bf3624d1335a0e23&mode=1&name=acestream+ESPN USA
+#EXTINF:-1,[COLOR lime]ESPN UK[/COLOR]
+plugin://program.plexus/?url=acestream://95c43951ff1aab57b59110c7b4b4494a4c3f80e5&mode=1&name=acestream+ESPN UK
+
+#EXTINF:-1,[COLOR lime]FOX SPORTS 2[/COLOR]
+plugin://program.plexus/?url=acestream://fe5e8788b682a0393411fdb07a5f50878a27d8af&mode=1&name=acestream+FOX SPORTS 2
 
 #EXTINF:-1,[COLOR lime]PREMIER SPORTS[/COLOR]
 plugin://program.plexus/?url=acestream://fb2080a96e762e926a33e61c70bd74edb2beabdf&mode=1&name=acestream+PREMIER SPORTS
