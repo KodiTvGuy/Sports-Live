@@ -17,14 +17,8 @@
 http://iptv-volkan.ddns.net:8000/live/noureddine123/barb52/352.m3u8
 
 
-#EXTINF:0,SKY SPORTS 1
-http://37.48.83.131:1935/live/skysports101.stream/media_787.ts?wowzasessionid=628165575
-
-#EXTINF:0,SKY SPORTS 1 BACKUP
-http://37.48.83.131:1935/live/skysports101.stream/media_788.ts?wowzasessionid=628165575
-
-#EXTINF:0,SKY SPORTS 1 BACKUP
-http://37.48.83.131:1935/live/skysports101.stream/media_789.ts?wowzasessionid=628165575
+#EXTINF:0,SKY SPORTS 1 HD
+http://72.11.148.148:8000/stuardxmbcaddon/zca22SFsfasdSAFasfgASD/220
 
 #EXTINF:0,SKY SPORTS 2
 http://bit.ly/1Y9Y6ek
