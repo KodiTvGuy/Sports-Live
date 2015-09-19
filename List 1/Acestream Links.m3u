@@ -8,6 +8,24 @@
 
 
 
+#EXTINF:-1,12.45GMT CHELSEA V ARSENAL LINK 1 Bt sport 1 
+plugin://program.plexus/?url=acestream://8b9a6589d2a6cd4adb8be47eae7954c6b53c26ce&mode=1&name=acestream+CHELSEA V ARSENAL
+
+#EXTINF:-1,12.45GMT CHELSEA V ARSENAL LINK 2 Canal+ Fútbol Spain 
+plugin://program.plexus/?url=acestream://f0747d9c0eb7e9da0aa83f1a405845c894384852&mode=1&name=acestream+CHELSEA V ARSENAL
+
+#EXTINF:-1,12.45GMT CHELSEA V ARSENAL LINK 3 Canal+ Sport HD Poland
+plugin://program.plexus/?url=acestream://07fb7d0131663a5daef420fd75acb5731b1c6585&mode=1&name=acestream+CHELSEA V ARSENAL
+
+#EXTINF:-1,12.45GMT CHELSEA V ARSENAL LINK 4 NTV+ Futbol 1 Russia / HTB+ Футбол 1
+plugin://program.plexus/?url=acestream://bed7cc138b4c7f3d57232a2e37cd029e8956c537&mode=1&name=acestream+CHELSEA V ARSENAL
+
+#EXTINF:-1,12.45GMT CHELSEA V ARSENAL LINK 5 Futbol 1 HD Ukraine / Футбол 1 HD
+plugin://program.plexus/?url=acestream://ad418d698e39062d4640914ff452ce62e763e10c&mode=1&name=acestream+CHELSEA V ARSENAL
+
+#EXTINF:-1,12.45GMT CHELSEA V ARSENAL LINK 6 Digi Sport 1 Hungary / Slovakia
+plugin://program.plexus/?url=acestream://7525fc778e3f751b430d4cf626e187268e67a1d5&mode=1&name=acestream+CHELSEA V ARSENAL
+
 #EXTINF:-1,[COLOR lime]SKY SPORTS 1 LINK 1[/COLOR]
 plugin://program.plexus/?url=acestream://7dcf3c8daaad0efbef55af2d74d52a5f8f65783c&mode=1&name=acestream+SKY SPORTS 1
 

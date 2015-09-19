@@ -2,65 +2,17 @@
 
 
 
-#EXTINF:-1, [COLOR green]-------------UPDATED 08/09/15 @19.00 GMT-------------[/COLOR]
+#EXTINF:-1, [COLOR green]-------------UPDATED 19/09/15 @11.58 GMT-------------[/COLOR]
 #EXTINF:-1,
 #
 #EXTINF:-1,
 
 
-#EXTINF:-1,19.45 eur.2016.qual MACEDONIA – SPAIN sport tv 2 pt
-rtmp://$OPT:rtmp-raw=rtmpe://5.153.233.106:443/share/ playpath=live2-bipmr swfUrl=http://sharecast.to/player/player20.swf live=1 timeout=13 pageUrl=http://sharecast.to/
+#EXTINF:-1,12.45 CHELSEA V ARESNAL LINK 1
+rtmp://$OPT:rtmp-raw=rtmp://80.82.70.155/live playpath=wbt1 swfUrl=http://www.yocast.tv/myplayer/jwplayer.flash.swf live=1 pageUrl=http://www.yocast.tv/embed.php?live=wbt1&vw=600&vh=450
 
-#EXTINF:-1,19.45 eur.2016.qual MACEDONIA – SPAIN sport 1 voetbal nl
-http://ziggo.cdn.sport1.triple-it.nl/sport1voetbalhd.isml/QualityLevels(696000)/manifest(format=m3u8-aapl).m3u8
+#EXTINF:-1,12.45 CHELSEA V ARSENAL LINK 2
+http://178.33.88.129:888/udp/239.102.0.55:1234
 
-#EXTINF:-1,19.45 eur.2016.qual MACEDONIA – SPAIN sport 1 voetbal HD nl
-http://ziggo.cdn.sport1.triple-it.nl/sport1voetbalhd.isml/QualityLevels(2896000)/manifest(format=m3u8-aapl).m3u8
-
-#EXTINF:-1,19.45 eur.2016.qual MACEDONIA – SPAIN digi sport 2 ro
-rtmp://rtmp.deltatv.pw:1935/liverepeater/_definst_/132685
-
-#EXTINF:-1,19.45 eur.2016.qual MACEDONIA – SPAIN haberturk tv
-http://strm-i.glb.pr.medianova.tv:1935/haberturk/haberturk2/playlist.m3u8
-
-#EXTINF:-1,19.45 eur.2016.qual MACEDONIA – SPAIN tve1 es
-http://hlslive.rtve.es/LA1_LV3_IPH/master.m3u8
-
-#EXTINF:-1,19.45 eur.2016.qual MACEDONIA – SPAIN sportklub 1 sr
-http://www.nasatv.eu:80/live?channelId=104&uid=18&deviceUser=zine&devicePass=zine
-
-#EXTINF:-1,19.45 eur.2016.qual ENGLAND – SWITZERLAND rsi la 2 ch
-http://streaming-hub.com/ss/kjhkdsqfksdqfhoisdxco/i/rsila2_1@97473/index_1300_av-b.m3u8?sd=10&rebase=on
-
-#EXTINF:-1,19.45 eur.2016.qual ENGLAND – SWITZERLAND rts2 ch
-http://streaming-hub.com/ss/kjhkdsqfksdqfhoisdxco/i/rts2_1@97470/index_1300_av-b.m3u8?sd=10&rebase=on
-
-#EXTINF:-1,19.45 eur.2016.qual ENGLAND – SWITZERLAND srf 2 ch
-http://streaming-hub.com/ss/kjhkdsqfksdqfhoisdxco/i/sf2_1@97475/index_1300_av-b.m3u8?sd=10&rebase=on
-
-#EXTINF:-1,19.45 eur.2016.qual ENGLAND – SWITZERLAND sport tv 1 pt
-rtmp://$OPT:rtmp-raw=rtmpe://5.153.233.106:443/share/ playpath=live1-rbi6c swfUrl=http://sharecast.to/player/player20.swf live=1 timeout=13 pageUrl=http://sharecast.to/
-
-#EXTINF:-1,19.45 eur.2016.qual ENGLAND – SWITZERLAND idman tv Az
+#EXTINF:-1,12.45 CHELSEA V ARSENAL LINK 3
 http://149.255.152.70:80/idman/index.m3u8
-
-#EXTINF:-1,19.45 eur.2016.qual ENGLAND – SWITZERLAND digi sport 1 ro
-rtmp://rtmp.deltatv.pw:1935/liverepeater/_definst_/132679
-
-#EXTINF:-1,19.45 eur.2016.qual MOLDOVA – MONTENEGRO rtcg montenegro
-http://edge1.volim.tv/live/rtcg.stream/playlist.m3u8?hash=41f1c9080b62848336609fcc1aab1f744723af0e
-
-#EXTINF:-1,19.45 eur.2016.qual SWEDEN – AUSTRIA orf 1 at
-http://streaming-hub.com/ss/kjhkdsqfksdqfhoisdxco/i/orf1_1@97573/index_1300_av-p.m3u8?sd=10&rebase=on
-
-#EXTINF:-1,19.45 eur.2016.qual LIECHTENSTEIN – RUSSIA russia 2
-http://195.189.246.131/russia2_250k.m3u8
-
-#EXTINF:-1,19.45 eur.2016.qual SLOVAKIA – UKRAINE sport tv 3 pt
-rtmp://$OPT:rtmp-raw=rtmpe://5.153.233.106:443/share/ playpath=live3-qszlx swfUrl=http://sharecast.to/player/player20.swf live=1 timeout=10 pageUrl=http://sharecast.to/
-
-#EXTINF:-1,19.45 eur.2016.qual SLOVENIA – ESTONIA ictimai tv Az
-http://bak01-edge03.itdc.ge/ictimai/index.m3u8?token=mk8CRfDflPluw8PPSBcG0ngP6FXfU0b7Lmy4OmQFkH2OfJVVhM-LifoJyCym2ru1tZpodnleth8K1YSg9yOVSQ**
-
-#EXTINF:-1,01.40 friendly USA – BRAZIL sport tv 1 p
-rtmp://$OPT:rtmp-raw=rtmpe://5.153.233.106:443/share/ playpath=live1-rbi6c swfUrl=http://sharecast.to/player/player20.swf live=1 timeout=13 pageUrl=http://sharecast.to/
