@@ -8,11 +8,8 @@
 #EXTINF:-1,
 
 
-#EXTINF:-1,12.45 CHELSEA V ARESNAL LINK 1
-rtmp://$OPT:rtmp-raw=rtmp://80.82.70.155/live playpath=wbt1 swfUrl=http://www.yocast.tv/myplayer/jwplayer.flash.swf live=1 pageUrl=http://www.yocast.tv/embed.php?live=wbt1&vw=600&vh=450
-
-#EXTINF:-1,12.45 CHELSEA V ARSENAL LINK 2
+#EXTINF:-1,12.45 CHELSEA V ARSENAL LINK 1
 http://178.33.88.129:888/udp/239.102.0.55:1234
 
-#EXTINF:-1,12.45 CHELSEA V ARSENAL LINK 3
+#EXTINF:-1,12.45 CHELSEA V ARSENAL LINK 2
 http://149.255.152.70:80/idman/index.m3u8
