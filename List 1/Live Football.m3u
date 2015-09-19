@@ -2,7 +2,7 @@
 
 
 
-#EXTINF:-1, [COLOR green]-------------UPDATED 19/09/15 @11.58 GMT-------------[/COLOR]
+#EXTINF:-1, [COLOR green]-------------UPDATED 19/09/15 @15.15 GMT-------------[/COLOR]
 #EXTINF:-1,
 #
 #EXTINF:-1,
@@ -13,3 +13,15 @@ http://178.33.88.129:888/udp/239.102.0.55:1234
 
 #EXTINF:-1,12.45 CHELSEA V ARSENAL LINK 2
 http://149.255.152.70:80/idman/index.m3u8
+
+#EXTINF:-1,17.30 GMT MANCHESTER CITY V WEST HAM LINK 1
+http://uk.pphp.ga/SkySP1/index.m3u8?token=ys5fdqAINWHZKB81gH8XEA&e=1442675697&u=38643&channel=
+
+#EXTINF:-1,17.30 GMT MANCHESTER CITY V WEST HAM LINK 2
+http://vurl.com/rk7QW
+
+#EXTINF:-1,17.30 GMT MANCHESTER CITY V WEST HAME LINK 3
+http://149.255.152.70:80/idman/index.m3u8
+
+#EXTINF:-1,15.00 GMT REAL MADRID V GRANADA
+http://uk.pphp.ga/SkySP3/index.m3u8?token=iPoV_EGNp3u2uPw46BP-Rg&e=1442678666&u=38643&channel=
