@@ -7,21 +7,12 @@
 #
 #EXTINF:-1,
 
+#EXTINF:-1,19.00 GMT CELTA VIGO V BARCELONA LINK 1 Sky Sports 2 UK 
+rtmp://$OPT:rtmp-raw=rtmp://80.82.78.165/live playpath=wskys2 swfUrl=http://www.yocast.tv/myplayer/jwplayer.flash.swf live=1 pageUrl=http://www.yocast.tv/embed.php?live=wskys2&vw=600&vh=450
 
-#EXTINF:-1,12.45 CHELSEA V ARSENAL LINK 1
-http://178.33.88.129:888/udp/239.102.0.55:1234
+#EXTINF:-1,19.00 GMT CELTA VIGO V BARCELONA LINK 2 Sport TV 2 Portugal
+rtmp://$OPT:rtmp-raw=rtmpe://5.153.233.106:443/share/ playpath=live2-bipmr swfUrl=http://sharecast.to/player/player20.swf live=1 timeout=13 pageUrl=http://sharecast.to/
 
-#EXTINF:-1,12.45 CHELSEA V ARSENAL LINK 2
+#EXTINF:-1,19.00 GMT CELTA VIGO V BARCELONA LINK 3 İdman TV Azerbaijan
 http://149.255.152.70:80/idman/index.m3u8
 
-#EXTINF:-1,17.30 GMT MANCHESTER CITY V WEST HAM LINK 1
-http://uk.pphp.ga/SkySP1/index.m3u8?token=ys5fdqAINWHZKB81gH8XEA&e=1442675697&u=38643&channel=
-
-#EXTINF:-1,17.30 GMT MANCHESTER CITY V WEST HAM LINK 2
-http://vurl.com/rk7QW
-
-#EXTINF:-1,17.30 GMT MANCHESTER CITY V WEST HAME LINK 3
-http://149.255.152.70:80/idman/index.m3u8
-
-#EXTINF:-1,15.00 GMT REAL MADRID V GRANADA
-http://uk.pphp.ga/SkySP3/index.m3u8?token=iPoV_EGNp3u2uPw46BP-Rg&e=1442678666&u=38643&channel=
