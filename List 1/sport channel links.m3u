@@ -73,6 +73,13 @@ http://62.210.248.96:11000/sneddonuk01@hotmail.co.uk_test/sneddonuk01@hotmail.co
 #EXTINF:0,FOX SPORTS 2
 http://62.210.248.96:11000/sneddonuk01@hotmail.co.uk_test/sneddonuk01@hotmail.co.uk_test/1025.ch
 
+#EXTINF:0,NFL NETWORK
+http://nflsvglagame1-i.akamaihd.net/hls/live/223206/NFL_Mobile/2015Mobile_NFLN_2000k.m3u8
+
+#EXTINF:0,NFL NETWORK BACKUP
+http://nflioslivesvg2-i.akamaihd.net/hls/live/221521/nflioslive/2015HackerNow_w99d9.m3u8
+
+
 #EXTINF:0,GOLF CHANNEL
 http://72.11.148.148:8000/stuardxmbcaddon/znX2YXgQPqFHryjo/485
 
