@@ -2,17 +2,47 @@
 
 
 
-#EXTINF:-1, [COLOR green]-------------UPDATED 19/09/15 @15.15 GMT-------------[/COLOR]
+#EXTINF:-1, [COLOR green]-------------UPDATED 29/09/15 @15.00 GMT-------------[/COLOR]
 #EXTINF:-1,
 #
 #EXTINF:-1,
 
-#EXTINF:-1,19.00 GMT CELTA VIGO V BARCELONA LINK 1 Sky Sports 2 UK 
-rtmp://$OPT:rtmp-raw=rtmp://80.82.78.165/live playpath=wskys2 swfUrl=http://www.yocast.tv/myplayer/jwplayer.flash.swf live=1 pageUrl=http://www.yocast.tv/embed.php?live=wskys2&vw=600&vh=450
+#EXTINF:-1,FC PORTO V CHELSEA ---BT Sport Europe UK
+http://uktv.us.to/BTSpeur/index.m3u8?token=3Ugwt9eL8-kHGVKyOivXSA&e=1443422457&u=40234&channel=
 
-#EXTINF:-1,19.00 GMT CELTA VIGO V BARCELONA LINK 2 Sport TV 2 Portugal
+#EXTINF:-1, FC PORTO V CHELSEA BACKUP ---BT Sport Europe UK
+rtmp://$OPT:rtmp-raw=rtmp://89.248.174.38/live playpath=eubt swfUrl=http://www.yocast.tv/myplayer/jwplayer.flash.swf live=1 pageUrl=http://www.yocast.tv/embed.php?live=eubt&vw=600&vh=450
+
+#EXTINF:-1,FC PORTO V CHELSEA ---Astro SuperSport 3 Malaysia
+http://media.gudoball.com/live/m3u8.m3u8?url=aHR0cDovL3d3dy53ZXphdHYuY29tL2Rvb2JhbGwvYXNzcDMucGhw
+
+#EXTINF:-1,FC PORTO V CHELSEA ---Astro SuperSport 3 Malaysia
+http://erol74y7la.servep2p.com:80/mHyifxGiDv/assp3/playlist.m3u8
+
+#EXTINF:-1,FC PORTO V CHELSEA ---İdman TV Azerbaijan
+http://149.255.152.70:80/idman/index.m3u8
+
+#EXTINF:-1,FC BARCELONA V BAYER LEVERKUSEN ---Antena 3 HD Spain
+http://a3live-lh.akamaihd.net/i/antena3_1@35248/master.m3u8
+
+#EXTINF:-1,FC BARCELONA V BAYER LEVERKUSEN ---Sport TV2 Portugal
 rtmp://$OPT:rtmp-raw=rtmpe://5.153.233.106:443/share/ playpath=live2-bipmr swfUrl=http://sharecast.to/player/player20.swf live=1 timeout=13 pageUrl=http://sharecast.to/
 
-#EXTINF:-1,19.00 GMT CELTA VIGO V BARCELONA LINK 3 İdman TV Azerbaijan
-http://149.255.152.70:80/idman/index.m3u8
+#EXTINF:-1,FC BARCELONA V BAYER LEVERKUSEN ---beIN Sports 3 HD France
+http://178.33.88.129:888/udp/239.102.0.22:1234
+
+#EXTINF:-1,FC BARCELONA V BAYER LEVERKUSON ---bTV Action Bulgaria (wait to buffer)
+http://lag1.tv-mobile.org/prge.m3u8
+
+#EXTINF:-1,ARSENAL V OLYMPIACOS ---BT Sport 2 UK
+http://uktv.us.to/BTSp2/index.m3u8?token=3Ugwt9eL8-kHGVKyOivXSA&e=1443422457&u=40234&channel=
+
+#EXTINF:-1,ARSENAL V OLPMPIACOS BACKUP---BT Sport 2 UK
+rtmp://$OPT:rtmp-raw=rtmp://5.196.14.179/sipragezabava.com playpath=bt2 swfUrl=http://releases.flowplayer.org/6.0.1/flowplayerhls.swf live=1 pageUrl=http://sipragezabava.com/kanal_7_eu.php
+
+#EXTINF:-1,ARSENAL V OLYMPIACOS ---Arena Sport 1 Serbia
+http://vurl.com/G6AD8
+
+#EXTINF:-1,BAYERN MUNICH V DINAMO ZAGREB ---Astro SuperSport 2 Malaysia
+http://media.gudoball.com/live/m3u8.m3u8?url=aHR0cDovL3d3dy53ZXphdHYuY29tL2Rvb2JhbGwvYXNzcDIucGhw
 
