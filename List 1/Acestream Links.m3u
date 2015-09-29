@@ -9,62 +9,47 @@
 
 
 
-#EXTINF:-1,12.45GMT CHELSEA V ARSENAL LINK 1 Bt sport 1 
-plugin://program.plexus/?url=acestream://8b9a6589d2a6cd4adb8be47eae7954c6b53c26ce&mode=1&name=acestream+CHELSEA V ARSENAL
+#EXTINF:-1,FC PORTO V CHELSEA NTV+ Futbol 3 HD Russia / НТВ+ Футбол 3 HD
+plugin://program.plexus/?url=acestream://3a6b5dce23ade23e913fd13068c75daf942c1d64&mode=1&name=acestream+FC PORTO V CHELSEA
 
-#EXTINF:-1,12.45GMT CHELSEA V ARSENAL LINK 2 Canal+ Fútbol Spain 
-plugin://program.plexus/?url=acestream://f0747d9c0eb7e9da0aa83f1a405845c894384852&mode=1&name=acestream+CHELSEA V ARSENAL
+#EXTINF:-1,FC PORTO V CHELSEA Futbol 2 HD Ukraine / Футбол 2 HD
+plugin://program.plexus/?url=acestream://570972d842056f7a676e3e8c41e36c14236c5bb3&mode=1&name=acestream+FC PORTO V CHELSEA
 
-#EXTINF:-1,12.45GMT CHELSEA V ARSENAL LINK 3 Canal+ Sport HD Poland
-plugin://program.plexus/?url=acestream://07fb7d0131663a5daef420fd75acb5731b1c6585&mode=1&name=acestream+CHELSEA V ARSENAL
+#EXTINF:-1,FC PORTO V CHELSEA Canal+ Sport HD Poland
+plugin://program.plexus/?url=acestream://63139e95f3c2caf9b8df9782a359ec9050711219&mode=1&name=acestream+FC PORTO V CHELSEA
 
-#EXTINF:-1,12.45GMT CHELSEA V ARSENAL LINK 4 NTV+ Futbol 1 Russia / HTB+ Футбол 1
-plugin://program.plexus/?url=acestream://bed7cc138b4c7f3d57232a2e37cd029e8956c537&mode=1&name=acestream+CHELSEA V ARSENAL
+#EXTINF:-1,FC PORTO V CHELSEA Sport TV1 Portugal
+plugin://program.plexus/?url=acestream://c39db61fd585ebfa446983d0af9d9d637df9678c&mode=1&name=acestream+FC PORTO V CHELSEA
 
-#EXTINF:-1,12.45GMT CHELSEA V ARSENAL LINK 5 Futbol 1 HD Ukraine / Футбол 1 HD
-plugin://program.plexus/?url=acestream://ad418d698e39062d4640914ff452ce62e763e10c&mode=1&name=acestream+CHELSEA V ARSENAL
+#EXTINF:-1,FC PORTO V CHELSEA Sport TV1 HD Portugal (av1)
+plugin://program.plexus/?url=acestream://ddb663867ee6e6f37e9543e49030712e1821e690&mode=1&name=acestream+FC PORTO V CHELSEA
 
-#EXTINF:-1,12.45GMT CHELSEA V ARSENAL LINK 6 Digi Sport 1 Hungary / Slovakia
-plugin://program.plexus/?url=acestream://7525fc778e3f751b430d4cf626e187268e67a1d5&mode=1&name=acestream+CHELSEA V ARSENAL
+#EXTINF:-1,FC PORTO V CHELSEA Sport TV1 HD Portugal (av1)
+plugin://program.plexus/?url=acestream://18ab7b60b79faf3362620a9435ddcdcb4f8020e5&mode=1&name=acestream+FC PORTO V CHELSEA
 
-#EXTINF:-1,15.00 GMT REAL MADRID V GRANADA LINK 1 Sky Sports 3 UK
-plugin://program.plexus/?url=acestream://790ae5bc4ef54c62c55b68957bdd51769cbf8d55&mode=1&name=acestream+REAL MADRID V GRANADA
+#EXTINF:-1,FC PORTO V CHELSEA Viasat Sport Baltic
+plugin://program.plexus/?url=acestream://3bea2f854be3b3fc2f6192347c5161611c70fb5f&mode=1&name=acestream+FC PORTO V CHELSEA
 
-#EXTINF:-1,15.00 GMT REAL MADRID V GRANADA LINK 2 Canal+ Liga Spain
-plugin://program.plexus/?url=acestream://dd70dfe213f9cb4bf3d60d9801bfbdd3fcce7efa&mode=1&name=acestream+REAL MADRID V GRANADA
+#EXTINF:-1,FC PORTO V CHELSEA Arena Sport 3 Serbia
+plugin://program.plexus/?url=acestream://65fbcb7bf836c7c4db82dd17b04a12404b1105a9&mode=1&name=acestream+FC PORTO V 
 
-#EXTINF:-1,15.00 GMT REAL MADRID V GRANADA LINK 3 Canal+ Liga HD Spain (av1)
-plugin://program.plexus/?url=acestream://ddb663867ee6e6f37e9543e49030712e1821e690&mode=1&name=acestream+REAL MADRID V GRANADA
+#EXTINF:-1,FC BARCELONA V BAYER LEVERKUSEN Antena 3 HD Spain (av11)
+plugin://program.plexus/?url=acestream://c0568cc275987e42d1b0f906e0f3aab01fbc0e2f&mode=1&name=acestream+FC BARCELONA V BAYER LEVERKUSEN
 
-#EXTINF:-1,15.00 GMT REAL MADRID V GRANADA LINK 4 Futbol 1 HD Ukraine / Футбол 1 HD
-plugin://program.plexus/?url=acestream://24b2e33593c6425bb66a1237e2e967ca51d197c6&mode=1&name=acestream+REAL MADRID V GRANADA
+#EXTINF:-1,FC BARCELONA V BAYER LEVERKUSEN NTV+ Futbol 2 HD Russia / НТВ+ Футбол 2 HD
+plugin://program.plexus/?url=acestream://b5f9286aab3d7fa52b0568ef084e219542651ab9&mode=1&name=acestream+FC BARCELONA V BAYER LEVERKUSEN
 
-#EXTINF:-1,15.00 GMT REAL MADRID V GRANADA LINK 5 NTV+ Futbol 1 HD Russia / НТВ+ Футбол 1 HD
-plugin://program.plexus/?url=acestream://6c91332792071eb07bcc45d45267ea83c4c05c83&mode=1&name=acestream+REAL MADRID V GRANADA
+#EXTINF:-1,ARSENAL V OLMPPIACOS Arena Sport 1 Serbia
+plugin://program.plexus/?url=acestream://d33479c1c47dc23420fb5894cc71cedf650754eb&mode=1&name=acestream+ARSENAL V OLYMPIACOS
 
-#EXTINF:-1,15.00 GMT REAL MADRID V GRANADA LINK 6 Sport TV 1 Portugal
-plugin://program.plexus/?url=acestream://c39db61fd585ebfa446983d0af9d9d637df9678c&mode=1&name=acestream+REAL MADRID V GRANADA
+#EXTINF:-1,ARSENAL V OLYMPIACOS nSport + HD Poland
+plugin://program.plexus/?url=acestream://a1647d300e3e1de2844a8b7bfa33f32ed3d288c9&mode=1&name=acestream+ARSENAL V OLYMPIACOS
 
-#EXTINF:-1,17.30 GMT MANCHESTER CITY V WEST HAM LINK 1 Sky Sports 1
-plugin://program.plexus/?url=acestream://3dec27f191922f42f6ff91a0f1641d15cba80d5e&mode=1&name=acestream+MANCHESTER CITY V WEST HAM
+#EXTINF:-1,BAYERN MUNICH V DINAMO ZAGREB Canal+ Sport 2 HD Poland
+plugin://program.plexus/?url=acestream://0aba4407456cf7bc420e930ae7ba0697e53d35fe&mode=1&name=acestream+BAYERN MUNICH V DINAMO ZAGREB
 
-#EXTINF:-1,17.30 GMT MANCHESTER CITY V WEST HAM LINK 2 Canal+ Fútbol Spain (av5)
-plugin://program.plexus/?url=acestream://98517e47bd1d2cbccf8a155ce441939afed11de7&mode=1&name=acestream+MANCHESTER CITY V WEST HAM
-
-#EXTINF:-1,17.30 GMT MANCHESTER CITY V WEST HAM LINK 3 NTV+ Futbol 1 Russia / HTB+ Футбол 1
-plugin://program.plexus/?url=acestream://6c91332792071eb07bcc45d45267ea83c4c05c83&mode=1&name=acestream+MANCHESTER CITY V WEST HAM
-
-#EXTINF:-1,17.30 GMT MANCHESTER CITY V WEST HAM LINK 4 Futbol 1 HD Ukraine / Футбол 1 HD
-plugin://program.plexus/?url=acestream://24b2e33593c6425bb66a1237e2e967ca51d197c6&mode=1&name=acestream+MANCHESTER CITY V WEST HAM
-
-#EXTINF:-1,17.30 GMT MANCHESTER CITY V WEST HAM LINK 5 Canal+ Sport HD Poland
-plugin://program.plexus/?url=acestream://07fb7d0131663a5daef420fd75acb5731b1c6585&mode=1&name=acestream+MANCHESTER CITY V WEST HAM
-
-#EXTINF:-1,17.30 GMT MANCHESTER CITY V WEST HAM LINK 6 Viasat Fotboll
-plugin://program.plexus/?url=acestream://a38f93b6d18d9c86bfb664d9f17d202cc393401d&mode=1&name=acestream+MANCHESTER CITY V WEST HAM
-
-#EXTINF:-1,17.30 GMT MANCHESTER CITY V WEST HAM LINK 7 Digi Sport 1 Hungary / Slovakia
-plugin://program.plexus/?url=acestream://7525fc778e3f751b430d4cf626e187268e67a1d5&mode=1&name=acestream+MANCHESTER CITY V WEST HAM
+#EXTINF:-1,BAYERN MUNICH V DINAMO ZAGREB Sport TV3 Portugal
+plugin://program.plexus/?url=acestream://2cd965d9c087d1d6be889d54d689a6a6083a6280&mode=1&name=acestream+BAYERN MUNICH V DINAMO ZAGREB
 
 #EXTINF:-1,[COLOR lime]SKY SPORTS 1 LINK 1[/COLOR]
 plugin://program.plexus/?url=acestream://7dcf3c8daaad0efbef55af2d74d52a5f8f65783c&mode=1&name=acestream+SKY SPORTS 1
