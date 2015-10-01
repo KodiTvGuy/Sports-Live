@@ -2,7 +2,7 @@
 
 
 
-#EXTINF:-1, [COLOR green]-------------UPDATED 29/09/15 @15.00 GMT-------------[/COLOR]
+#EXTINF:-1, [COLOR green]-------------UPDATED 01/10/15 @11.40 GMT-------------[/COLOR]
 #EXTINF:-1,
 #
 #EXTINF:-1,
@@ -10,42 +10,50 @@
 
 #ENTINF:-1,NEW LINE
 
-#EXTINF:-1,FC PORTO V CHELSEA ---BT Sport Europe UK
-http://uktv.us.to/BTSpeur/index.m3u8?token=3Ugwt9eL8-kHGVKyOivXSA&e=1443422457&u=40234&channel=
+#EXTINF:-1,CELTIC V FENERBAHCE (BT Sport 2 UK)
+http://uktv.us.to/BTSp2/index.m3u8?token=yXbyYFMvcFVhPuHpcYZGdw&e=1443422457&u=40234&channel=
 
-#EXTINF:-1, FC PORTO V CHELSEA BACKUP ---BT Sport Europe UK
-rtmp://$OPT:rtmp-raw=rtmp://89.248.174.38/live playpath=eubt swfUrl=http://www.yocast.tv/myplayer/jwplayer.flash.swf live=1 pageUrl=http://www.yocast.tv/embed.php?live=eubt&vw=600&vh=450
-
-#EXTINF:-1,FC PORTO V CHELSEA ---Astro SuperSport 3 Malaysia
-http://media.gudoball.com/live/m3u8.m3u8?url=aHR0cDovL3d3dy53ZXphdHYuY29tL2Rvb2JhbGwvYXNzcDMucGhw
-
-#EXTINF:-1,FC PORTO V CHELSEA ---Astro SuperSport 3 Malaysia
-http://erol74y7la.servep2p.com:80/mHyifxGiDv/assp3/playlist.m3u8
-
-#EXTINF:-1,FC PORTO V CHELSEA ---İdman TV Azerbaijan
-http://149.255.152.70:80/idman/index.m3u8
-
-#EXTINF:-1,FC BARCELONA V BAYER LEVERKUSEN ---Antena 3 HD Spain
-http://a3live-lh.akamaihd.net/i/antena3_1@35248/master.m3u8
-
-#EXTINF:-1,FC BARCELONA V BAYER LEVERKUSEN ---Sport TV2 Portugal
+#EXTINF:-1,CELTIC V FENERBAHCE Sport TV2 Portugal
 rtmp://$OPT:rtmp-raw=rtmpe://5.153.233.106:443/share/ playpath=live2-bipmr swfUrl=http://sharecast.to/player/player20.swf live=1 timeout=13 pageUrl=http://sharecast.to/
 
-#EXTINF:-1,FC BARCELONA V BAYER LEVERKUSEN ---beIN Sports 3 HD France
-http://178.33.88.129:888/udp/239.102.0.22:1234
+#EXTINF:-1,LIVERPOOL V SION BT Sport Europe UK
+http://uktv.us.to/BTSpeur/index.m3u8?token=yXbyYFMvcFVhPuHpcYZGdw&e=1443422457&u=40234&channel=
 
-#EXTINF:-1,FC BARCELONA V BAYER LEVERKUSON ---bTV Action Bulgaria (wait to buffer)
+#EXTINF:-1,LIVERPOOL V SION BT Sport Europe UK
+rtmp://$OPT:rtmp-raw=rtmp://89.248.174.121/live playpath=bteu123 swfUrl=http://www.yocast.tv/myplayer/jwplayer.flash.swf live=1 pageUrl=http://www.yocast.tv/embed.php?live=bteu123&vw=600&vh=450
+
+#EXTINF:-1,LIVERPOOL V SION Sky Sport 3 Italia
+http://vurl.com/NkjX2
+
+#EXTINF:-1,LIVERPOOL V SION Astro Supersport 3 Malaysia
+http://erol74y7la.servep2p.com:80/mHyifxGiDv/assp3/playlist.m3u8
+
+#EXTINF:-1,LIVERPOOL V SION bTV Action Bulgaria
 http://lag1.tv-mobile.org/prge.m3u8
 
-#EXTINF:-1,ARSENAL V OLYMPIACOS ---BT Sport 2 UK
-http://uktv.us.to/BTSp2/index.m3u8?token=3Ugwt9eL8-kHGVKyOivXSA&e=1443422457&u=40234&channel=
+#EXTINF:-1,MONACO V SPURS beIN Sports 1 HD France
+http://myafricanmega3.tulix.tv:1935/map-beinsports1hd/map-beinsports1hd/chunklist.m3u8?wowzasessionid=1124649939
 
-#EXTINF:-1,ARSENAL V OLPMPIACOS BACKUP---BT Sport 2 UK
-rtmp://$OPT:rtmp-raw=rtmp://5.196.14.179/sipragezabava.com playpath=bt2 swfUrl=http://releases.flowplayer.org/6.0.1/flowplayerhls.swf live=1 pageUrl=http://sipragezabava.com/kanal_7_eu.php
+#EXTINF:-1,MONACO V SPURS BT Sport Europe UK
+http://uktv.us.to/BTSpeur/index.m3u8?token=yXbyYFMvcFVhPuHpcYZGdw&e=1443422457&u=40234&channel=
 
-#EXTINF:-1,ARSENAL V OLYMPIACOS ---Arena Sport 1 Serbia
-http://vurl.com/G6AD8
+#EXTINF:-1,MONACO V SPURS BT Sport Europe UK
+rtmp://$OPT:rtmp-raw=rtmp://89.248.174.121/live playpath=bteu123 swfUrl=http://www.yocast.tv/myplayer/jwplayer.flash.swf live=1 pageUrl=http://www.yocast.tv/embed.php?live=bteu123&vw=600&vh=450
 
-#EXTINF:-1,BAYERN MUNICH V DINAMO ZAGREB ---Astro SuperSport 2 Malaysia
-http://media.gudoball.com/live/m3u8.m3u8?url=aHR0cDovL3d3dy53ZXphdHYuY29tL2Rvb2JhbGwvYXNzcDIucGhw
+#EXTINF:-1,MONACO V SPURS Astro SuperSport 1 Malaysia
+http://erol74y7la.servep2p.com:80/mHyifxGiDv/assp1/playlist.m3u8
+
+#EXTINF:-1,MONACO V SPURS bTV Action Bulgaria
+http://lag1.tv-mobile.org/prge.m3u8
+
+#EXTINF:-1,PAOK V BORUSSIA DORTMUND HRT 2 Croatia
+http://213.5.58.58:1935/hrt_live/smil:hrt2.smil/playlist.m3u8
+
+#EXTINF:-1,BESIKTAS V SPORTING LISBON TRT 1 HD Turkey
+http://trtcanlitv-lh.akamaihd.net/i/TRT1HD_1@181842/master.m3u8
+
+#EXTINF:-1,BESIKTAS V SPORTING LISBON İdman TV Azerbaijan
+http://bak01-edge03.itdc.ge/idman/index.m3u8
+
+
 
