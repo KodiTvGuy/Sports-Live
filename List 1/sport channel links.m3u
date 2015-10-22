@@ -19,14 +19,14 @@ http://iptv-volkan.ddns.net:8000/live/noureddine123/barb52/352.m3u8
 #EXTINF:0,SKY SPORTS 1 HD
 http://iptv.electro-clair.net:8000/live/zizo/zizo/1756.ts
 
-#EXTINF:0,SKY SPORTS 2 HD
-http://iptv.electro-clair.net:8000/live/zizo/zizo/1757.ts
+#EXTINF:0,SKY SPORTS 2HD
+http://iptv.electro-clair.net:8000/live/zizo/zizo/1757.m3u8
 
 #EXTINF:0,SKY SPORTS 3 HD
-http://iptv.electro-clair.net:8000/live/zizo/zizo/1758.ts
+http://iptv.electro-clair.net:8000/live/zizo/zizo/1758.m3u8
 
 #EXTINF:0,SKY SPORTS 4 HD
-http://iptv.electro-clair.net:8000/live/zizo/zizo/1759.ts
+http://iptv.electro-clair.net:8000/live/zizo/zizo/1759.m3u8
 
 #EXTINF:0,SKY SPORTS 5 HD
 http://iptv.electro-clair.net:8000/live/zizo/zizo/1395.ts
@@ -44,7 +44,7 @@ http://iptv.electro-clair.net:8000/live/zizo/zizo/1789.ts
 http://iptv.electro-clair.net:8000/live/zizo/zizo/1790.ts
 
 #EXTINF:0,BT SPORT EUROPE
-http://iptv.electro-clair.net:8000/live/zizo/zizo/1791.ts
+http://iptv.electro-clair.net:8000/live/zizo/zizo/1791.m3u8
 
 #EXTINF:0,ESPN
 http://iptvstream.dyndns.tv:8000/live/DavidS/DavidS/138.m3u8
