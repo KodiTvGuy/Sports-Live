@@ -4,14 +4,9 @@
   
   
   
- <channels>
+ 
+<name>NFL NETWORK</name>
 
-<channel>
-      <name>NFL NETWORK</name>
-  <thumbnail>http://ignoreme</thumbnail>
-<fanart>http://ignoreme</fanart>
 <link>http://nflsvglagame1-i.akamaihd.net/hls/live/223206/NFL_Mobile/2015Mobile_NFLN_2000k.m3u8</link>
-   <externallink>http://nflsvglagame1-i.akamaihd.net/hls/live/223206/NFL_Mobile/2015Mobile_NFLN_2000k.m3u8</externallink>
-</channel>
-  </channels>
+<externallink>http://nflsvglagame1-i.akamaihd.net/hls/live/223206/NFL_Mobile/2015Mobile_NFLN_2000k.m3u8</externallink>
 
