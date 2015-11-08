@@ -1,4 +1,4 @@
-version=1
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 background=https://nebula.wsimg.com/6e2b3189a9bab77d472be0f53d6f8778?AccessKeyId=5C492C2ED8413FC742A8&disposition=0&alloworigin=1
 title=HAMMY 40 MULTI CHANNELS
 logo=http://i668.photobucket.com/albums/vv50/Sharpiez-ily/HammyLogo.jpg
